@@ -1,0 +1,502 @@
+[
+ {
+  "word": "את",
+  "readings": [
+   {
+    "vowelled": "אֶת",
+    "count": 49,
+    "first": "2:0"
+   },
+   {
+    "vowelled": "אַתְּ",
+    "count": 23,
+    "first": "3:3"
+   }
+  ]
+ },
+ {
+  "word": "ברחוב",
+  "readings": [
+   {
+    "vowelled": "בִּרְחוֹב",
+    "count": 2,
+    "first": "2:1"
+   },
+   {
+    "vowelled": "בָּרְחוֹב",
+    "count": 3,
+    "first": "5:1"
+   }
+  ]
+ },
+ {
+  "word": "שקט",
+  "readings": [
+   {
+    "vowelled": "שָׁקֵט",
+    "count": 2,
+    "first": "2:1"
+   },
+   {
+    "vowelled": "שֶׁקֶט",
+    "count": 1,
+    "first": "17:1"
+   }
+  ]
+ },
+ {
+  "word": "שנה",
+  "readings": [
+   {
+    "vowelled": "שֵׁנָה",
+    "count": 1,
+    "first": "2:1"
+   },
+   {
+    "vowelled": "שָׁנָה",
+    "count": 7,
+    "first": "11:3"
+   }
+  ]
+ },
+ {
+  "word": "החדש",
+  "readings": [
+   {
+    "vowelled": "הֶחָדָשׁ",
+    "count": 2,
+    "first": "2:2"
+   },
+   {
+    "vowelled": "הַחֹדֶשׁ",
+    "count": 2,
+    "first": "21:0"
+   }
+  ]
+ },
+ {
+  "word": "אחר",
+  "readings": [
+   {
+    "vowelled": "אַחַר",
+    "count": 6,
+    "first": "3:4"
+   },
+   {
+    "vowelled": "אַחֵר",
+    "count": 1,
+    "first": "24:5"
+   }
+  ]
+ },
+ {
+  "word": "כל",
+  "readings": [
+   {
+    "vowelled": "כֹּל",
+    "count": 1,
+    "first": "4:0"
+   },
+   {
+    "vowelled": "כָּל",
+    "count": 10,
+    "first": "8:3"
+   }
+  ]
+ },
+ {
+  "word": "חם",
+  "readings": [
+   {
+    "vowelled": "חַם",
+    "count": 4,
+    "first": "5:0"
+   },
+   {
+    "vowelled": "חֹם",
+    "count": 2,
+    "first": "26:1"
+   }
+  ]
+ },
+ {
+  "word": "חדש",
+  "readings": [
+   {
+    "vowelled": "חָדָשׁ",
+    "count": 6,
+    "first": "5:1"
+   },
+   {
+    "vowelled": "חֹדֶשׁ",
+    "count": 1,
+    "first": "32:2"
+   }
+  ]
+ },
+ {
+  "word": "מדף",
+  "readings": [
+   {
+    "vowelled": "מַדַּף",
+    "count": 1,
+    "first": "6:1"
+   },
+   {
+    "vowelled": "מַדָּף",
+    "count": 2,
+    "first": "41:1"
+   }
+  ]
+ },
+ {
+  "word": "שלך",
+  "readings": [
+   {
+    "vowelled": "שֶׁלָּךְ",
+    "count": 3,
+    "first": "7:1"
+   },
+   {
+    "vowelled": "שֶׁלְּךָ",
+    "count": 4,
+    "first": "26:4"
+   }
+  ]
+ },
+ {
+  "word": "אותך",
+  "readings": [
+   {
+    "vowelled": "אוֹתְךָ",
+    "count": 3,
+    "first": "7:4"
+   },
+   {
+    "vowelled": "אוֹתָךְ",
+    "count": 2,
+    "first": "33:1"
+   }
+  ]
+ },
+ {
+  "word": "בית",
+  "readings": [
+   {
+    "vowelled": "בֵּית",
+    "count": 3,
+    "first": "8:2"
+   },
+   {
+    "vowelled": "בַּיִת",
+    "count": 1,
+    "first": "41:0"
+   }
+  ]
+ },
+ {
+  "word": "רוצה",
+  "readings": [
+   {
+    "vowelled": "רוֹצָה",
+    "count": 6,
+    "first": "8:2"
+   },
+   {
+    "vowelled": "רוֹצֶה",
+    "count": 1,
+    "first": "21:2"
+   }
+  ]
+ },
+ {
+  "word": "בבקר",
+  "readings": [
+   {
+    "vowelled": "בַּבֹּקֶר",
+    "count": 5,
+    "first": "8:2"
+   },
+   {
+    "vowelled": "בְּבֹקֶר",
+    "count": 1,
+    "first": "19:0"
+   }
+  ]
+ },
+ {
+  "word": "חדשים",
+  "readings": [
+   {
+    "vowelled": "חֲדָשִׁים",
+    "count": 6,
+    "first": "8:3"
+   },
+   {
+    "vowelled": "חֳדָשִׁים",
+    "count": 1,
+    "first": "16:0"
+   },
+   {
+    "vowelled": "חָדְשַׁיִם",
+    "count": 1,
+    "first": "42:2"
+   }
+  ]
+ },
+ {
+  "word": "רואה",
+  "readings": [
+   {
+    "vowelled": "רוֹאָה",
+    "count": 3,
+    "first": "10:1"
+   },
+   {
+    "vowelled": "רוֹאֶה",
+    "count": 1,
+    "first": "39:6"
+   }
+  ]
+ },
+ {
+  "word": "עליך",
+  "readings": [
+   {
+    "vowelled": "עָלַיִךְ",
+    "count": 1,
+    "first": "11:0"
+   },
+   {
+    "vowelled": "עָלֶיךָ",
+    "count": 1,
+    "first": "22:4"
+   }
+  ]
+ },
+ {
+  "word": "לעבודה",
+  "readings": [
+   {
+    "vowelled": "לַעֲבוֹדָה",
+    "count": 1,
+    "first": "11:1"
+   },
+   {
+    "vowelled": "לָעֲבוֹדָה",
+    "count": 2,
+    "first": "13:2"
+   }
+  ]
+ },
+ {
+  "word": "בשבוע",
+  "readings": [
+   {
+    "vowelled": "בַּשָּׁבוּעַ",
+    "count": 2,
+    "first": "11:1"
+   },
+   {
+    "vowelled": "בְּשָׁבוּעַ",
+    "count": 1,
+    "first": "44:0"
+   }
+  ]
+ },
+ {
+  "word": "במשרד",
+  "readings": [
+   {
+    "vowelled": "בְּמִשְׂרַד",
+    "count": 1,
+    "first": "11:1"
+   },
+   {
+    "vowelled": "בַּמִּשְׂרָד",
+    "count": 1,
+    "first": "16:0"
+   }
+  ]
+ },
+ {
+  "word": "ואת",
+  "readings": [
+   {
+    "vowelled": "וְאֶת",
+    "count": 3,
+    "first": "12:3"
+   },
+   {
+    "vowelled": "וְאַתְּ",
+    "count": 1,
+    "first": "34:0"
+   }
+  ]
+ },
+ {
+  "word": "לך",
+  "readings": [
+   {
+    "vowelled": "לָךְ",
+    "count": 7,
+    "first": "12:5"
+   },
+   {
+    "vowelled": "לְךָ",
+    "count": 4,
+    "first": "19:5"
+   }
+  ]
+ },
+ {
+  "word": "ברחובות",
+  "readings": [
+   {
+    "vowelled": "בִּרְחוֹבוֹת",
+    "count": 1,
+    "first": "14:1"
+   },
+   {
+    "vowelled": "בָּרְחוֹבוֹת",
+    "count": 1,
+    "first": "30:1"
+   }
+  ]
+ },
+ {
+  "word": "תה",
+  "readings": [
+   {
+    "vowelled": "תֶּה",
+    "count": 3,
+    "first": "17:2"
+   },
+   {
+    "vowelled": "תֵּה",
+    "count": 1,
+    "first": "25:2"
+   }
+  ]
+ },
+ {
+  "word": "לשוק",
+  "readings": [
+   {
+    "vowelled": "לְשׁוּק",
+    "count": 1,
+    "first": "18:3"
+   },
+   {
+    "vowelled": "לַשּׁוּק",
+    "count": 1,
+    "first": "19:3"
+   }
+  ]
+ },
+ {
+  "word": "בבית",
+  "readings": [
+   {
+    "vowelled": "בַּבַּיִת",
+    "count": 7,
+    "first": "21:0"
+   },
+   {
+    "vowelled": "בְּבֵית",
+    "count": 2,
+    "first": "44:1"
+   }
+  ]
+ },
+ {
+  "word": "לבית",
+  "readings": [
+   {
+    "vowelled": "לַבַּיִת",
+    "count": 2,
+    "first": "22:0"
+   },
+   {
+    "vowelled": "לְבֵית",
+    "count": 3,
+    "first": "27:4"
+   }
+  ]
+ },
+ {
+  "word": "חולה",
+  "readings": [
+   {
+    "vowelled": "חוֹלָה",
+    "count": 1,
+    "first": "25:3"
+   },
+   {
+    "vowelled": "חוֹלֶה",
+    "count": 2,
+    "first": "26:1"
+   }
+  ]
+ },
+ {
+  "word": "דני",
+  "readings": [
+   {
+    "vowelled": "דֵּנִי",
+    "count": 1,
+    "first": "32:1"
+   },
+   {
+    "vowelled": "דָּנִי",
+    "count": 1,
+    "first": "43:3"
+   }
+  ]
+ },
+ {
+  "word": "יקרה",
+  "readings": [
+   {
+    "vowelled": "יְקָרָה",
+    "count": 1,
+    "first": "33:1"
+   },
+   {
+    "vowelled": "יִקְרֶה",
+    "count": 1,
+    "first": "45:1"
+   }
+  ]
+ },
+ {
+  "word": "בחצר",
+  "readings": [
+   {
+    "vowelled": "בַּחֲצַר",
+    "count": 1,
+    "first": "42:1"
+   },
+   {
+    "vowelled": "בֶּחָצֵר",
+    "count": 1,
+    "first": "46:3"
+   }
+  ]
+ },
+ {
+  "word": "פעמים",
+  "readings": [
+   {
+    "vowelled": "פְּעָמִים",
+    "count": 1,
+    "first": "43:3"
+   },
+   {
+    "vowelled": "פַּעֲמַיִם",
+    "count": 1,
+    "first": "44:0"
+   }
+  ]
+ }
+]
