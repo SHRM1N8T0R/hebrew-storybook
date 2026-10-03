@@ -1,0 +1,1059 @@
+[
+ {
+  "page": 1,
+  "he": "לעבור",
+  "en": "to move / pass",
+  "status": "maybe",
+  "formsOnPage": [
+   "עברה ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   11
+  ]
+ },
+ {
+  "page": 1,
+  "he": "ארגז",
+  "en": "box / crate",
+  "status": "likely",
+  "formsOnPage": [
+   "בארגזים",
+   "ארגזים",
+   "וארגזים"
+  ],
+  "phrase": null,
+  "otherPages": [
+   3,
+   4,
+   42,
+   45
+  ]
+ },
+ {
+  "page": 1,
+  "he": "עד היום",
+  "en": "until today",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "עד היום",
+  "otherPages": []
+ },
+ {
+  "page": 3,
+  "he": "להגיע",
+  "en": "to arrive",
+  "status": "maybe",
+  "formsOnPage": [
+   "הגעת ~",
+   "הגעתי ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   16
+  ]
+ },
+ {
+  "page": 3,
+  "he": "להבטיח",
+  "en": "to promise",
+  "status": "maybe",
+  "formsOnPage": [
+   "מבטיחה ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 3,
+  "he": "להיזהר",
+  "en": "to be careful",
+  "status": "maybe",
+  "formsOnPage": [
+   "אזהר ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 4,
+  "he": "להתגעגע",
+  "en": "to miss (someone)",
+  "status": "maybe",
+  "formsOnPage": [
+   "מתגעגעת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 5,
+  "he": "לצאת",
+  "en": "to go out",
+  "status": "maybe",
+  "formsOnPage": [
+   "יוצאת ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   27,
+   34
+  ]
+ },
+ {
+  "page": 5,
+  "he": "ללבוש",
+  "en": "to wear",
+  "status": "maybe",
+  "formsOnPage": [
+   "לובשת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 5,
+  "he": "נעים",
+  "en": "pleasant",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   8,
+   10,
+   16,
+   17
+  ]
+ },
+ {
+  "page": 6,
+  "he": "לחפש",
+  "en": "to look for",
+  "status": "maybe",
+  "formsOnPage": [
+   "ומחפשת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 6,
+  "he": "לחם מלא",
+  "en": "whole-wheat bread",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "לחם מלא",
+  "otherPages": []
+ },
+ {
+  "page": 7,
+  "he": "לחכות",
+  "en": "to wait",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 7,
+  "he": "לכשכש בזנב",
+  "en": "to wag the tail",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "לכשכש + בזנב",
+  "otherPages": []
+ },
+ {
+  "page": 8,
+  "he": "ברוכה הבאה",
+  "en": "welcome (f.)",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ברוכה הבאה",
+  "otherPages": []
+ },
+ {
+  "page": 8,
+  "he": "פינה",
+  "en": "corner",
+  "status": "likely",
+  "formsOnPage": [
+   "בפינת"
+  ],
+  "phrase": null,
+  "otherPages": [
+   10
+  ]
+ },
+ {
+  "page": 8,
+  "he": "להפתיע",
+  "en": "to surprise",
+  "status": "maybe",
+  "formsOnPage": [
+   "מופתעת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 8,
+  "he": "להתחלף",
+  "en": "to exchange",
+  "status": "maybe",
+  "formsOnPage": [
+   "מתחלפות ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 9,
+  "he": "להתעורר",
+  "en": "to wake up",
+  "status": "maybe",
+  "formsOnPage": [
+   "מתעוררת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 9,
+  "he": "להיזכר",
+  "en": "to remember",
+  "status": "maybe",
+  "formsOnPage": [
+   "זוכרת ~",
+   "נזכרת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 9,
+  "he": "להסתרק",
+  "en": "to comb hair",
+  "status": "maybe",
+  "formsOnPage": [
+   "מסתרקת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 10,
+  "he": "כיסא",
+  "en": "chair",
+  "status": "likely",
+  "formsOnPage": [
+   "וכיסאות"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 10,
+  "he": "נוח",
+  "en": "comfortable",
+  "status": "likely",
+  "formsOnPage": [
+   "נוחים"
+  ],
+  "phrase": null,
+  "otherPages": [
+   29
+  ]
+ },
+ {
+  "page": 10,
+  "he": "טרי",
+  "en": "fresh",
+  "status": "likely",
+  "formsOnPage": [
+   "טריות"
+  ],
+  "phrase": null,
+  "otherPages": [
+   20,
+   23,
+   38
+  ]
+ },
+ {
+  "page": 10,
+  "he": "להתיישב",
+  "en": "to sit down",
+  "status": "maybe",
+  "formsOnPage": [
+   "יושבת ~",
+   "מתיישבת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 11,
+  "he": "לספר",
+  "en": "to tell",
+  "status": "maybe",
+  "formsOnPage": [
+   "ספרי ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   4,
+   31,
+   40,
+   41
+  ]
+ },
+ {
+  "page": 11,
+  "he": "עורך דין",
+  "en": "lawyer",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 12,
+  "he": "לזכור",
+  "en": "to remember",
+  "status": "maybe",
+  "formsOnPage": [
+   "זוכרת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 12,
+  "he": "עצוב",
+  "en": "sad",
+  "status": "likely",
+  "formsOnPage": [
+   "עצובה"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 12,
+  "he": "מלא",
+  "en": "full",
+  "status": "likely",
+  "formsOnPage": [
+   "מלאים"
+  ],
+  "phrase": null,
+  "otherPages": [
+   1,
+   6,
+   7,
+   10
+  ]
+ },
+ {
+  "page": 13,
+  "he": "לחוץ",
+  "en": "stressed / tense",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   5,
+   46
+  ]
+ },
+ {
+  "page": 13,
+  "he": "לחכות",
+  "en": "to wait",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 14,
+  "he": "להחזיק",
+  "en": "to hold",
+  "status": "maybe",
+  "formsOnPage": [
+   "מחזיקה ~",
+   "חזק ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 14,
+  "he": "חנות",
+  "en": "store",
+  "status": "likely",
+  "formsOnPage": [
+   "חנויות"
+  ],
+  "phrase": null,
+  "otherPages": [
+   30
+  ]
+ },
+ {
+  "page": 14,
+  "he": "ממהר",
+  "en": "hurrying / in a rush",
+  "status": "likely",
+  "formsOnPage": [
+   "ממהרים"
+  ],
+  "phrase": null,
+  "otherPages": [
+   8,
+   13,
+   21
+  ]
+ },
+ {
+  "page": 14,
+  "he": "לרדת",
+  "en": "to get off / go down",
+  "status": "maybe",
+  "formsOnPage": [
+   "יורדת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 15,
+  "he": "נחמד",
+  "en": "nice",
+  "status": "likely",
+  "formsOnPage": [
+   "נחמדה"
+  ],
+  "phrase": null,
+  "otherPages": [
+   31
+  ]
+ },
+ {
+  "page": 15,
+  "he": "לקבל",
+  "en": "to receive / welcome",
+  "status": "maybe",
+  "formsOnPage": [
+   "מקבלת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 16,
+  "he": "להציג",
+  "en": "to introduce",
+  "status": "maybe",
+  "formsOnPage": [
+   "מציגה ~",
+   "הצעיר ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 16,
+  "he": "רגוע",
+  "en": "calm / relaxed",
+  "status": "likely",
+  "formsOnPage": [
+   "רגועה"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 17,
+  "he": "עייף",
+  "en": "tired",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 17,
+  "he": "ללמוד",
+  "en": "to learn / study",
+  "status": "maybe",
+  "formsOnPage": [
+   "למדה ~",
+   "הלימון ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 17,
+  "he": "לעלות",
+  "en": "to rise / go up",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   25
+  ]
+ },
+ {
+  "page": 18,
+  "he": "להאמין",
+  "en": "to believe",
+  "status": "maybe",
+  "formsOnPage": [
+   "תאמיני ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   38
+  ]
+ },
+ {
+  "page": 18,
+  "he": "רגילה",
+  "en": "used to / accustomed",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   19
+  ]
+ },
+ {
+  "page": 19,
+  "he": "לעזור",
+  "en": "to help",
+  "status": "maybe",
+  "formsOnPage": [
+   "אעזור ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 20,
+  "he": "צבעים",
+  "en": "colors",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   37
+  ]
+ },
+ {
+  "page": 20,
+  "he": "אשתו",
+  "en": "his wife",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 20,
+  "he": "מעולה",
+  "en": "excellent",
+  "status": "likely",
+  "formsOnPage": [
+   "מעולים"
+  ],
+  "phrase": null,
+  "otherPages": [
+   17
+  ]
+ },
+ {
+  "page": 21,
+  "he": "להרגיש",
+  "en": "to feel",
+  "status": "maybe",
+  "formsOnPage": [
+   "הרגישה ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 21,
+  "he": "להציע",
+  "en": "to suggest / offer",
+  "status": "maybe",
+  "formsOnPage": [
+   "הציעה ~",
+   "להפריע ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 22,
+  "he": "לקחת",
+  "en": "to take",
+  "status": "likely",
+  "formsOnPage": [
+   "לקחה"
+  ],
+  "phrase": null,
+  "otherPages": [
+   29,
+   36,
+   39
+  ]
+ },
+ {
+  "page": 22,
+  "he": "זר פרחים",
+  "en": "bouquet of flowers",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "זר פרחים",
+  "otherPages": []
+ },
+ {
+  "page": 22,
+  "he": "לחבק",
+  "en": "to hug",
+  "status": "maybe",
+  "formsOnPage": [
+   "וחיבקה ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 24,
+  "he": "כל החיים",
+  "en": "all my life",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "כל החיים",
+  "otherPages": []
+ },
+ {
+  "page": 24,
+  "he": "להיוולד",
+  "en": "to be born",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 24,
+  "he": "להקשיב",
+  "en": "to listen",
+  "status": "maybe",
+  "formsOnPage": [
+   "הקשיבה ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 25,
+  "he": "לכאוב",
+  "en": "to hurt",
+  "status": "maybe",
+  "formsOnPage": [
+   "כאב ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 26,
+  "he": "להתקשר",
+  "en": "to call",
+  "status": "maybe",
+  "formsOnPage": [
+   "התקשרה ~",
+   "תישארי ~",
+   "תתקשרי ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 26,
+  "he": "מצטער",
+  "en": "sorry",
+  "status": "likely",
+  "formsOnPage": [
+   "מצטערת"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 26,
+  "he": "לנוח",
+  "en": "to rest",
+  "status": "maybe",
+  "formsOnPage": [
+   "בטוחה ~",
+   "תנוחי ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 27,
+  "he": "בית מרקחת",
+  "en": "pharmacy",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "בית מרקחת",
+  "otherPages": []
+ },
+ {
+  "page": 27,
+  "he": "לתכנן",
+  "en": "to plan",
+  "status": "maybe",
+  "formsOnPage": [
+   "מתכננת ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 28,
+  "he": "מרק עוף",
+  "en": "chicken soup",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "מרק עוף",
+  "otherPages": []
+ },
+ {
+  "page": 28,
+  "he": "לחמם",
+  "en": "to heat up",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 29,
+  "he": "רחוק",
+  "en": "far",
+  "status": "likely",
+  "formsOnPage": [
+   "רחוקה"
+  ],
+  "phrase": null,
+  "otherPages": [
+   2,
+   22
+  ]
+ },
+ {
+  "page": 30,
+  "he": "צר",
+  "en": "narrow",
+  "status": "likely",
+  "formsOnPage": [
+   "צרים"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 30,
+  "he": "גלריה",
+  "en": "gallery",
+  "status": "likely",
+  "formsOnPage": [
+   "גלריות"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 31,
+  "he": "להזמין",
+  "en": "to order",
+  "status": "maybe",
+  "formsOnPage": [
+   "הזמינה ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   21
+  ]
+ },
+ {
+  "page": 31,
+  "he": "לגלות",
+  "en": "to discover",
+  "status": "maybe",
+  "formsOnPage": [
+   "לראות ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 32,
+  "he": "דרך",
+  "en": "way / road",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   27,
+   29,
+   39,
+   45
+  ]
+ },
+ {
+  "page": 33,
+  "he": "לענות",
+  "en": "to answer",
+  "status": "maybe",
+  "formsOnPage": [
+   "ענתה ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   21
+  ]
+ },
+ {
+  "page": 33,
+  "he": "תודה לאל",
+  "en": "thank God",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "תודה לאל",
+  "otherPages": []
+ },
+ {
+  "page": 34,
+  "he": "מאושר",
+  "en": "happy",
+  "status": "likely",
+  "formsOnPage": [
+   "מאושרת"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 34,
+  "he": "מבקרת",
+  "en": "visits (fem.)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 35,
+  "he": "עוגה",
+  "en": "cake",
+  "status": "likely",
+  "formsOnPage": [
+   "עוגת"
+  ],
+  "phrase": null,
+  "otherPages": [
+   31,
+   34,
+   38,
+   40
+  ]
+ },
+ {
+  "page": 35,
+  "he": "יום חופש",
+  "en": "day off",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "יום חופש",
+  "otherPages": []
+ },
+ {
+  "page": 35,
+  "he": "לשנות",
+  "en": "to change",
+  "status": "maybe",
+  "formsOnPage": [
+   "לעשות ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 36,
+  "he": "לחבק",
+  "en": "to hug",
+  "status": "maybe",
+  "formsOnPage": [
+   "וחיבקה ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 37,
+  "he": "מגניב",
+  "en": "cool",
+  "status": "likely",
+  "formsOnPage": [
+   "מגניבה"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 40,
+  "he": "לבכות",
+  "en": "to cry",
+  "status": "maybe",
+  "formsOnPage": [
+   "ברכבת ~",
+   "בכתה ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 40,
+  "he": "לסמן",
+  "en": "to mark",
+  "status": "maybe",
+  "formsOnPage": [
+   "מסומן ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 41,
+  "he": "לנשום",
+  "en": "to breathe",
+  "status": "maybe",
+  "formsOnPage": [
+   "שכולם ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 42,
+  "he": "אחר",
+  "en": "different / other",
+  "status": "likely",
+  "formsOnPage": [
+   "אחרת"
+  ],
+  "phrase": null,
+  "otherPages": [
+   3,
+   4,
+   5,
+   7
+  ]
+ },
+ {
+  "page": 43,
+  "he": "להתקדם",
+  "en": "to advance",
+  "status": "maybe",
+  "formsOnPage": [
+   "התקדמה ~",
+   "תפקידים ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 43,
+  "he": "תפקיד",
+  "en": "role / position",
+  "status": "likely",
+  "formsOnPage": [
+   "תפקידים"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 43,
+  "he": "להתפתח",
+  "en": "to develop",
+  "status": "maybe",
+  "formsOnPage": [
+   "והתפתחה ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 44,
+  "he": "לבנות",
+  "en": "to build",
+  "status": "maybe",
+  "formsOnPage": [
+   "בנתה ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 44,
+  "he": "לשכוח",
+  "en": "to forget",
+  "status": "maybe",
+  "formsOnPage": [
+   "שכחה ~",
+   "בשכונה ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 45,
+  "he": "בסך הכל",
+  "en": "overall / all in all",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "בסך הכל",
+  "otherPages": []
+ },
+ {
+  "page": 46,
+  "he": "לשלם",
+  "en": "to pay",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": []
+ },
+ {
+  "page": 46,
+  "he": "לעצור",
+  "en": "to stop",
+  "status": "maybe",
+  "formsOnPage": [
+   "עצרה ~"
+  ],
+  "phrase": null,
+  "otherPages": []
+ }
+]
