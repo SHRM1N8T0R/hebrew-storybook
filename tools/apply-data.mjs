@@ -1,15 +1,16 @@
 // Embeds the pre-built reading data into index.html, between two marker comments, so the app never
 // has to ask Dicta or guess a transliteration while someone reads.
 //
-//   node tools/build-nikud.mjs     (once, or when the story text changes)  -> tools/nikud-cache.json
-//   node tools/apply-data.mjs                                               -> writes the block into index.html
+//   node tools/build-nikud.mjs     (once, or when story text changes)  -> tools/nikud-cache.json
+//   node tools/apply-data.mjs                                           -> rewrites the block in index.html
 //
-// Inputs:  tools/nikud-cache.json        vowelled paragraphs, key "<page>:<paragraph>"
-//          tools/nikud-overrides.json    hand fixes, key "<page>:<paragraph>:<word index>" -> vowelled word
+// Inputs:  tools/nikud-cache.json        vowelled paragraphs, key "<storyId>|<page>:<paragraph>"
+//          tools/nikud-overrides.json    hand fixes, key "<storyId>|<page>:<paragraph>:<word index>" -> vowelled token
 //          tools/translit-overrides.json hand fixes for transliteration, key vowelled word -> latin
-// Output block (inside the storiesData script, right after STORIES):
-//   const STORY_NIKUD   = { "<page>:<paragraph>": "vowelled paragraph" }
-//   const STORY_TRANSLIT = { "<vowelled word without punctuation>": "latin" }
+//          tools/glosses.json            short English meaning per vowelled word (shared by all stories)
+//          tools/vocab-fixes.json        vocabulary corrections, each tagged with its story
+// Output block (inside the storiesData script, after all the stories are defined):
+//   STORY_NIKUD, STORY_TRANSLIT, STORY_GLOSS, VOCAB_FIXES (+ the code that applies them)
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
@@ -46,34 +47,25 @@ const STORY_GLOSS = ${JSON.stringify(gloss)};
 // named the wrong word, a word used on a different page, a word not in the story. Applied once, at load.
 const VOCAB_FIXES = ${JSON.stringify(vfix)};
 (function applyVocabFixes() {
-  const pages = STORIES[0].pages;
-  const find = (p, he) => (pages[p].vocab || []).findIndex((v) => v.he === he);
-  VOCAB_FIXES.replace.forEach((r) => { const i = find(r.page, r.he); if (i >= 0) pages[r.page].vocab[i] = Object.assign({}, r.with); });
-  VOCAB_FIXES.remove.forEach((r) => { const i = find(r.page, r.he); if (i >= 0) pages[r.page].vocab.splice(i, 1); });
-  VOCAB_FIXES.move.forEach((m) => { const i = find(m.from, m.he); if (i >= 0) { const v = pages[m.from].vocab.splice(i, 1)[0]; pages[m.to].vocab = pages[m.to].vocab || []; if (find(m.to, m.he) < 0) pages[m.to].vocab.push(v); } });
-  VOCAB_FIXES.forms.forEach((f) => { const i = find(f.page, f.he); if (i >= 0) pages[f.page].vocab[i].forms = f.forms; });
+  const story = (id) => STORIES.find((s) => s.id === (id || 'apartment'));
+  const find = (pages, p, he) => (pages[p].vocab || []).findIndex((v) => v.he === he);
+  VOCAB_FIXES.replace.forEach((r) => { const pg = story(r.story).pages; const i = find(pg, r.page, r.he); if (i >= 0) pg[r.page].vocab[i] = Object.assign({}, r.with); });
+  VOCAB_FIXES.remove.forEach((r) => { const pg = story(r.story).pages; const i = find(pg, r.page, r.he); if (i >= 0) pg[r.page].vocab.splice(i, 1); });
+  VOCAB_FIXES.move.forEach((m) => { const pg = story(m.story).pages; const i = find(pg, m.from, m.he); if (i >= 0) { const v = pg[m.from].vocab.splice(i, 1)[0]; pg[m.to].vocab = pg[m.to].vocab || []; if (find(pg, m.to, m.he) < 0) pg[m.to].vocab.push(v); } });
+  VOCAB_FIXES.forms.forEach((f) => { const pg = story(f.story).pages; const i = find(pg, f.page, f.he); if (i >= 0) pg[f.page].vocab[i].forms = f.forms; });
 })();
 // <<END STORY_NIKUD>>`
 
 const file = path.join(here, '..', 'index.html')
 let html = fs.readFileSync(file, 'utf8')
 const mark = /\/\/ <<STORY_NIKUD>>[\s\S]*?\/\/ <<END STORY_NIKUD>>/
-if (mark.test(html)) html = html.replace(mark, () => block)
-else {
-  // first run: place it straight after the STORIES array (string-aware bracket match)
-  const sIdx = html.indexOf('const STORIES = [')
-  let i = html.indexOf('[', sIdx), depth = 0, q = null, esc = false
-  for (; i < html.length; i++) {
-    const c = html[i]
-    if (q) { if (esc) esc = false; else if (c === '\\') esc = true; else if (c === q) q = null; continue }
-    if (c === '"' || c === "'" || c === '`') { q = c; continue }
-    if (c === '/' && html[i + 1] === '/') { while (html[i] !== '\n' && i < html.length) i++; continue }
-    if (c === '[') depth++
-    else if (c === ']') { depth--; if (depth === 0) break }
-  }
-  const semi = html.indexOf(';', i)
-  html = html.slice(0, semi + 1) + '\n\n' + block + html.slice(semi + 1)
-}
+// The block goes right after the LAST story is registered (STORIES.push(...)), because the vocab fixes look
+// stories up by id. Remove any earlier copy first, then insert after the last push.
+html = html.replace(mark, '')
+const lastPush = html.lastIndexOf('STORIES.push(')
+if (lastPush < 0) throw new Error('no STORIES.push found in index.html')
+const semi = html.indexOf(';', lastPush)
+html = html.slice(0, semi + 1) + '\n\n' + block + html.slice(semi + 1)
 fs.writeFileSync(file, html)
-console.log('vocab fixes:', vfix.forms.length + ' forms, ' + vfix.replace.length + ' replaced, ' + vfix.move.length + ' moved, ' + vfix.remove.length + ' removed');
-console.log('paragraphs', Object.keys(nikud).length, '| transliteration entries', Object.keys(table).length, '| hand fixes applied', Object.keys(fixes).length)
+console.log('vocab fixes:', vfix.forms.length + ' forms, ' + vfix.replace.length + ' replaced, ' + vfix.move.length + ' moved, ' + vfix.remove.length + ' removed')
+console.log('paragraphs', Object.keys(nikud).length, '| transliteration entries', Object.keys(table).length, '| glosses', Object.keys(gloss).length, '| hand fixes applied', Object.keys(fixes).length)

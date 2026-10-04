@@ -45,9 +45,9 @@ const fixes = {
 let n = 0
 for (const [k, to] of Object.entries(fixes)) {
   const [p, q, w] = k.split(':')
-  const tok = cache[p + ':' + q].split(/\s+/)[Number(w)]
+  const tok = cache['apartment|' + p + ':' + q].split(/\s+/)[Number(w)]
   const core = tok.replace(PUNCT, '')
-  ov[k] = tok.replace(core, to)
+  ov['apartment|' + k] = tok.replace(core, to)
   n++
 }
 fs.writeFileSync(file, JSON.stringify(ov, null, 1))
