@@ -1334,19 +1334,20 @@ body::before{display:none}
 .hfz-bar nav a.hfz-cta:hover{background:var(--hfz-blue-dark);color:#fff}
 /* hero */
 .menu-view{padding:0}
-.menu-header{position:relative;text-align:center;padding:2.6rem 24px 6.2rem;margin-bottom:0;direction:ltr;animation:none}
+.menu-header{position:relative;text-align:center;padding:2.6rem 24px calc(clamp(80px,11vw,150px) + 2.2rem);margin-bottom:0;direction:ltr;animation:none}
 .hfz-pill{display:inline-block;background:var(--hfz-yellow-light);color:#8a6d00;font-weight:800;font-size:.72rem;letter-spacing:.09em;text-transform:uppercase;border-radius:100px;padding:6px 14px;border:1px solid #f2e49a}
-.menu-title{font-family:'Heebo',sans-serif;font-weight:800;color:var(--hfz-blue);font-size:clamp(2.6rem,7vw,4.4rem);line-height:1.1;margin:.9rem 0 .3rem;direction:rtl}
-.menu-title .u{background:linear-gradient(transparent 70%,var(--hfz-yellow) 70%)}
+.menu-title{font-family:'Heebo',sans-serif;font-weight:800;color:var(--hfz-blue);font-size:clamp(2.4rem,6vw,3.9rem);line-height:1.1;margin:.9rem 0 .4rem;direction:rtl;position:relative;z-index:1}
+.menu-title .u{color:var(--red);display:inline-block;position:relative}
+.menu-title .u::after{content:"";position:absolute;bottom:2px;left:0;right:0;height:6px;background:var(--hfz-yellow);border-radius:3px;z-index:-1}
 .menu-subtitle{font-weight:800;font-size:1.25rem;color:var(--text);letter-spacing:0}
 .menu-divider{display:none}
 .menu-description{max-width:34rem;margin:.7rem auto 0;color:var(--text-2);font-weight:600;font-size:1rem;line-height:1.6}
 .hfz-chips{display:flex;gap:.6rem;justify-content:center;flex-wrap:wrap;margin-top:1.4rem}
 .hfz-chips span{background:#fff;border:1px solid var(--border);border-radius:100px;padding:7px 14px;font-size:.88rem;font-weight:700;color:var(--hfz-blue-dark)}
 .hfz-chips span:before{content:'\2713';color:var(--red);margin-inline-end:7px;font-weight:900}
-.hfz-wave{position:absolute;left:0;right:0;bottom:-1px;width:100%;height:70px}
+.hfz-wave{position:absolute;left:0;bottom:0;width:100%;height:clamp(80px,11vw,150px);pointer-events:none;display:block}
 /* list */
-#storiesGrid{padding:0 24px}
+#storiesGrid{padding:2rem 24px 0}
 .level-section-header{margin-bottom:1rem}
 .level-section-label{background:var(--hfz-blue) !important;color:#fff !important;border:0 !important;border-radius:100px;padding:5px 15px;font-size:.85rem;letter-spacing:.04em}
 .level-section-count{font-size:.85rem;color:var(--text-2);font-weight:700;font-family:'Nunito',sans-serif}
@@ -1428,7 +1429,7 @@ body::before{display:none}
 @media (max-width:900px){.hfz-cols{grid-template-columns:1fr 1fr}.hfz-brand{grid-column:1/-1}}
 @media (max-width:640px){
  .hfz-bar{padding:6px 1rem}.hfz-bar nav a:not(.hfz-cta){display:none}.hfz-bar nav a.hfz-cta{padding:9px 16px;font-size:.84rem}
- .menu-header{padding:1.6rem 16px 5rem}#storiesGrid{padding:0 16px}
+ .menu-header{padding:1.6rem 16px calc(clamp(80px,11vw,150px) + 1.6rem)}#storiesGrid{padding:1.6rem 16px 0}
  .hfz-footer{padding:4rem 1.2rem 2rem}
  .header{padding:6px 12px}.header-subtitle{display:none}
 }
@@ -1447,7 +1448,7 @@ body::before{display:none}
 <div class="menu-divider"></div>
 <p class="menu-description">Read short stories, tap any word to hear it and see what it means, and follow along with the vocabulary for each page.</p>
 <div class="hfz-chips"><span>Tap any word to hear it</span><span>Vocabulary for every page</span><span>Full English translation</span></div>
-<svg class="hfz-wave" viewBox="0 0 1200 70" preserveAspectRatio="none" aria-hidden="true"><path d="M0,40 C220,0 420,70 650,36 C860,6 1020,52 1200,20 L1200,70 L0,70 Z" fill="#FFF3B8"/><path d="M0,56 C260,20 460,76 700,50 C900,28 1050,60 1200,40 L1200,70 L0,70 Z" fill="#FFFBEF"/></svg>
+<svg class="hfz-wave" viewBox="0 0 1280 170" preserveAspectRatio="none" aria-hidden="true" focusable="false"><defs><linearGradient id="hwgS" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#FFDF6B"/><stop offset="1" stop-color="#FFC42E"/></linearGradient></defs><path d="M0 92 C200 36 420 36 660 78 C880 116 1040 96 1280 14 L1280 170 L0 170 Z" fill="url(#hwgS)"/></svg>
 </div>
 
 <div id="storiesGrid" style="width:100%;max-width:1120px;margin:0 auto;">
