@@ -209,13 +209,6 @@
   },
   {
    "page": 14,
-   "he": "חנות",
-   "forms": [
-    "חנויות"
-   ]
-  },
-  {
-   "page": 14,
    "he": "ממהר",
    "forms": [
     "ממהרים"
@@ -289,13 +282,6 @@
    "he": "לעזור",
    "forms": [
     "אעזור"
-   ]
-  },
-  {
-   "page": 20,
-   "he": "צבעים",
-   "forms": [
-    "ובצבעים"
    ]
   },
   {
@@ -550,6 +536,681 @@
    "forms": [
     "אסדר"
    ]
+  },
+  {
+   "story": "cat",
+   "page": 6,
+   "he": "קערה",
+   "forms": [
+    "קערות"
+   ]
+  },
+  {
+   "story": "cat",
+   "page": 7,
+   "he": "לחשוב",
+   "forms": [
+    "חושב"
+   ]
+  },
+  {
+   "story": "cat",
+   "page": 10,
+   "he": "לקפוץ",
+   "forms": [
+    "קפץ"
+   ]
+  },
+  {
+   "story": "cat",
+   "page": 11,
+   "he": "לחפש",
+   "forms": [
+    "חיפש"
+   ]
+  },
+  {
+   "story": "cat",
+   "page": 14,
+   "he": "לצייר",
+   "forms": [
+    "מציירת"
+   ]
+  },
+  {
+   "story": "cat",
+   "page": 16,
+   "he": "לתאר",
+   "forms": [
+    "שתיארת"
+   ]
+  },
+  {
+   "story": "cat",
+   "page": 16,
+   "he": "להתרגש",
+   "forms": [
+    "התרגשה"
+   ]
+  },
+  {
+   "story": "cat",
+   "page": 18,
+   "he": "שקט",
+   "forms": [
+    "שקטה"
+   ]
+  },
+  {
+   "story": "cat",
+   "page": 20,
+   "he": "להגיע",
+   "forms": [
+    "הגיעה"
+   ]
+  },
+  {
+   "story": "cat",
+   "page": 21,
+   "he": "להתרגל",
+   "forms": [
+    "התרגלו"
+   ]
+  },
+  {
+   "story": "cat",
+   "page": 22,
+   "he": "להביא",
+   "forms": [
+    "הביאה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 2,
+   "he": "לסרב",
+   "forms": [
+    "סירב"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 3,
+   "he": "לפרסם",
+   "forms": [
+    "פרסמה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 4,
+   "he": "לנקות",
+   "forms": [
+    "ניקתה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 4,
+   "he": "דופק",
+   "forms": [
+    "דופקת"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 5,
+   "he": "להכיר",
+   "forms": [
+    "הכירה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 5,
+   "he": "לטעום",
+   "forms": [
+    "טעמו"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 5,
+   "he": "להסכים",
+   "forms": [
+    "הסכימו"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 8,
+   "he": "למצוא",
+   "forms": [
+    "מצאו"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 9,
+   "he": "לצבוע",
+   "forms": [
+    "צבעה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 9,
+   "he": "קיר",
+   "forms": [
+    "הקירות",
+    "שהקירות"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 9,
+   "he": "להצליח",
+   "forms": [
+    "נצליח"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 10,
+   "he": "לבחור",
+   "forms": [
+    "בחרו"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 10,
+   "he": "פשוט",
+   "forms": [
+    "פשוטים"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 11,
+   "he": "ריק",
+   "forms": [
+    "ריקה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 12,
+   "he": "להיפתח",
+   "forms": [
+    "נפתחה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 12,
+   "he": "להתאפק",
+   "forms": [
+    "התאפקה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 13,
+   "he": "להאמין",
+   "forms": [
+    "האמינה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 13,
+   "he": "לספר",
+   "forms": [
+    "סיפר"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 15,
+   "he": "לבכות",
+   "forms": [
+    "ובכתה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 16,
+   "he": "לקבל",
+   "forms": [
+    "קיבלו"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 18,
+   "he": "להרגיש",
+   "forms": [
+    "הרגישה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 19,
+   "he": "להזמין",
+   "forms": [
+    "הזמינו"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 21,
+   "he": "להביט",
+   "forms": [
+    "מביטה"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 22,
+   "he": "לסגור",
+   "forms": [
+    "סוגרת"
+   ]
+  },
+  {
+   "story": "restaurant",
+   "page": 22,
+   "he": "רחוב",
+   "forms": [
+    "ברחובות"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 28,
+   "he": "לתכנן",
+   "forms": [
+    "מתכננת"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 12,
+   "he": "לנסוע",
+   "forms": [
+    "נוסעים"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 2,
+   "he": "לשכור",
+   "forms": [
+    "נשכור"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 5,
+   "he": "לעצור",
+   "forms": [
+    "תעצרי",
+    "עוצרת"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 6,
+   "he": "פיתה",
+   "forms": [
+    "פיתות"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 6,
+   "he": "לאכול",
+   "forms": [
+    "אוכלים"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 7,
+   "he": "רחוב",
+   "forms": [
+    "הרחובות"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 13,
+   "he": "לצחוק",
+   "forms": [
+    "צוחקת",
+    "וצוחקת"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 15,
+   "he": "שמיכה",
+   "forms": [
+    "ושמיכות"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 22,
+   "he": "מיוחדת",
+   "forms": [
+    "מיוחדים"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 23,
+   "he": "להתפלל",
+   "forms": [
+    "מתפללים"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 23,
+   "he": "דת",
+   "forms": [
+    "דתית"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 25,
+   "he": "חוזרת",
+   "forms": [
+    "חוזרים"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 27,
+   "he": "לדפדף",
+   "forms": [
+    "מדפדפים"
+   ]
+  },
+  {
+   "story": "trip",
+   "page": 29,
+   "he": "חיי",
+   "forms": [
+    "החיים"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 6,
+   "he": "לשאול",
+   "forms": [
+    "שואל"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 9,
+   "he": "לכאוב",
+   "forms": [
+    "כואב"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 8,
+   "he": "לאסוף",
+   "forms": [
+    "נאסוף"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 9,
+   "he": "ארוחה",
+   "forms": [
+    "ארוחת"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 10,
+   "he": "חזק",
+   "forms": [
+    "חזקות"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 11,
+   "he": "גיל",
+   "forms": [
+    "בגילו"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 12,
+   "he": "לשתוק",
+   "forms": [
+    "שותקים"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 13,
+   "he": "לאהוב",
+   "forms": [
+    "אוהב"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 15,
+   "he": "לבחור",
+   "forms": [
+    "בחרתי"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 15,
+   "he": "לבנות",
+   "forms": [
+    "בניתי"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 19,
+   "he": "שיעור",
+   "forms": [
+    "שיעורים"
+   ]
+  },
+  {
+   "story": "garden",
+   "page": 27,
+   "he": "לטפח",
+   "forms": [
+    "אטפח"
+   ]
+  },
+  {
+   "story": "shlomo",
+   "page": 9,
+   "he": "ישיר",
+   "forms": [
+    "ישירה"
+   ]
+  },
+  {
+   "story": "shlomo",
+   "page": 12,
+   "he": "עמוק",
+   "forms": [
+    "עמוקים"
+   ]
+  },
+  {
+   "story": "shlomo",
+   "page": 14,
+   "he": "לחדש",
+   "forms": [
+    "מחדשים"
+   ]
+  },
+  {
+   "story": "train",
+   "page": 10,
+   "he": "תחנה",
+   "forms": [
+    "לתחנת"
+   ]
+  },
+  {
+   "story": "language",
+   "page": 2,
+   "he": "עמית",
+   "forms": [
+    "עמיתים"
+   ]
+  },
+  {
+   "story": "language",
+   "page": 2,
+   "he": "מוכר",
+   "forms": [
+    "מוכרות"
+   ]
+  },
+  {
+   "story": "language",
+   "page": 5,
+   "he": "לגעגע",
+   "forms": [
+    "מתגעגעת"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 16,
+   "he": "להחליט",
+   "forms": [
+    "שהחליטו"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 2,
+   "he": "להבין",
+   "forms": [
+    "הבינה"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 3,
+   "he": "להסתובב",
+   "forms": [
+    "הסתובבה"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 4,
+   "he": "לחזור",
+   "forms": [
+    "חזרה"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 6,
+   "he": "לסדר",
+   "forms": [
+    "מסודרים"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 8,
+   "he": "מחיר",
+   "forms": [
+    "המחירים"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 11,
+   "he": "לבכות",
+   "forms": [
+    "בכתה"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 15,
+   "he": "בחינה",
+   "forms": [
+    "בחינות"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 16,
+   "he": "להתחבר",
+   "forms": [
+    "התחברו"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 20,
+   "he": "להתקשר",
+   "forms": [
+    "התקשרה"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 19,
+   "he": "לתכנן",
+   "forms": [
+    "שמתכננים"
+   ]
+  },
+  {
+   "story": "aliyah",
+   "page": 26,
+   "he": "להשאיר",
+   "forms": [
+    "שהשארת"
+   ]
+  },
+  {
+   "story": "school",
+   "page": 6,
+   "he": "לגמגם",
+   "forms": [
+    "התגמגם"
+   ]
+  },
+  {
+   "story": "school",
+   "page": 3,
+   "he": "הפסקה",
+   "forms": [
+    "בהפסקת"
+   ]
   }
  ],
  "replace": [
@@ -575,12 +1236,2971 @@
    "from": 18,
    "to": 19,
    "he": "רגילה"
+  },
+  {
+   "story": "cat",
+   "from": 2,
+   "to": 10,
+   "he": "לזוז"
+  },
+  {
+   "story": "cat",
+   "from": 4,
+   "to": 23,
+   "he": "לחייך"
+  },
+  {
+   "story": "cat",
+   "from": 6,
+   "to": 5,
+   "he": "להחליט"
+  },
+  {
+   "story": "cat",
+   "from": 6,
+   "to": 19,
+   "he": "ספר"
+  },
+  {
+   "story": "cat",
+   "from": 8,
+   "to": 19,
+   "he": "לספר"
+  },
+  {
+   "story": "cat",
+   "from": 9,
+   "to": 14,
+   "he": "שגרה"
+  },
+  {
+   "story": "cat",
+   "from": 9,
+   "to": 2,
+   "he": "רעב"
+  },
+  {
+   "story": "cat",
+   "from": 9,
+   "to": 10,
+   "he": "עבודה"
+  },
+  {
+   "story": "cat",
+   "from": 10,
+   "to": 18,
+   "he": "מצחיק"
+  },
+  {
+   "story": "cat",
+   "from": 15,
+   "to": 9,
+   "he": "בדיוק"
+  },
+  {
+   "story": "cat",
+   "from": 15,
+   "to": 16,
+   "he": "לתאר"
+  },
+  {
+   "story": "cat",
+   "from": 15,
+   "to": 18,
+   "he": "מצחיק"
+  },
+  {
+   "story": "cat",
+   "from": 18,
+   "to": 4,
+   "he": "חוזרת"
+  },
+  {
+   "story": "cat",
+   "from": 18,
+   "to": 17,
+   "he": "מרגיש"
+  },
+  {
+   "story": "cat",
+   "from": 18,
+   "to": 1,
+   "he": "שונה"
+  },
+  {
+   "story": "cat",
+   "from": 19,
+   "to": 5,
+   "he": "בניין"
+  },
+  {
+   "story": "cat",
+   "from": 19,
+   "to": 13,
+   "he": "חזק"
+  },
+  {
+   "story": "cat",
+   "from": 20,
+   "to": 14,
+   "he": "שמנה"
+  },
+  {
+   "story": "cat",
+   "from": 21,
+   "to": 4,
+   "he": "קפה"
+  },
+  {
+   "story": "cat",
+   "from": 22,
+   "to": 2,
+   "he": "קטן"
+  },
+  {
+   "story": "cat",
+   "from": 23,
+   "to": 19,
+   "he": "סיפור"
+  },
+  {
+   "story": "cat",
+   "from": 23,
+   "to": 4,
+   "he": "דלת"
+  },
+  {
+   "story": "restaurant",
+   "from": 2,
+   "to": 7,
+   "he": "עצה"
+  },
+  {
+   "story": "restaurant",
+   "from": 4,
+   "to": 10,
+   "he": "מוכן"
+  },
+  {
+   "story": "restaurant",
+   "from": 6,
+   "to": 1,
+   "he": "להעיר"
+  },
+  {
+   "story": "restaurant",
+   "from": 11,
+   "to": 13,
+   "he": "לקוח"
+  },
+  {
+   "story": "restaurant",
+   "from": 15,
+   "to": 16,
+   "he": "מנוחה"
+  },
+  {
+   "story": "restaurant",
+   "from": 16,
+   "to": 1,
+   "he": "עובד"
+  },
+  {
+   "story": "restaurant",
+   "from": 17,
+   "to": 10,
+   "he": "גאה"
+  },
+  {
+   "story": "restaurant",
+   "from": 17,
+   "to": 14,
+   "he": "להזמין"
+  },
+  {
+   "story": "restaurant",
+   "from": 17,
+   "to": 13,
+   "he": "אהבה"
+  },
+  {
+   "story": "restaurant",
+   "from": 19,
+   "to": 13,
+   "he": "מתנה"
+  },
+  {
+   "story": "restaurant",
+   "from": 21,
+   "to": 3,
+   "he": "מחשבה"
+  },
+  {
+   "story": "restaurant",
+   "from": 21,
+   "to": 22,
+   "he": "מספיק"
+  },
+  {
+   "story": "restaurant",
+   "from": 21,
+   "to": 1,
+   "he": "טוב"
+  },
+  {
+   "story": "restaurant",
+   "from": 22,
+   "to": 4,
+   "he": "דלת"
+  },
+  {
+   "story": "trip",
+   "from": 1,
+   "to": 28,
+   "he": "לתכנן"
+  },
+  {
+   "story": "trip",
+   "from": 1,
+   "to": 12,
+   "he": "לנסוע"
+  },
+  {
+   "story": "trip",
+   "from": 2,
+   "to": 1,
+   "he": "דרום"
+  },
+  {
+   "story": "trip",
+   "from": 2,
+   "to": 7,
+   "he": "עיר"
+  },
+  {
+   "story": "trip",
+   "from": 3,
+   "to": 9,
+   "he": "הרבה"
+  },
+  {
+   "story": "trip",
+   "from": 4,
+   "to": 12,
+   "he": "נוף"
+  },
+  {
+   "story": "trip",
+   "from": 5,
+   "to": 10,
+   "he": "אגם"
+  },
+  {
+   "story": "trip",
+   "from": 5,
+   "to": 3,
+   "he": "יפה"
+  },
+  {
+   "story": "trip",
+   "from": 7,
+   "to": 22,
+   "he": "עתיקה"
+  },
+  {
+   "story": "trip",
+   "from": 8,
+   "to": 27,
+   "he": "שמח"
+  },
+  {
+   "story": "trip",
+   "from": 8,
+   "to": 20,
+   "he": "לחיות"
+  },
+  {
+   "story": "trip",
+   "from": 9,
+   "to": 5,
+   "he": "מיטה"
+  },
+  {
+   "story": "trip",
+   "from": 9,
+   "to": 25,
+   "he": "ראשון"
+  },
+  {
+   "story": "trip",
+   "from": 10,
+   "to": 14,
+   "he": "שחייה"
+  },
+  {
+   "story": "trip",
+   "from": 10,
+   "to": 17,
+   "he": "דג"
+  },
+  {
+   "story": "trip",
+   "from": 11,
+   "to": 12,
+   "he": "מעל"
+  },
+  {
+   "story": "trip",
+   "from": 12,
+   "to": 14,
+   "he": "בוץ"
+  },
+  {
+   "story": "trip",
+   "from": 12,
+   "to": 14,
+   "he": "עור"
+  },
+  {
+   "story": "trip",
+   "from": 13,
+   "to": 14,
+   "he": "מרגיש"
+  },
+  {
+   "story": "trip",
+   "from": 13,
+   "to": 18,
+   "he": "ראש"
+  },
+  {
+   "story": "trip",
+   "from": 13,
+   "to": 11,
+   "he": "רגליים"
+  },
+  {
+   "story": "trip",
+   "from": 14,
+   "to": 6,
+   "he": "לעצום"
+  },
+  {
+   "story": "trip",
+   "from": 16,
+   "to": 17,
+   "he": "חלום"
+  },
+  {
+   "story": "trip",
+   "from": 16,
+   "to": 8,
+   "he": "סיפור"
+  },
+  {
+   "story": "trip",
+   "from": 16,
+   "to": 3,
+   "he": "חיים"
+  },
+  {
+   "story": "trip",
+   "from": 16,
+   "to": 6,
+   "he": "עולם"
+  },
+  {
+   "story": "trip",
+   "from": 17,
+   "to": 10,
+   "he": "חמים"
+  },
+  {
+   "story": "trip",
+   "from": 18,
+   "to": 7,
+   "he": "צבעים"
+  },
+  {
+   "story": "trip",
+   "from": 19,
+   "to": 13,
+   "he": "כיף"
+  },
+  {
+   "story": "trip",
+   "from": 19,
+   "to": 16,
+   "he": "לזכור"
+  },
+  {
+   "story": "trip",
+   "from": 19,
+   "to": 4,
+   "he": "ביחד"
+  },
+  {
+   "story": "trip",
+   "from": 20,
+   "to": 15,
+   "he": "ללכת"
+  },
+  {
+   "story": "trip",
+   "from": 22,
+   "to": 23,
+   "he": "כותל"
+  },
+  {
+   "story": "trip",
+   "from": 23,
+   "to": 24,
+   "he": "כבוד"
+  },
+  {
+   "story": "trip",
+   "from": 24,
+   "to": 7,
+   "he": "מסורת"
+  },
+  {
+   "story": "trip",
+   "from": 24,
+   "to": 15,
+   "he": "לברך"
+  },
+  {
+   "story": "trip",
+   "from": 24,
+   "to": 8,
+   "he": "מיוחד"
+  },
+  {
+   "story": "trip",
+   "from": 25,
+   "to": 13,
+   "he": "סוף"
+  },
+  {
+   "story": "trip",
+   "from": 27,
+   "to": 16,
+   "he": "רגע"
+  },
+  {
+   "story": "trip",
+   "from": 28,
+   "to": 24,
+   "he": "חדשה"
+  },
+  {
+   "story": "trip",
+   "from": 28,
+   "to": 29,
+   "he": "זמן"
+  },
+  {
+   "story": "trip",
+   "from": 29,
+   "to": 14,
+   "he": "להבין"
+  },
+  {
+   "story": "trip",
+   "from": 29,
+   "to": 16,
+   "he": "חשוב"
+  },
+  {
+   "story": "garden",
+   "from": 1,
+   "to": 11,
+   "he": "חופש"
+  },
+  {
+   "story": "garden",
+   "from": 1,
+   "to": 2,
+   "he": "חבר"
+  },
+  {
+   "story": "garden",
+   "from": 2,
+   "to": 3,
+   "he": "אוטובוס"
+  },
+  {
+   "story": "garden",
+   "from": 4,
+   "to": 5,
+   "he": "עצים"
+  },
+  {
+   "story": "garden",
+   "from": 4,
+   "to": 21,
+   "he": "עוף"
+  },
+  {
+   "story": "garden",
+   "from": 4,
+   "to": 6,
+   "he": "שקט"
+  },
+  {
+   "story": "garden",
+   "from": 5,
+   "to": 4,
+   "he": "ישן"
+  },
+  {
+   "story": "garden",
+   "from": 6,
+   "to": 8,
+   "he": "לבשל"
+  },
+  {
+   "story": "garden",
+   "from": 7,
+   "to": 9,
+   "he": "לכאוב"
+  },
+  {
+   "story": "garden",
+   "from": 8,
+   "to": 14,
+   "he": "ללמד"
+  },
+  {
+   "story": "garden",
+   "from": 12,
+   "to": 11,
+   "he": "קסום"
+  },
+  {
+   "story": "garden",
+   "from": 13,
+   "to": 1,
+   "he": "לדבר"
+  },
+  {
+   "story": "garden",
+   "from": 13,
+   "to": 20,
+   "he": "ספרים"
+  },
+  {
+   "story": "garden",
+   "from": 13,
+   "to": 14,
+   "he": "מוזיקה"
+  },
+  {
+   "story": "garden",
+   "from": 14,
+   "to": 13,
+   "he": "סיפור"
+  },
+  {
+   "story": "garden",
+   "from": 14,
+   "to": 13,
+   "he": "חלום"
+  },
+  {
+   "story": "garden",
+   "from": 16,
+   "to": 15,
+   "he": "לשמוע"
+  },
+  {
+   "story": "garden",
+   "from": 19,
+   "to": 26,
+   "he": "לפתח"
+  },
+  {
+   "story": "garden",
+   "from": 19,
+   "to": 17,
+   "he": "התחלה"
+  },
+  {
+   "story": "garden",
+   "from": 20,
+   "to": 16,
+   "he": "עצוב"
+  },
+  {
+   "story": "garden",
+   "from": 20,
+   "to": 19,
+   "he": "להבטיח"
+  },
+  {
+   "story": "garden",
+   "from": 21,
+   "to": 27,
+   "he": "לסיים"
+  },
+  {
+   "story": "garden",
+   "from": 22,
+   "to": 3,
+   "he": "נסיעה"
+  },
+  {
+   "story": "garden",
+   "from": 22,
+   "to": 11,
+   "he": "בגרות"
+  },
+  {
+   "story": "garden",
+   "from": 23,
+   "to": 2,
+   "he": "חברים"
+  },
+  {
+   "story": "garden",
+   "from": 24,
+   "to": 8,
+   "he": "חזק"
+  },
+  {
+   "story": "garden",
+   "from": 25,
+   "to": 17,
+   "he": "להכיר"
+  },
+  {
+   "story": "garden",
+   "from": 26,
+   "to": 2,
+   "he": "סבתא"
+  },
+  {
+   "story": "garden",
+   "from": 27,
+   "to": 10,
+   "he": "לחיות"
+  },
+  {
+   "story": "garden",
+   "from": 27,
+   "to": 6,
+   "he": "המשיך"
+  },
+  {
+   "story": "shlomo",
+   "from": 3,
+   "to": 4,
+   "he": "ריצוף"
+  },
+  {
+   "story": "shlomo",
+   "from": 3,
+   "to": 4,
+   "he": "בידיים"
+  },
+  {
+   "story": "shlomo",
+   "from": 4,
+   "to": 15,
+   "he": "שווי"
+  },
+  {
+   "story": "shlomo",
+   "from": 7,
+   "to": 10,
+   "he": "עמלה"
+  },
+  {
+   "story": "shlomo",
+   "from": 8,
+   "to": 2,
+   "he": "טופחו"
+  },
+  {
+   "story": "shlomo",
+   "from": 11,
+   "to": 15,
+   "he": "מצטרפת"
+  },
+  {
+   "story": "train",
+   "from": 5,
+   "to": 14,
+   "he": "זהות"
+  },
+  {
+   "story": "train",
+   "from": 8,
+   "to": 1,
+   "he": "עדיין"
+  },
+  {
+   "story": "train",
+   "from": 9,
+   "to": 4,
+   "he": "שייכות"
+  },
+  {
+   "story": "train",
+   "from": 12,
+   "to": 4,
+   "he": "שוהה"
+  },
+  {
+   "story": "train",
+   "from": 14,
+   "to": 3,
+   "he": "ממש"
+  },
+  {
+   "story": "aliyah",
+   "from": 1,
+   "to": 2,
+   "he": "עלייה"
+  },
+  {
+   "story": "aliyah",
+   "from": 1,
+   "to": 23,
+   "he": "ירושה"
+  },
+  {
+   "story": "aliyah",
+   "from": 1,
+   "to": 16,
+   "he": "להחליט"
+  },
+  {
+   "story": "aliyah",
+   "from": 4,
+   "to": 2,
+   "he": "תיק"
+  },
+  {
+   "story": "aliyah",
+   "from": 5,
+   "to": 7,
+   "he": "לפקוד"
+  },
+  {
+   "story": "aliyah",
+   "from": 7,
+   "to": 16,
+   "he": "מרגש"
+  },
+  {
+   "story": "aliyah",
+   "from": 8,
+   "to": 5,
+   "he": "שכונה"
+  },
+  {
+   "story": "aliyah",
+   "from": 9,
+   "to": 4,
+   "he": "שכנה"
+  },
+  {
+   "story": "aliyah",
+   "from": 9,
+   "to": 18,
+   "he": "מרוקו"
+  },
+  {
+   "story": "aliyah",
+   "from": 9,
+   "to": 2,
+   "he": "עדה"
+  },
+  {
+   "story": "aliyah",
+   "from": 12,
+   "to": 28,
+   "he": "עצה"
+  },
+  {
+   "story": "aliyah",
+   "from": 12,
+   "to": 20,
+   "he": "גאווה"
+  },
+  {
+   "story": "aliyah",
+   "from": 12,
+   "to": 6,
+   "he": "חיבוק"
+  },
+  {
+   "story": "aliyah",
+   "from": 14,
+   "to": 11,
+   "he": "להצחיק"
+  },
+  {
+   "story": "aliyah",
+   "from": 14,
+   "to": 4,
+   "he": "תסכול"
+  },
+  {
+   "story": "aliyah",
+   "from": 15,
+   "to": 23,
+   "he": "ניסיון"
+  },
+  {
+   "story": "aliyah",
+   "from": 16,
+   "to": 5,
+   "he": "חברה"
+  },
+  {
+   "story": "aliyah",
+   "from": 19,
+   "to": 18,
+   "he": "שגרה"
+  },
+  {
+   "story": "aliyah",
+   "from": 20,
+   "to": 1,
+   "he": "לספר"
+  },
+  {
+   "story": "aliyah",
+   "from": 22,
+   "to": 1,
+   "he": "שלמות"
+  },
+  {
+   "story": "aliyah",
+   "from": 22,
+   "to": 20,
+   "he": "שייכות"
+  },
+  {
+   "story": "aliyah",
+   "from": 22,
+   "to": 13,
+   "he": "לזהות"
+  },
+  {
+   "story": "aliyah",
+   "from": 23,
+   "to": 19,
+   "he": "לתכנן"
+  },
+  {
+   "story": "aliyah",
+   "from": 25,
+   "to": 26,
+   "he": "שכבות"
+  },
+  {
+   "story": "aliyah",
+   "from": 25,
+   "to": 13,
+   "he": "עמוק"
+  },
+  {
+   "story": "aliyah",
+   "from": 26,
+   "to": 23,
+   "he": "שלב"
+  },
+  {
+   "story": "aliyah",
+   "from": 27,
+   "to": 16,
+   "he": "לבנות"
+  },
+  {
+   "story": "aliyah",
+   "from": 28,
+   "to": 11,
+   "he": "בחירה"
+  },
+  {
+   "story": "school",
+   "from": 1,
+   "to": 12,
+   "he": "מבחן"
+  },
+  {
+   "story": "school",
+   "from": 1,
+   "to": 22,
+   "he": "ציון"
+  },
+  {
+   "story": "school",
+   "from": 2,
+   "to": 6,
+   "he": "לגמגם"
+  },
+  {
+   "story": "school",
+   "from": 4,
+   "to": 3,
+   "he": "קבוצה"
+  },
+  {
+   "story": "school",
+   "from": 4,
+   "to": 8,
+   "he": "רגע"
+  },
+  {
+   "story": "school",
+   "from": 5,
+   "to": 1,
+   "he": "מאמץ"
+  },
+  {
+   "story": "school",
+   "from": 6,
+   "to": 5,
+   "he": "לקבל"
+  },
+  {
+   "story": "school",
+   "from": 6,
+   "to": 7,
+   "he": "גאווה"
+  },
+  {
+   "story": "school",
+   "from": 8,
+   "to": 15,
+   "he": "מגרש"
+  },
+  {
+   "story": "school",
+   "from": 9,
+   "to": 3,
+   "he": "הבנה"
+  },
+  {
+   "story": "school",
+   "from": 9,
+   "to": 27,
+   "he": "להסכים"
+  },
+  {
+   "story": "school",
+   "from": 11,
+   "to": 14,
+   "he": "גיל"
+  },
+  {
+   "story": "school",
+   "from": 14,
+   "to": 9,
+   "he": "שאלות"
+  },
+  {
+   "story": "school",
+   "from": 16,
+   "to": 10,
+   "he": "להתקדם"
+  },
+  {
+   "story": "school",
+   "from": 17,
+   "to": 3,
+   "he": "להכיר"
+  },
+  {
+   "story": "school",
+   "from": 19,
+   "to": 12,
+   "he": "לחץ"
+  },
+  {
+   "story": "school",
+   "from": 19,
+   "to": 23,
+   "he": "פחד"
+  },
+  {
+   "story": "school",
+   "from": 20,
+   "to": 15,
+   "he": "לסיים"
+  },
+  {
+   "story": "school",
+   "from": 20,
+   "to": 15,
+   "he": "לכתוב"
+  },
+  {
+   "story": "school",
+   "from": 21,
+   "to": 13,
+   "he": "להאמין"
+  },
+  {
+   "story": "school",
+   "from": 23,
+   "to": 26,
+   "he": "מחזור"
+  },
+  {
+   "story": "school",
+   "from": 23,
+   "to": 9,
+   "he": "להמשיך"
+  },
+  {
+   "story": "school",
+   "from": 28,
+   "to": 4,
+   "he": "דרך"
+  },
+  {
+   "story": "school",
+   "from": 29,
+   "to": 25,
+   "he": "להיכנס"
+  },
+  {
+   "story": "school",
+   "from": 30,
+   "to": 27,
+   "he": "סיכום"
+  },
+  {
+   "story": "school",
+   "from": 30,
+   "to": 10,
+   "he": "ללמוד"
   }
  ],
  "remove": [
   {
    "page": 35,
    "he": "לשנות"
+  },
+  {
+   "story": "cat",
+   "page": 2,
+   "he": "פחד"
+  },
+  {
+   "story": "cat",
+   "page": 4,
+   "he": "מפתיע"
+  },
+  {
+   "story": "cat",
+   "page": 4,
+   "he": "לשכוח"
+  },
+  {
+   "story": "cat",
+   "page": 4,
+   "he": "חלל"
+  },
+  {
+   "story": "cat",
+   "page": 5,
+   "he": "שכן"
+  },
+  {
+   "story": "cat",
+   "page": 5,
+   "he": "לוודא"
+  },
+  {
+   "story": "cat",
+   "page": 7,
+   "he": "לקרוא ל-"
+  },
+  {
+   "story": "cat",
+   "page": 7,
+   "he": "מיוחד"
+  },
+  {
+   "story": "cat",
+   "page": 9,
+   "he": "לעורר"
+  },
+  {
+   "story": "cat",
+   "page": 11,
+   "he": "בעיה"
+  },
+  {
+   "story": "cat",
+   "page": 11,
+   "he": "למצוא"
+  },
+  {
+   "story": "cat",
+   "page": 11,
+   "he": "לצאת"
+  },
+  {
+   "story": "cat",
+   "page": 12,
+   "he": "לעזור"
+  },
+  {
+   "story": "cat",
+   "page": 12,
+   "he": "לטפס"
+  },
+  {
+   "story": "cat",
+   "page": 12,
+   "he": "לצחוק מעצמך"
+  },
+  {
+   "story": "cat",
+   "page": 12,
+   "he": "לרדת"
+  },
+  {
+   "story": "cat",
+   "page": 13,
+   "he": "לזחול"
+  },
+  {
+   "story": "cat",
+   "page": 13,
+   "he": "להציל"
+  },
+  {
+   "story": "cat",
+   "page": 14,
+   "he": "אחיין"
+  },
+  {
+   "story": "cat",
+   "page": 14,
+   "he": "ילדה"
+  },
+  {
+   "story": "cat",
+   "page": 15,
+   "he": "לענות"
+  },
+  {
+   "story": "cat",
+   "page": 16,
+   "he": "מבקרת"
+  },
+  {
+   "story": "cat",
+   "page": 16,
+   "he": "מיד"
+  },
+  {
+   "story": "cat",
+   "page": 16,
+   "he": "מתנה"
+  },
+  {
+   "story": "cat",
+   "page": 17,
+   "he": "לגשת"
+  },
+  {
+   "story": "cat",
+   "page": 19,
+   "he": "לשמוע"
+  },
+  {
+   "story": "cat",
+   "page": 20,
+   "he": "זו על זה"
+  },
+  {
+   "story": "cat",
+   "page": 21,
+   "he": "לישון"
+  },
+  {
+   "story": "cat",
+   "page": 22,
+   "he": "לשנות"
+  },
+  {
+   "story": "cat",
+   "page": 22,
+   "he": "אהבה"
+  },
+  {
+   "story": "cat",
+   "page": 23,
+   "he": "ברווז"
+  },
+  {
+   "story": "cat",
+   "page": 23,
+   "he": "חיוך"
+  },
+  {
+   "story": "restaurant",
+   "page": 6,
+   "he": "מקצועי"
+  },
+  {
+   "story": "restaurant",
+   "page": 7,
+   "he": "מבקרת"
+  },
+  {
+   "story": "restaurant",
+   "page": 7,
+   "he": "לחסוך"
+  },
+  {
+   "story": "restaurant",
+   "page": 11,
+   "he": "לחכות"
+  },
+  {
+   "story": "restaurant",
+   "page": 11,
+   "he": "דאגה"
+  },
+  {
+   "story": "restaurant",
+   "page": 15,
+   "he": "עייף"
+  },
+  {
+   "story": "restaurant",
+   "page": 17,
+   "he": "לבכות"
+  },
+  {
+   "story": "restaurant",
+   "page": 18,
+   "he": "לטעום"
+  },
+  {
+   "story": "restaurant",
+   "page": 18,
+   "he": "להיזכר"
+  },
+  {
+   "story": "restaurant",
+   "page": 19,
+   "he": "עקומים"
+  },
+  {
+   "story": "restaurant",
+   "page": 19,
+   "he": "דרך"
+  },
+  {
+   "story": "restaurant",
+   "page": 20,
+   "he": "נאום"
+  },
+  {
+   "story": "restaurant",
+   "page": 20,
+   "he": "להרים כוס"
+  },
+  {
+   "story": "restaurant",
+   "page": 20,
+   "he": "להודות"
+  },
+  {
+   "story": "restaurant",
+   "page": 20,
+   "he": "אי אפשר"
+  },
+  {
+   "story": "restaurant",
+   "page": 20,
+   "he": "שמחה"
+  },
+  {
+   "story": "trip",
+   "page": 2,
+   "he": "הפוך"
+  },
+  {
+   "story": "trip",
+   "page": 2,
+   "he": "להסכים"
+  },
+  {
+   "story": "trip",
+   "page": 3,
+   "he": "בקושי"
+  },
+  {
+   "story": "trip",
+   "page": 4,
+   "he": "מוקדם"
+  },
+  {
+   "story": "trip",
+   "page": 5,
+   "he": "נקודה"
+  },
+  {
+   "story": "trip",
+   "page": 8,
+   "he": "לקנות"
+  },
+  {
+   "story": "trip",
+   "page": 9,
+   "he": "עייף"
+  },
+  {
+   "story": "trip",
+   "page": 11,
+   "he": "לטבוע"
+  },
+  {
+   "story": "trip",
+   "page": 11,
+   "he": "לצלות"
+  },
+  {
+   "story": "trip",
+   "page": 11,
+   "he": "בשר"
+  },
+  {
+   "story": "trip",
+   "page": 12,
+   "he": "לצוף"
+  },
+  {
+   "story": "trip",
+   "page": 12,
+   "he": "נמוך"
+  },
+  {
+   "story": "trip",
+   "page": 12,
+   "he": "חם מאוד"
+  },
+  {
+   "story": "trip",
+   "page": 13,
+   "he": "פעם ראשונה"
+  },
+  {
+   "story": "trip",
+   "page": 14,
+   "he": "להרגיע"
+  },
+  {
+   "story": "trip",
+   "page": 14,
+   "he": "אחר כך"
+  },
+  {
+   "story": "trip",
+   "page": 15,
+   "he": "יבש"
+  },
+  {
+   "story": "trip",
+   "page": 16,
+   "he": "חלמתי"
+  },
+  {
+   "story": "trip",
+   "page": 16,
+   "he": "ללמוד"
+  },
+  {
+   "story": "trip",
+   "page": 17,
+   "he": "דגים צבעוניים"
+  },
+  {
+   "story": "trip",
+   "page": 18,
+   "he": "עולם אחר"
+  },
+  {
+   "story": "trip",
+   "page": 18,
+   "he": "יפה מאוד"
+  },
+  {
+   "story": "trip",
+   "page": 20,
+   "he": "סלעים"
+  },
+  {
+   "story": "trip",
+   "page": 21,
+   "he": "תייר"
+  },
+  {
+   "story": "trip",
+   "page": 21,
+   "he": "ללמוד עברית"
+  },
+  {
+   "story": "trip",
+   "page": 22,
+   "he": "עיר קודש"
+  },
+  {
+   "story": "trip",
+   "page": 23,
+   "he": "שקוף"
+  },
+  {
+   "story": "trip",
+   "page": 24,
+   "he": "להזמין"
+  },
+  {
+   "story": "trip",
+   "page": 24,
+   "he": "דור"
+  },
+  {
+   "story": "trip",
+   "page": 25,
+   "he": "הביתה"
+  },
+  {
+   "story": "trip",
+   "page": 26,
+   "he": "ריק"
+  },
+  {
+   "story": "trip",
+   "page": 26,
+   "he": "חסר"
+  },
+  {
+   "story": "trip",
+   "page": 26,
+   "he": "פעם"
+  },
+  {
+   "story": "trip",
+   "page": 27,
+   "he": "להתפתח"
+  },
+  {
+   "story": "trip",
+   "page": 27,
+   "he": "להיזכר"
+  },
+  {
+   "story": "trip",
+   "page": 28,
+   "he": "תכנית"
+  },
+  {
+   "story": "trip",
+   "page": 28,
+   "he": "חלמתי"
+  },
+  {
+   "story": "trip",
+   "page": 28,
+   "he": "מתאים"
+  },
+  {
+   "story": "garden",
+   "page": 2,
+   "he": "לארגן"
+  },
+  {
+   "story": "garden",
+   "page": 3,
+   "he": "מחכה"
+  },
+  {
+   "story": "garden",
+   "page": 6,
+   "he": "סיר"
+  },
+  {
+   "story": "garden",
+   "page": 6,
+   "he": "שאלות"
+  },
+  {
+   "story": "garden",
+   "page": 7,
+   "he": "בוקר מוקדם"
+  },
+  {
+   "story": "garden",
+   "page": 7,
+   "he": "שריר"
+  },
+  {
+   "story": "garden",
+   "page": 8,
+   "he": "זהירות"
+  },
+  {
+   "story": "garden",
+   "page": 9,
+   "he": "לעבוד קשה"
+  },
+  {
+   "story": "garden",
+   "page": 9,
+   "he": "להתחמם"
+  },
+  {
+   "story": "garden",
+   "page": 9,
+   "he": "מקלחת קרה"
+  },
+  {
+   "story": "garden",
+   "page": 10,
+   "he": "לאט לאט"
+  },
+  {
+   "story": "garden",
+   "page": 10,
+   "he": "גוף"
+  },
+  {
+   "story": "garden",
+   "page": 11,
+   "he": "פגישה"
+  },
+  {
+   "story": "garden",
+   "page": 11,
+   "he": "סקרנית"
+  },
+  {
+   "story": "garden",
+   "page": 11,
+   "he": "להזמין"
+  },
+  {
+   "story": "garden",
+   "page": 12,
+   "he": "עצים גבוהים"
+  },
+  {
+   "story": "garden",
+   "page": 13,
+   "he": "על עצמך"
+  },
+  {
+   "story": "garden",
+   "page": 13,
+   "he": "בית ספר"
+  },
+  {
+   "story": "garden",
+   "page": 14,
+   "he": "בעבר"
+  },
+  {
+   "story": "garden",
+   "page": 14,
+   "he": "לוותר"
+  },
+  {
+   "story": "garden",
+   "page": 14,
+   "he": "אמיץ"
+  },
+  {
+   "story": "garden",
+   "page": 15,
+   "he": "משפחה"
+  },
+  {
+   "story": "garden",
+   "page": 15,
+   "he": "מאוחר"
+  },
+  {
+   "story": "garden",
+   "page": 17,
+   "he": "לקרוא ל-"
+  },
+  {
+   "story": "garden",
+   "page": 17,
+   "he": "התכנסו"
+  },
+  {
+   "story": "garden",
+   "page": 18,
+   "he": "עפרון"
+  },
+  {
+   "story": "garden",
+   "page": 19,
+   "he": "מחמאה"
+  },
+  {
+   "story": "garden",
+   "page": 19,
+   "he": "לדבר ברצינות"
+  },
+  {
+   "story": "garden",
+   "page": 19,
+   "he": "כישרון"
+  },
+  {
+   "story": "garden",
+   "page": 20,
+   "he": "לקרוא לי"
+  },
+  {
+   "story": "garden",
+   "page": 21,
+   "he": "מוצלח"
+  },
+  {
+   "story": "garden",
+   "page": 21,
+   "he": "תודה"
+  },
+  {
+   "story": "garden",
+   "page": 22,
+   "he": "הלוך ושוב"
+  },
+  {
+   "story": "garden",
+   "page": 22,
+   "he": "שאלות"
+  },
+  {
+   "story": "garden",
+   "page": 23,
+   "he": "בחזרה לבית ספר"
+  },
+  {
+   "story": "garden",
+   "page": 23,
+   "he": "מנהלת"
+  },
+  {
+   "story": "garden",
+   "page": 23,
+   "he": "לבדוק"
+  },
+  {
+   "story": "garden",
+   "page": 24,
+   "he": "אחר כך"
+  },
+  {
+   "story": "garden",
+   "page": 24,
+   "he": "לחגוג"
+  },
+  {
+   "story": "garden",
+   "page": 25,
+   "he": "לסייר"
+  },
+  {
+   "story": "garden",
+   "page": 25,
+   "he": "להתרגש"
+  },
+  {
+   "story": "garden",
+   "page": 25,
+   "he": "דומע"
+  },
+  {
+   "story": "garden",
+   "page": 26,
+   "he": "סוף דבר"
+  },
+  {
+   "story": "garden",
+   "page": 26,
+   "he": "לשמור"
+  },
+  {
+   "story": "garden",
+   "page": 26,
+   "he": "מכתב"
+  },
+  {
+   "story": "garden",
+   "page": 26,
+   "he": "להוריש"
+  },
+  {
+   "story": "garden",
+   "page": 26,
+   "he": "הכי חשוב"
+  },
+  {
+   "story": "garden",
+   "page": 27,
+   "he": "דור הבא"
+  },
+  {
+   "story": "shlomo",
+   "page": 1,
+   "he": "נדל\"ן"
+  },
+  {
+   "story": "shlomo",
+   "page": 1,
+   "he": "ירושה"
+  },
+  {
+   "story": "shlomo",
+   "page": 2,
+   "he": "מתקלף"
+  },
+  {
+   "story": "shlomo",
+   "page": 3,
+   "he": "ארון עץ"
+  },
+  {
+   "story": "shlomo",
+   "page": 6,
+   "he": "זוג בחתונה"
+  },
+  {
+   "story": "shlomo",
+   "page": 6,
+   "he": "מזהה"
+  },
+  {
+   "story": "shlomo",
+   "page": 7,
+   "he": "לשכנע"
+  },
+  {
+   "story": "shlomo",
+   "page": 7,
+   "he": "הגיוני"
+  },
+  {
+   "story": "shlomo",
+   "page": 7,
+   "he": "לדאוג"
+  },
+  {
+   "story": "shlomo",
+   "page": 9,
+   "he": "לתלות ב-"
+  },
+  {
+   "story": "shlomo",
+   "page": 9,
+   "he": "ביושר"
+  },
+  {
+   "story": "shlomo",
+   "page": 10,
+   "he": "פשרה"
+  },
+  {
+   "story": "shlomo",
+   "page": 11,
+   "he": "ביישן"
+  },
+  {
+   "story": "shlomo",
+   "page": 11,
+   "he": "עיצוב"
+  },
+  {
+   "story": "shlomo",
+   "page": 12,
+   "he": "נפתחו"
+  },
+  {
+   "story": "shlomo",
+   "page": 12,
+   "he": "ההיסטוריה של"
+  },
+  {
+   "story": "shlomo",
+   "page": 13,
+   "he": "לא אמורים לעבור"
+  },
+  {
+   "story": "shlomo",
+   "page": 13,
+   "he": "ניסיון"
+  },
+  {
+   "story": "shlomo",
+   "page": 14,
+   "he": "לשנות כיוון"
+  },
+  {
+   "story": "shlomo",
+   "page": 14,
+   "he": "פתרון"
+  },
+  {
+   "story": "train",
+   "page": 1,
+   "he": "נמל תעופה"
+  },
+  {
+   "story": "train",
+   "page": 1,
+   "he": "נדחה"
+  },
+  {
+   "story": "train",
+   "page": 1,
+   "he": "לא נדחה"
+  },
+  {
+   "story": "train",
+   "page": 2,
+   "he": "לשמור מקום"
+  },
+  {
+   "story": "train",
+   "page": 4,
+   "he": "מסובך"
+  },
+  {
+   "story": "train",
+   "page": 5,
+   "he": "שפת אם"
+  },
+  {
+   "story": "train",
+   "page": 5,
+   "he": "לחשוב בשפה"
+  },
+  {
+   "story": "train",
+   "page": 5,
+   "he": "לערבב"
+  },
+  {
+   "story": "train",
+   "page": 6,
+   "he": "להצדיק"
+  },
+  {
+   "story": "train",
+   "page": 6,
+   "he": "הדחקתי"
+  },
+  {
+   "story": "train",
+   "page": 6,
+   "he": "בתוך"
+  },
+  {
+   "story": "train",
+   "page": 7,
+   "he": "מחלה"
+  },
+  {
+   "story": "train",
+   "page": 7,
+   "he": "מטפלת"
+  },
+  {
+   "story": "train",
+   "page": 7,
+   "he": "הנחתי"
+  },
+  {
+   "story": "train",
+   "page": 8,
+   "he": "חנינה"
+  },
+  {
+   "story": "train",
+   "page": 8,
+   "he": "הסכנת"
+  },
+  {
+   "story": "train",
+   "page": 9,
+   "he": "נוסטלגיה"
+  },
+  {
+   "story": "train",
+   "page": 9,
+   "he": "לא ניתן לתרגום"
+  },
+  {
+   "story": "train",
+   "page": 9,
+   "he": "געגוע"
+  },
+  {
+   "story": "train",
+   "page": 10,
+   "he": "נפרדנו"
+  },
+  {
+   "story": "train",
+   "page": 10,
+   "he": "החלפנו פרטים"
+  },
+  {
+   "story": "train",
+   "page": 10,
+   "he": "נשארתי"
+  },
+  {
+   "story": "train",
+   "page": 11,
+   "he": "לחייך חלש"
+  },
+  {
+   "story": "train",
+   "page": 11,
+   "he": "לחזוק"
+  },
+  {
+   "story": "train",
+   "page": 11,
+   "he": "לסלוח"
+  },
+  {
+   "story": "train",
+   "page": 12,
+   "he": "להחליט"
+  },
+  {
+   "story": "train",
+   "page": 12,
+   "he": "עורך דין מרחוק"
+  },
+  {
+   "story": "train",
+   "page": 13,
+   "he": "האריך"
+  },
+  {
+   "story": "train",
+   "page": 13,
+   "he": "שאלות פתוחות"
+  },
+  {
+   "story": "train",
+   "page": 13,
+   "he": "לא מוכרע"
+  },
+  {
+   "story": "train",
+   "page": 13,
+   "he": "לחיות עם"
+  },
+  {
+   "story": "train",
+   "page": 13,
+   "he": "גבולות"
+  },
+  {
+   "story": "train",
+   "page": 14,
+   "he": "פריז מחכה"
+  },
+  {
+   "story": "train",
+   "page": 14,
+   "he": "ישראל נשארת"
+  },
+  {
+   "story": "train",
+   "page": 14,
+   "he": "לאחוז"
+  },
+  {
+   "story": "language",
+   "page": 1,
+   "he": "כנס אקדמי"
+  },
+  {
+   "story": "language",
+   "page": 3,
+   "he": "נטשת"
+  },
+  {
+   "story": "language",
+   "page": 3,
+   "he": "שכבות"
+  },
+  {
+   "story": "language",
+   "page": 3,
+   "he": "קולפות"
+  },
+  {
+   "story": "language",
+   "page": 3,
+   "he": "תת-מודע"
+  },
+  {
+   "story": "language",
+   "page": 4,
+   "he": "מחקר עצמי"
+  },
+  {
+   "story": "language",
+   "page": 4,
+   "he": "להישמע"
+  },
+  {
+   "story": "language",
+   "page": 4,
+   "he": "מרחק רגשי"
+  },
+  {
+   "story": "language",
+   "page": 5,
+   "he": "נאלץ"
+  },
+  {
+   "story": "language",
+   "page": 6,
+   "he": "בדרך לשוק"
+  },
+  {
+   "story": "language",
+   "page": 6,
+   "he": "להתערות"
+  },
+  {
+   "story": "language",
+   "page": 6,
+   "he": "קולות עירוניים"
+  },
+  {
+   "story": "language",
+   "page": 6,
+   "he": "לחזור לעצמו"
+  },
+  {
+   "story": "language",
+   "page": 6,
+   "he": "מה שנשכח"
+  },
+  {
+   "story": "language",
+   "page": 7,
+   "he": "מורה לשעבר"
+  },
+  {
+   "story": "language",
+   "page": 7,
+   "he": "מזדקן"
+  },
+  {
+   "story": "language",
+   "page": 7,
+   "he": "בעיצומו"
+  },
+  {
+   "story": "language",
+   "page": 7,
+   "he": "להשפיע"
+  },
+  {
+   "story": "language",
+   "page": 8,
+   "he": "הטה אוזן"
+  },
+  {
+   "story": "language",
+   "page": 8,
+   "he": "מחשבה מעמיקה"
+  },
+  {
+   "story": "language",
+   "page": 8,
+   "he": "תובנה"
+  },
+  {
+   "story": "language",
+   "page": 8,
+   "he": "הפרדה"
+  },
+  {
+   "story": "language",
+   "page": 8,
+   "he": "חיצוני ופנימי"
+  },
+  {
+   "story": "language",
+   "page": 9,
+   "he": "בלי תכנית"
+  },
+  {
+   "story": "language",
+   "page": 9,
+   "he": "שוקעת"
+  },
+  {
+   "story": "language",
+   "page": 9,
+   "he": "בהיר"
+  },
+  {
+   "story": "language",
+   "page": 10,
+   "he": "לנסח מחדש"
+  },
+  {
+   "story": "language",
+   "page": 10,
+   "he": "עושר"
+  },
+  {
+   "story": "language",
+   "page": 11,
+   "he": "המשיכה לכתוב"
+  },
+  {
+   "story": "language",
+   "page": 11,
+   "he": "השתנתה"
+  },
+  {
+   "story": "language",
+   "page": 11,
+   "he": "הפך להרגל"
+  },
+  {
+   "story": "language",
+   "page": 12,
+   "he": "לחיות בשאלה"
+  },
+  {
+   "story": "aliyah",
+   "page": 1,
+   "he": "שורשים"
+  },
+  {
+   "story": "aliyah",
+   "page": 2,
+   "he": "לספר ל"
+  },
+  {
+   "story": "aliyah",
+   "page": 2,
+   "he": "תגובה"
+  },
+  {
+   "story": "aliyah",
+   "page": 3,
+   "he": "להתרשם"
+  },
+  {
+   "story": "aliyah",
+   "page": 3,
+   "he": "מכריע"
+  },
+  {
+   "story": "aliyah",
+   "page": 4,
+   "he": "מחויבות"
+  },
+  {
+   "story": "aliyah",
+   "page": 4,
+   "he": "להגיש מועמדות"
+  },
+  {
+   "story": "aliyah",
+   "page": 6,
+   "he": "יום עלייה"
+  },
+  {
+   "story": "aliyah",
+   "page": 6,
+   "he": "להיפרד"
+  },
+  {
+   "story": "aliyah",
+   "page": 7,
+   "he": "נחיתה"
+  },
+  {
+   "story": "aliyah",
+   "page": 7,
+   "he": "שדה תעופה"
+  },
+  {
+   "story": "aliyah",
+   "page": 7,
+   "he": "עולה חדשה"
+  },
+  {
+   "story": "aliyah",
+   "page": 7,
+   "he": "תיק עלייה"
+  },
+  {
+   "story": "aliyah",
+   "page": 8,
+   "he": "לחפש"
+  },
+  {
+   "story": "aliyah",
+   "page": 8,
+   "he": "אכזבה"
+  },
+  {
+   "story": "aliyah",
+   "page": 9,
+   "he": "לקלוט"
+  },
+  {
+   "story": "aliyah",
+   "page": 9,
+   "he": "פיתה"
+  },
+  {
+   "story": "aliyah",
+   "page": 10,
+   "he": "לגמגם"
+  },
+  {
+   "story": "aliyah",
+   "page": 10,
+   "he": "לשפר"
+  },
+  {
+   "story": "aliyah",
+   "page": 12,
+   "he": "לצלצל"
+  },
+  {
+   "story": "aliyah",
+   "page": 12,
+   "he": "להמשיך"
+  },
+  {
+   "story": "aliyah",
+   "page": 13,
+   "he": "להתייאש"
+  },
+  {
+   "story": "aliyah",
+   "page": 13,
+   "he": "סבלנות"
+  },
+  {
+   "story": "aliyah",
+   "page": 14,
+   "he": "לספר בדיחה"
+  },
+  {
+   "story": "aliyah",
+   "page": 14,
+   "he": "בתורים"
+  },
+  {
+   "story": "aliyah",
+   "page": 14,
+   "he": "לעמוד בזה"
+  },
+  {
+   "story": "aliyah",
+   "page": 15,
+   "he": "הסמכה"
+  },
+  {
+   "story": "aliyah",
+   "page": 15,
+   "he": "לשכת עורכי הדין"
+  },
+  {
+   "story": "aliyah",
+   "page": 15,
+   "he": "תחרותי"
+  },
+  {
+   "story": "aliyah",
+   "page": 16,
+   "he": "רקע"
+  },
+  {
+   "story": "aliyah",
+   "page": 16,
+   "he": "גולה"
+  },
+  {
+   "story": "aliyah",
+   "page": 17,
+   "he": "בעל פה"
+  },
+  {
+   "story": "aliyah",
+   "page": 17,
+   "he": "טיפול"
+  },
+  {
+   "story": "aliyah",
+   "page": 17,
+   "he": "חלומות"
+  },
+  {
+   "story": "aliyah",
+   "page": 17,
+   "he": "שפת אם"
+  },
+  {
+   "story": "aliyah",
+   "page": 17,
+   "he": "לחשוב בשפה"
+  },
+  {
+   "story": "aliyah",
+   "page": 18,
+   "he": "חג"
+  },
+  {
+   "story": "aliyah",
+   "page": 18,
+   "he": "לאמץ"
+  },
+  {
+   "story": "aliyah",
+   "page": 18,
+   "he": "מסורת"
+  },
+  {
+   "story": "aliyah",
+   "page": 19,
+   "he": "לבחון מחדש"
+  },
+  {
+   "story": "aliyah",
+   "page": 19,
+   "he": "התקדמות"
+  },
+  {
+   "story": "aliyah",
+   "page": 19,
+   "he": "בר מצווה"
+  },
+  {
+   "story": "aliyah",
+   "page": 19,
+   "he": "להשתרש"
+  },
+  {
+   "story": "aliyah",
+   "page": 20,
+   "he": "נסיבות"
+  },
+  {
+   "story": "aliyah",
+   "page": 20,
+   "he": "השתנות"
+  },
+  {
+   "story": "aliyah",
+   "page": 21,
+   "he": "עקירה"
+  },
+  {
+   "story": "aliyah",
+   "page": 21,
+   "he": "להסתגל"
+  },
+  {
+   "story": "aliyah",
+   "page": 21,
+   "he": "חוסן"
+  },
+  {
+   "story": "aliyah",
+   "page": 21,
+   "he": "לדורות"
+  },
+  {
+   "story": "aliyah",
+   "page": 22,
+   "he": "מורשת"
+  },
+  {
+   "story": "aliyah",
+   "page": 22,
+   "he": "פירוש"
+  },
+  {
+   "story": "aliyah",
+   "page": 23,
+   "he": "לשכה"
+  },
+  {
+   "story": "aliyah",
+   "page": 23,
+   "he": "שותף"
+  },
+  {
+   "story": "aliyah",
+   "page": 23,
+   "he": "עסק"
+  },
+  {
+   "story": "aliyah",
+   "page": 23,
+   "he": "ביטחון"
+  },
+  {
+   "story": "aliyah",
+   "page": 24,
+   "he": "לחזור לביקור"
+  },
+  {
+   "story": "aliyah",
+   "page": 24,
+   "he": "להשוות"
+  },
+  {
+   "story": "aliyah",
+   "page": 24,
+   "he": "שינוי"
+  },
+  {
+   "story": "aliyah",
+   "page": 24,
+   "he": "נקודת מבט"
+  },
+  {
+   "story": "aliyah",
+   "page": 24,
+   "he": "פרספקטיבה"
+  },
+  {
+   "story": "aliyah",
+   "page": 25,
+   "he": "עגינה"
+  },
+  {
+   "story": "aliyah",
+   "page": 25,
+   "he": "להשתמש ב"
+  },
+  {
+   "story": "aliyah",
+   "page": 25,
+   "he": "ניב"
+  },
+  {
+   "story": "aliyah",
+   "page": 26,
+   "he": "לקבוע"
+  },
+  {
+   "story": "aliyah",
+   "page": 26,
+   "he": "עתיד"
+  },
+  {
+   "story": "aliyah",
+   "page": 26,
+   "he": "להכיל"
+  },
+  {
+   "story": "aliyah",
+   "page": 27,
+   "he": "להגדיר"
+  },
+  {
+   "story": "aliyah",
+   "page": 27,
+   "he": "תחושת שייכות"
+  },
+  {
+   "story": "aliyah",
+   "page": 27,
+   "he": "לא ניתן לקנות"
+  },
+  {
+   "story": "aliyah",
+   "page": 28,
+   "he": "שורשים עמוקים"
+  },
+  {
+   "story": "aliyah",
+   "page": 28,
+   "he": "לשגשג"
+  },
+  {
+   "story": "aliyah",
+   "page": 28,
+   "he": "מסע"
+  },
+  {
+   "story": "aliyah",
+   "page": 28,
+   "he": "ממשיך"
+  },
+  {
+   "story": "school",
+   "page": 1,
+   "he": "לכשל"
+  },
+  {
+   "story": "school",
+   "page": 1,
+   "he": "להיאבק"
+  },
+  {
+   "story": "school",
+   "page": 2,
+   "he": "להתבייש"
+  },
+  {
+   "story": "school",
+   "page": 2,
+   "he": "לצחוק על"
+  },
+  {
+   "story": "school",
+   "page": 3,
+   "he": "לשבת לבד"
+  },
+  {
+   "story": "school",
+   "page": 3,
+   "he": "חצר בית הספר"
+  },
+  {
+   "story": "school",
+   "page": 3,
+   "he": "לא מוזמן"
+  },
+  {
+   "story": "school",
+   "page": 4,
+   "he": "מחיאות כפיים"
+  },
+  {
+   "story": "school",
+   "page": 4,
+   "he": "להרגיש שייך"
+  },
+  {
+   "story": "school",
+   "page": 5,
+   "he": "לשפר ציון"
+  },
+  {
+   "story": "school",
+   "page": 5,
+   "he": "לעמוד בקצב"
+  },
+  {
+   "story": "school",
+   "page": 5,
+   "he": "חיזוק"
+  },
+  {
+   "story": "school",
+   "page": 6,
+   "he": "מורה פרטי"
+  },
+  {
+   "story": "school",
+   "page": 6,
+   "he": "לסרב"
+  },
+  {
+   "story": "school",
+   "page": 6,
+   "he": "כישלון"
+  },
+  {
+   "story": "school",
+   "page": 7,
+   "he": "ללעוג"
+  },
+  {
+   "story": "school",
+   "page": 7,
+   "he": "להתנשא"
+  },
+  {
+   "story": "school",
+   "page": 7,
+   "he": "כינוי"
+  },
+  {
+   "story": "school",
+   "page": 7,
+   "he": "להגיב"
+  },
+  {
+   "story": "school",
+   "page": 7,
+   "he": "להתעלם"
+  },
+  {
+   "story": "school",
+   "page": 8,
+   "he": "כעס"
+  },
+  {
+   "story": "school",
+   "page": 8,
+   "he": "להחזיק בפנים"
+  },
+  {
+   "story": "school",
+   "page": 8,
+   "he": "לפרוק"
+  },
+  {
+   "story": "school",
+   "page": 8,
+   "he": "להרגיש קטן"
+  },
+  {
+   "story": "school",
+   "page": 9,
+   "he": "להיפתח"
+  },
+  {
+   "story": "school",
+   "page": 9,
+   "he": "לא קל"
+  },
+  {
+   "story": "school",
+   "page": 9,
+   "he": "פרספקטיבה"
+  },
+  {
+   "story": "school",
+   "page": 10,
+   "he": "לחזור על"
+  },
+  {
+   "story": "school",
+   "page": 10,
+   "he": "שינון"
+  },
+  {
+   "story": "school",
+   "page": 10,
+   "he": "לתרגל"
+  },
+  {
+   "story": "school",
+   "page": 11,
+   "he": "להתבייש"
+  },
+  {
+   "story": "school",
+   "page": 12,
+   "he": "להתכונן"
+  },
+  {
+   "story": "school",
+   "page": 12,
+   "he": "לא מספיק"
+  },
+  {
+   "story": "school",
+   "page": 13,
+   "he": "קירבה"
+  },
+  {
+   "story": "school",
+   "page": 13,
+   "he": "לשתף"
+  },
+  {
+   "story": "school",
+   "page": 13,
+   "he": "להאזין"
+  },
+  {
+   "story": "school",
+   "page": 13,
+   "he": "חבר אמיתי"
+  },
+  {
+   "story": "school",
+   "page": 14,
+   "he": "להבין יחד"
+  },
+  {
+   "story": "school",
+   "page": 15,
+   "he": "עמידה בפני"
+  },
+  {
+   "story": "school",
+   "page": 15,
+   "he": "לקרוא בפני הכיתה"
+  },
+  {
+   "story": "school",
+   "page": 15,
+   "he": "להתכונן"
+  },
+  {
+   "story": "school",
+   "page": 15,
+   "he": "ביטחון עצמי"
+  },
+  {
+   "story": "school",
+   "page": 15,
+   "he": "ניסיון"
+  },
+  {
+   "story": "school",
+   "page": 16,
+   "he": "לאחר השיעור"
+  },
+  {
+   "story": "school",
+   "page": 16,
+   "he": "תהליך"
+  },
+  {
+   "story": "school",
+   "page": 17,
+   "he": "לשנות יחס"
+  },
+  {
+   "story": "school",
+   "page": 17,
+   "he": "עין אחרת"
+  },
+  {
+   "story": "school",
+   "page": 17,
+   "he": "לפייס"
+  },
+  {
+   "story": "school",
+   "page": 17,
+   "he": "מגוחך"
+  },
+  {
+   "story": "school",
+   "page": 18,
+   "he": "ניצחון"
+  },
+  {
+   "story": "school",
+   "page": 18,
+   "he": "תוצאה"
+  },
+  {
+   "story": "school",
+   "page": 18,
+   "he": "שותף"
+  },
+  {
+   "story": "school",
+   "page": 18,
+   "he": "להרגיש חלק"
+  },
+  {
+   "story": "school",
+   "page": 18,
+   "he": "כמו כולם"
+  },
+  {
+   "story": "school",
+   "page": 19,
+   "he": "להתכונן"
+  },
+  {
+   "story": "school",
+   "page": 19,
+   "he": "לרכז"
+  },
+  {
+   "story": "school",
+   "page": 20,
+   "he": "שעון"
+  },
+  {
+   "story": "school",
+   "page": 20,
+   "he": "בנושא"
+  },
+  {
+   "story": "school",
+   "page": 21,
+   "he": "תוצאה"
+  },
+  {
+   "story": "school",
+   "page": 21,
+   "he": "ציון גבוה"
+  },
+  {
+   "story": "school",
+   "page": 21,
+   "he": "מזל טוב"
+  },
+  {
+   "story": "school",
+   "page": 21,
+   "he": "להוכיח"
+  },
+  {
+   "story": "school",
+   "page": 22,
+   "he": "לחגוג"
+  },
+  {
+   "story": "school",
+   "page": 22,
+   "he": "ידידות"
+  },
+  {
+   "story": "school",
+   "page": 22,
+   "he": "לספר למוטי"
+  },
+  {
+   "story": "school",
+   "page": 22,
+   "he": "תחושת הישג"
+  },
+  {
+   "story": "school",
+   "page": 23,
+   "he": "עתיד"
+  },
+  {
+   "story": "school",
+   "page": 24,
+   "he": "להשתנות"
+  },
+  {
+   "story": "school",
+   "page": 24,
+   "he": "בדיעבד"
+  },
+  {
+   "story": "school",
+   "page": 24,
+   "he": "להסתכל אחורה"
+  },
+  {
+   "story": "school",
+   "page": 24,
+   "he": "לא היה קל"
+  },
+  {
+   "story": "school",
+   "page": 24,
+   "he": "שווה את זה"
+  },
+  {
+   "story": "school",
+   "page": 25,
+   "he": "להתאמן"
+  },
+  {
+   "story": "school",
+   "page": 25,
+   "he": "כישרון"
+  },
+  {
+   "story": "school",
+   "page": 26,
+   "he": "לדבר אנגלית"
+  },
+  {
+   "story": "school",
+   "page": 26,
+   "he": "לנוח"
+  },
+  {
+   "story": "school",
+   "page": 26,
+   "he": "שפה טבעית"
+  },
+  {
+   "story": "school",
+   "page": 27,
+   "he": "להשקיע"
+  },
+  {
+   "story": "school",
+   "page": 27,
+   "he": "שפה היא כלי"
+  },
+  {
+   "story": "school",
+   "page": 27,
+   "he": "עקשנות"
+  },
+  {
+   "story": "school",
+   "page": 27,
+   "he": "לא מהיר"
+  },
+  {
+   "story": "school",
+   "page": 28,
+   "he": "לכתוב ביומן"
+  },
+  {
+   "story": "school",
+   "page": 28,
+   "he": "למען"
+  },
+  {
+   "story": "school",
+   "page": 28,
+   "he": "להתגאות"
+  },
+  {
+   "story": "school",
+   "page": 28,
+   "he": "להמשיך ללכת"
+  },
+  {
+   "story": "school",
+   "page": 29,
+   "he": "כיתה חדשה"
+  },
+  {
+   "story": "school",
+   "page": 29,
+   "he": "ביטחון"
+  },
+  {
+   "story": "school",
+   "page": 29,
+   "he": "להציג את עצמו"
+  },
+  {
+   "story": "school",
+   "page": 30,
+   "he": "בסוף הכל מסתדר"
   }
  ]
 }

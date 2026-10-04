@@ -1,5 +1,6 @@
 [
  {
+  "story": "apartment",
   "page": 1,
   "he": "לעבור",
   "en": "to move / pass",
@@ -10,9 +11,11 @@
   "phrase": null,
   "otherPages": [
    11
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 1,
   "he": "ארגז",
   "en": "box / crate",
@@ -28,18 +31,22 @@
    4,
    42,
    45
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 1,
   "he": "עד היום",
   "en": "until today",
   "status": "phrase-on-page",
   "formsOnPage": [],
   "phrase": "עד היום",
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 3,
   "he": "להגיע",
   "en": "to arrive",
@@ -50,10 +57,14 @@
   ],
   "phrase": null,
   "otherPages": [
-   16
-  ]
+   14,
+   16,
+   19
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 3,
   "he": "להבטיח",
   "en": "to promise",
@@ -62,9 +73,11 @@
    "מבטיחה ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 3,
   "he": "להיזהר",
   "en": "to be careful",
@@ -73,9 +86,11 @@
    "אזהר ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 4,
   "he": "להתגעגע",
   "en": "to miss (someone)",
@@ -84,9 +99,11 @@
    "מתגעגעת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 5,
   "he": "לצאת",
   "en": "to go out",
@@ -96,11 +113,14 @@
   ],
   "phrase": null,
   "otherPages": [
+   4,
    27,
    34
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 5,
   "he": "ללבוש",
   "en": "to wear",
@@ -109,9 +129,11 @@
    "לובשת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 5,
   "he": "נעים",
   "en": "pleasant",
@@ -123,9 +145,11 @@
    10,
    16,
    17
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 6,
   "he": "לחפש",
   "en": "to look for",
@@ -134,45 +158,68 @@
    "ומחפשת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 6,
   "he": "לחם מלא",
   "en": "whole-wheat bread",
   "status": "phrase-on-page",
   "formsOnPage": [],
   "phrase": "לחם מלא",
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 7,
   "he": "לחכות",
   "en": "to wait",
-  "status": "none",
+  "status": "other-page-verb",
   "formsOnPage": [],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 1,
+    "form": "צלחות"
+   },
+   {
+    "page": 2,
+    "form": "מכוניות"
+   },
+   {
+    "page": 6,
+    "form": "חלות"
+   }
+  ]
  },
  {
+  "story": "apartment",
   "page": 7,
   "he": "לכשכש בזנב",
   "en": "to wag the tail",
-  "status": "phrase-on-page",
+  "status": "none",
   "formsOnPage": [],
-  "phrase": "לכשכש + בזנב",
-  "otherPages": []
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 8,
   "he": "ברוכה הבאה",
   "en": "welcome (f.)",
   "status": "phrase-on-page",
   "formsOnPage": [],
   "phrase": "ברוכה הבאה",
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 8,
   "he": "פינה",
   "en": "corner",
@@ -182,10 +229,14 @@
   ],
   "phrase": null,
   "otherPages": [
+   2,
+   7,
    10
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 8,
   "he": "להפתיע",
   "en": "to surprise",
@@ -194,9 +245,11 @@
    "מופתעת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 8,
   "he": "להתחלף",
   "en": "to exchange",
@@ -205,9 +258,11 @@
    "מתחלפות ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 9,
   "he": "להתעורר",
   "en": "to wake up",
@@ -216,9 +271,11 @@
    "מתעוררת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 9,
   "he": "להיזכר",
   "en": "to remember",
@@ -228,9 +285,11 @@
    "נזכרת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 9,
   "he": "להסתרק",
   "en": "to comb hair",
@@ -239,9 +298,11 @@
    "מסתרקת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 10,
   "he": "כיסא",
   "en": "chair",
@@ -250,9 +311,11 @@
    "וכיסאות"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 10,
   "he": "נוח",
   "en": "comfortable",
@@ -263,9 +326,11 @@
   "phrase": null,
   "otherPages": [
    29
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 10,
   "he": "טרי",
   "en": "fresh",
@@ -278,9 +343,11 @@
    20,
    23,
    38
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 10,
   "he": "להתיישב",
   "en": "to sit down",
@@ -290,9 +357,11 @@
    "מתיישבת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 11,
   "he": "לספר",
   "en": "to tell",
@@ -306,18 +375,22 @@
    31,
    40,
    41
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 11,
   "he": "עורך דין",
   "en": "lawyer",
   "status": "none",
   "formsOnPage": [],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 12,
   "he": "לזכור",
   "en": "to remember",
@@ -326,9 +399,11 @@
    "זוכרת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 12,
   "he": "עצוב",
   "en": "sad",
@@ -337,9 +412,11 @@
    "עצובה"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 12,
   "he": "מלא",
   "en": "full",
@@ -353,9 +430,11 @@
    6,
    7,
    10
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 13,
   "he": "לחוץ",
   "en": "stressed / tense",
@@ -365,18 +444,35 @@
   "otherPages": [
    5,
    46
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 13,
   "he": "לחכות",
   "en": "to wait",
-  "status": "none",
+  "status": "other-page-verb",
   "formsOnPage": [],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 1,
+    "form": "צלחות"
+   },
+   {
+    "page": 2,
+    "form": "מכוניות"
+   },
+   {
+    "page": 6,
+    "form": "חלות"
+   }
+  ]
  },
  {
+  "story": "apartment",
   "page": 14,
   "he": "להחזיק",
   "en": "to hold",
@@ -386,22 +482,11 @@
    "חזק ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
-  "page": 14,
-  "he": "חנות",
-  "en": "store",
-  "status": "likely",
-  "formsOnPage": [
-   "חנויות"
-  ],
-  "phrase": null,
-  "otherPages": [
-   30
-  ]
- },
- {
+  "story": "apartment",
   "page": 14,
   "he": "ממהר",
   "en": "hurrying / in a rush",
@@ -414,9 +499,11 @@
    8,
    13,
    21
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 14,
   "he": "לרדת",
   "en": "to get off / go down",
@@ -425,9 +512,11 @@
    "יורדת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 15,
   "he": "נחמד",
   "en": "nice",
@@ -438,9 +527,11 @@
   "phrase": null,
   "otherPages": [
    31
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 15,
   "he": "לקבל",
   "en": "to receive / welcome",
@@ -449,9 +540,11 @@
    "מקבלת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 16,
   "he": "להציג",
   "en": "to introduce",
@@ -461,9 +554,11 @@
    "הצעיר ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 16,
   "he": "רגוע",
   "en": "calm / relaxed",
@@ -472,18 +567,26 @@
    "רגועה"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [
+   9,
+   11,
+   34
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 17,
   "he": "עייף",
   "en": "tired",
   "status": "none",
   "formsOnPage": [],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 17,
   "he": "ללמוד",
   "en": "to learn / study",
@@ -493,9 +596,11 @@
    "הלימון ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 17,
   "he": "לעלות",
   "en": "to rise / go up",
@@ -504,9 +609,11 @@
   "phrase": null,
   "otherPages": [
    25
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 18,
   "he": "להאמין",
   "en": "to believe",
@@ -517,9 +624,11 @@
   "phrase": null,
   "otherPages": [
    38
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 18,
   "he": "רגילה",
   "en": "used to / accustomed",
@@ -528,9 +637,11 @@
   "phrase": null,
   "otherPages": [
    19
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 19,
   "he": "לעזור",
   "en": "to help",
@@ -539,29 +650,11 @@
    "אעזור ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
-  "page": 20,
-  "he": "צבעים",
-  "en": "colors",
-  "status": "other-page",
-  "formsOnPage": [],
-  "phrase": null,
-  "otherPages": [
-   37
-  ]
- },
- {
-  "page": 20,
-  "he": "אשתו",
-  "en": "his wife",
-  "status": "none",
-  "formsOnPage": [],
-  "phrase": null,
-  "otherPages": []
- },
- {
+  "story": "apartment",
   "page": 20,
   "he": "מעולה",
   "en": "excellent",
@@ -572,9 +665,11 @@
   "phrase": null,
   "otherPages": [
    17
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 21,
   "he": "להרגיש",
   "en": "to feel",
@@ -583,9 +678,11 @@
    "הרגישה ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 21,
   "he": "להציע",
   "en": "to suggest / offer",
@@ -595,9 +692,11 @@
    "להפריע ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 22,
   "he": "לקחת",
   "en": "to take",
@@ -607,21 +706,26 @@
   ],
   "phrase": null,
   "otherPages": [
+   5,
    29,
-   36,
-   39
-  ]
+   32,
+   36
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 22,
   "he": "זר פרחים",
   "en": "bouquet of flowers",
   "status": "phrase-on-page",
   "formsOnPage": [],
   "phrase": "זר פרחים",
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 22,
   "he": "לחבק",
   "en": "to hug",
@@ -630,27 +734,38 @@
    "וחיבקה ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 24,
   "he": "כל החיים",
   "en": "all my life",
   "status": "phrase-on-page",
   "formsOnPage": [],
   "phrase": "כל החיים",
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 24,
   "he": "להיוולד",
   "en": "to be born",
-  "status": "none",
+  "status": "other-page-verb",
   "formsOnPage": [],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 10,
+    "form": "שוקולד"
+   }
+  ]
  },
  {
+  "story": "apartment",
   "page": 24,
   "he": "להקשיב",
   "en": "to listen",
@@ -659,9 +774,11 @@
    "הקשיבה ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 25,
   "he": "לכאוב",
   "en": "to hurt",
@@ -670,9 +787,11 @@
    "כאב ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 26,
   "he": "להתקשר",
   "en": "to call",
@@ -683,9 +802,11 @@
    "תתקשרי ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 26,
   "he": "מצטער",
   "en": "sorry",
@@ -694,9 +815,11 @@
    "מצטערת"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 26,
   "he": "לנוח",
   "en": "to rest",
@@ -706,18 +829,22 @@
    "תנוחי ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 27,
   "he": "בית מרקחת",
   "en": "pharmacy",
   "status": "phrase-on-page",
   "formsOnPage": [],
   "phrase": "בית מרקחת",
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 27,
   "he": "לתכנן",
   "en": "to plan",
@@ -726,27 +853,38 @@
    "מתכננת ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 28,
   "he": "מרק עוף",
   "en": "chicken soup",
   "status": "phrase-on-page",
   "formsOnPage": [],
   "phrase": "מרק עוף",
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 28,
   "he": "לחמם",
   "en": "to heat up",
-  "status": "none",
+  "status": "other-page-verb",
   "formsOnPage": [],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 15,
+    "form": "חמישים"
+   }
+  ]
  },
  {
+  "story": "apartment",
   "page": 29,
   "he": "רחוק",
   "en": "far",
@@ -758,9 +896,11 @@
   "otherPages": [
    2,
    22
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 30,
   "he": "צר",
   "en": "narrow",
@@ -769,9 +909,11 @@
    "צרים"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 30,
   "he": "גלריה",
   "en": "gallery",
@@ -780,9 +922,11 @@
    "גלריות"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 31,
   "he": "להזמין",
   "en": "to order",
@@ -793,9 +937,11 @@
   "phrase": null,
   "otherPages": [
    21
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 31,
   "he": "לגלות",
   "en": "to discover",
@@ -804,9 +950,11 @@
    "לראות ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 32,
   "he": "דרך",
   "en": "way / road",
@@ -818,9 +966,11 @@
    29,
    39,
    45
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 33,
   "he": "לענות",
   "en": "to answer",
@@ -831,18 +981,22 @@
   "phrase": null,
   "otherPages": [
    21
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 33,
   "he": "תודה לאל",
   "en": "thank God",
   "status": "phrase-on-page",
   "formsOnPage": [],
   "phrase": "תודה לאל",
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 34,
   "he": "מאושר",
   "en": "happy",
@@ -851,18 +1005,22 @@
    "מאושרת"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 34,
   "he": "מבקרת",
   "en": "visits (fem.)",
   "status": "none",
   "formsOnPage": [],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 35,
   "he": "עוגה",
   "en": "cake",
@@ -876,18 +1034,22 @@
    34,
    38,
    40
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 35,
   "he": "יום חופש",
   "en": "day off",
   "status": "phrase-on-page",
   "formsOnPage": [],
   "phrase": "יום חופש",
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 35,
   "he": "לשנות",
   "en": "to change",
@@ -896,9 +1058,11 @@
    "לעשות ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 36,
   "he": "לחבק",
   "en": "to hug",
@@ -907,9 +1071,11 @@
    "וחיבקה ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 37,
   "he": "מגניב",
   "en": "cool",
@@ -918,9 +1084,11 @@
    "מגניבה"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 40,
   "he": "לבכות",
   "en": "to cry",
@@ -930,9 +1098,11 @@
    "בכתה ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 40,
   "he": "לסמן",
   "en": "to mark",
@@ -941,9 +1111,11 @@
    "מסומן ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 41,
   "he": "לנשום",
   "en": "to breathe",
@@ -952,9 +1124,11 @@
    "שכולם ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 42,
   "he": "אחר",
   "en": "different / other",
@@ -968,9 +1142,11 @@
    4,
    5,
    7
-  ]
+  ],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 43,
   "he": "להתקדם",
   "en": "to advance",
@@ -980,9 +1156,11 @@
    "תפקידים ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 43,
   "he": "תפקיד",
   "en": "role / position",
@@ -991,9 +1169,11 @@
    "תפקידים"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 43,
   "he": "להתפתח",
   "en": "to develop",
@@ -1002,9 +1182,11 @@
    "והתפתחה ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 44,
   "he": "לבנות",
   "en": "to build",
@@ -1013,9 +1195,11 @@
    "בנתה ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 44,
   "he": "לשכוח",
   "en": "to forget",
@@ -1025,27 +1209,46 @@
    "בשכונה ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 45,
   "he": "בסך הכל",
   "en": "overall / all in all",
   "status": "phrase-on-page",
   "formsOnPage": [],
   "phrase": "בסך הכל",
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
  },
  {
+  "story": "apartment",
   "page": 46,
   "he": "לשלם",
   "en": "to pay",
-  "status": "none",
+  "status": "other-page-verb",
   "formsOnPage": [],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 7,
+    "form": "שלום"
+   },
+   {
+    "page": 14,
+    "form": "שלום"
+   },
+   {
+    "page": 20,
+    "form": "בשלים"
+   }
+  ]
  },
  {
+  "story": "apartment",
   "page": 46,
   "he": "לעצור",
   "en": "to stop",
@@ -1054,6 +1257,9402 @@
    "עצרה ~"
   ],
   "phrase": null,
-  "otherPages": []
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 2,
+  "he": "פחד",
+  "en": "fear",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 2,
+  "he": "לזוז",
+  "en": "to move",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   10
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 4,
+  "he": "מפתיע",
+  "en": "surprising",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 4,
+  "he": "לשכוח",
+  "en": "to forget",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 10,
+    "form": "השולחן"
+   },
+   {
+    "page": 14,
+    "form": "לשלוח"
+   },
+   {
+    "page": 15,
+    "form": "שולח"
+   }
+  ]
+ },
+ {
+  "story": "cat",
+  "page": 4,
+  "he": "חלל",
+  "en": "space",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 4,
+  "he": "לחייך",
+  "en": "to smile",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   23
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 5,
+  "he": "שכן",
+  "en": "neighbor",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 5,
+  "he": "לוודא",
+  "en": "to make sure",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 1,
+    "form": "ועובד"
+   }
+  ]
+ },
+ {
+  "story": "cat",
+  "page": 6,
+  "he": "להחליט",
+  "en": "to decide",
+  "status": "maybe",
+  "formsOnPage": [
+   "לחתולים ~",
+   "חתולים ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   5
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 6,
+  "he": "קערה",
+  "en": "bowl",
+  "status": "likely",
+  "formsOnPage": [
+   "קערות"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 6,
+  "he": "ספר",
+  "en": "book",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   19
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 7,
+  "he": "לקרוא ל-",
+  "en": "to call (name)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 7,
+  "he": "לחשוב",
+  "en": "to think",
+  "status": "maybe",
+  "formsOnPage": [
+   "חושב ~",
+   "שחור-לבן ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 7,
+  "he": "מיוחד",
+  "en": "special",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 8,
+  "he": "לספר",
+  "en": "to tell",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   19
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 9,
+  "he": "שגרה",
+  "en": "routine",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 9,
+  "he": "כל יום",
+  "en": "every day",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 9,
+  "he": "לעורר",
+  "en": "to wake up (someone)",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 10,
+    "form": "העוזר"
+   }
+  ]
+ },
+ {
+  "story": "cat",
+  "page": 9,
+  "he": "רעב",
+  "en": "hungry",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   2,
+   3
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 9,
+  "he": "עבודה",
+  "en": "work",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   10,
+   11
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 10,
+  "he": "מצחיק",
+  "en": "funny",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   18,
+   19
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 10,
+  "he": "לקפוץ",
+  "en": "to jump",
+  "status": "maybe",
+  "formsOnPage": [
+   "קפץ ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 11,
+  "he": "בעיה",
+  "en": "problem",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 11,
+  "he": "לחפש",
+  "en": "to look for",
+  "status": "maybe",
+  "formsOnPage": [
+   "חיפש ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 11,
+  "he": "למצוא",
+  "en": "to find",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 6,
+    "form": "מקצועי"
+   },
+   {
+    "page": 12,
+    "form": "מוצא"
+   },
+   {
+    "page": 19,
+    "form": "מהצוות"
+   }
+  ]
+ },
+ {
+  "story": "cat",
+  "page": 11,
+  "he": "לצאת",
+  "en": "to go out",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 12,
+  "he": "לעזור",
+  "en": "to help",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 10,
+    "form": "העוזר"
+   }
+  ]
+ },
+ {
+  "story": "cat",
+  "page": 12,
+  "he": "לטפס",
+  "en": "to climb",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 12,
+  "he": "לצחוק מעצמך",
+  "en": "to laugh at yourself",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 12,
+  "he": "לרדת",
+  "en": "to come down",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 13,
+  "he": "לזחול",
+  "en": "to crawl",
+  "status": "maybe",
+  "formsOnPage": [
+   "החתול ~",
+   "חתול ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 13,
+  "he": "להציל",
+  "en": "to rescue / save",
+  "status": "maybe",
+  "formsOnPage": [
+   "הוציא ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 14,
+  "he": "אחיין",
+  "en": "nephew",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 14,
+  "he": "ילדה",
+  "en": "girl",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 14,
+  "he": "לצייר",
+  "en": "to draw",
+  "status": "maybe",
+  "formsOnPage": [
+   "נייר ~",
+   "מציירת ~",
+   "ציור ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 15,
+  "he": "לענות",
+  "en": "to answer",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 6,
+    "form": "לחנות"
+   },
+   {
+    "page": 13,
+    "form": "לזרועות"
+   },
+   {
+    "page": 17,
+    "form": "ענקיות"
+   }
+  ]
+ },
+ {
+  "story": "cat",
+  "page": 15,
+  "he": "בדיוק",
+  "en": "exactly",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   9,
+   16
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 15,
+  "he": "לתאר",
+  "en": "to describe",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 16,
+    "form": "שתיארת"
+   }
+  ]
+ },
+ {
+  "story": "cat",
+  "page": 15,
+  "he": "מצחיק",
+  "en": "funny",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   18,
+   19
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 16,
+  "he": "מבקרת",
+  "en": "visits (fem.)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 16,
+  "he": "סוף שבוע",
+  "en": "weekend",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "סוף + שבוע",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 16,
+  "he": "להתרגש",
+  "en": "to get excited",
+  "status": "maybe",
+  "formsOnPage": [
+   "התרגשה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 16,
+  "he": "מיד",
+  "en": "immediately",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 16,
+  "he": "מתנה",
+  "en": "gift",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 17,
+  "he": "לגשת",
+  "en": "to approach",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 10,
+    "form": "בפגישת"
+   }
+  ]
+ },
+ {
+  "story": "cat",
+  "page": 18,
+  "he": "חוזרת",
+  "en": "returning (fem.)",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 18,
+  "he": "שקט",
+  "en": "quiet / silent",
+  "status": "likely",
+  "formsOnPage": [
+   "שקטה"
+  ],
+  "phrase": null,
+  "otherPages": [
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 18,
+  "he": "מרגיש",
+  "en": "feels",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   17
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 18,
+  "he": "שונה",
+  "en": "different",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   1,
+   8,
+   11,
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 19,
+  "he": "לשמוע",
+  "en": "to hear",
+  "status": "maybe",
+  "formsOnPage": [
+   "השבוע ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 19,
+  "he": "בניין",
+  "en": "building",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   5,
+   11
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 19,
+  "he": "חזק",
+  "en": "strong / loud",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 20,
+  "he": "להגיע",
+  "en": "to arrive",
+  "status": "maybe",
+  "formsOnPage": [
+   "הגיעה ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   17
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 20,
+  "he": "שמנה",
+  "en": "fat (f.)",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 20,
+  "he": "זו על זה",
+  "en": "at each other",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 21,
+  "he": "להתרגל",
+  "en": "to get used to",
+  "status": "maybe",
+  "formsOnPage": [
+   "התרגלו ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 21,
+  "he": "לישון",
+  "en": "to sleep",
+  "status": "maybe",
+  "formsOnPage": [
+   "ישבו ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 21,
+  "he": "קפה",
+  "en": "coffee",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4,
+   6,
+   9,
+   22
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 22,
+  "he": "לשנות",
+  "en": "to change",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 4,
+    "form": "לשתות"
+   },
+   {
+    "page": 6,
+    "form": "לחנות"
+   },
+   {
+    "page": 8,
+    "form": "חדשות"
+   }
+  ]
+ },
+ {
+  "story": "cat",
+  "page": 22,
+  "he": "קטן",
+  "en": "small",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   2,
+   5,
+   7,
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 22,
+  "he": "להביא",
+  "en": "to bring",
+  "status": "maybe",
+  "formsOnPage": [
+   "היא ~",
+   "הביאה ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   4,
+   19,
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 22,
+  "he": "אהבה",
+  "en": "love",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 23,
+  "he": "סיפור",
+  "en": "story",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   19
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 23,
+  "he": "דלת",
+  "en": "door",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4,
+   11
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 23,
+  "he": "ברווז",
+  "en": "duck",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "cat",
+  "page": 23,
+  "he": "חיוך",
+  "en": "smile",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 2,
+  "he": "לסרב",
+  "en": "to refuse",
+  "status": "maybe",
+  "formsOnPage": [
+   "סירב ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 2,
+  "he": "חברה טובה",
+  "en": "close friend",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "חברה טובה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 2,
+  "he": "עצה",
+  "en": "advice",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   7
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 3,
+  "he": "לפרסם",
+  "en": "to post / publish",
+  "status": "maybe",
+  "formsOnPage": [
+   "פרסמה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 3,
+  "he": "רשת חברתית",
+  "en": "social network",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "רשת + חברתית",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 4,
+  "he": "לנקות",
+  "en": "to clean",
+  "status": "maybe",
+  "formsOnPage": [
+   "ירקות ~",
+   "ניקתה ~",
+   "ונרות ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 4,
+  "he": "מוכן",
+  "en": "ready",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   10
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 4,
+  "he": "דופק",
+  "en": "knocking",
+  "status": "likely",
+  "formsOnPage": [
+   "דופקת"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 5,
+  "he": "להכיר",
+  "en": "to know (someone)",
+  "status": "maybe",
+  "formsOnPage": [
+   "הכירה ~",
+   "מהשכנים ~",
+   "הסכימו ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 5,
+  "he": "לטעום",
+  "en": "to taste",
+  "status": "maybe",
+  "formsOnPage": [
+   "סטודנטים ~",
+   "טעמו ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 5,
+  "he": "להסכים",
+  "en": "to agree",
+  "status": "maybe",
+  "formsOnPage": [
+   "סטודנטים ~",
+   "מהשכנים ~",
+   "הסלטים ~",
+   "הסכימו ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 6,
+  "he": "להעיר",
+  "en": "to remark",
+  "status": "maybe",
+  "formsOnPage": [
+   "הערב ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   1,
+   8
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 6,
+  "he": "מקצועי",
+  "en": "professional",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 7,
+  "he": "מבקרת",
+  "en": "visits (fem.)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 7,
+  "he": "לחסוך",
+  "en": "to save",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 8,
+  "he": "שכר דירה",
+  "en": "rent",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "שכר + דירה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 8,
+  "he": "למצוא",
+  "en": "to find",
+  "status": "maybe",
+  "formsOnPage": [
+   "מצאו ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 9,
+  "he": "לצבוע",
+  "en": "to paint",
+  "status": "maybe",
+  "formsOnPage": [
+   "צבעה ~",
+   "בצבע ~",
+   "שבוע ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 9,
+  "he": "קיר",
+  "en": "wall",
+  "status": "likely",
+  "formsOnPage": [
+   "הקירות",
+   "שהקירות"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 9,
+  "he": "להצליח",
+  "en": "to succeed",
+  "status": "maybe",
+  "formsOnPage": [
+   "נצליח ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 10,
+  "he": "לבחור",
+  "en": "to choose",
+  "status": "maybe",
+  "formsOnPage": [
+   "בחרו ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   16
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 10,
+  "he": "פשוט",
+  "en": "simple",
+  "status": "likely",
+  "formsOnPage": [
+   "פשוטים"
+  ],
+  "phrase": null,
+  "otherPages": [
+   2,
+   9,
+   13,
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 11,
+  "he": "ריק",
+  "en": "empty",
+  "status": "likely",
+  "formsOnPage": [
+   "ריקה"
+  ],
+  "phrase": null,
+  "otherPages": [
+   21
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 11,
+  "he": "לחכות",
+  "en": "to wait",
+  "status": "maybe",
+  "formsOnPage": [
+   "השולחנות ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 11,
+  "he": "דאגה",
+  "en": "worry",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 11,
+  "he": "לקוח",
+  "en": "customer",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   13,
+   19,
+   21
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 12,
+  "he": "להיפתח",
+  "en": "to open (intr.)",
+  "status": "maybe",
+  "formsOnPage": [
+   "נפתחה ~",
+   "פתוחה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 12,
+  "he": "להתאפק",
+  "en": "to hold back",
+  "status": "maybe",
+  "formsOnPage": [
+   "התאפקה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 13,
+  "he": "לאט לאט",
+  "en": "slowly",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "לאט לאט",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 13,
+  "he": "רשימת המתנה",
+  "en": "waiting list",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "רשימת המתנה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 13,
+  "he": "להאמין",
+  "en": "to believe",
+  "status": "maybe",
+  "formsOnPage": [
+   "האמינה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 13,
+  "he": "לספר",
+  "en": "to tell",
+  "status": "maybe",
+  "formsOnPage": [
+   "סיפר ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   16
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 15,
+  "he": "עייף",
+  "en": "tired",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 15,
+  "he": "מנוחה",
+  "en": "rest",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   16
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 15,
+  "he": "לבכות",
+  "en": "to cry",
+  "status": "maybe",
+  "formsOnPage": [
+   "ובכתה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 16,
+  "he": "לקבל",
+  "en": "to receive / hire",
+  "status": "maybe",
+  "formsOnPage": [
+   "קיבלו ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 16,
+  "he": "עובד",
+  "en": "employee",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   1
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 16,
+  "he": "יום בשבוע",
+  "en": "one day a week",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "יום + בשבוע",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 17,
+  "he": "גאה",
+  "en": "proud",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   10,
+   18,
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 17,
+  "he": "להזמין",
+  "en": "to invite",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 17,
+  "he": "לבכות",
+  "en": "to cry",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 1,
+    "form": "בשכונה"
+   },
+   {
+    "page": 6,
+    "form": "תכניות"
+   },
+   {
+    "page": 7,
+    "form": "במסעדות"
+   }
+  ]
+ },
+ {
+  "story": "restaurant",
+  "page": 17,
+  "he": "אהבה",
+  "en": "love",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   13,
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 18,
+  "he": "לטעום",
+  "en": "to taste",
+  "status": "maybe",
+  "formsOnPage": [
+   "הטעם ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 18,
+  "he": "להיזכר",
+  "en": "to remember",
+  "status": "maybe",
+  "formsOnPage": [
+   "זוכרת ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 18,
+  "he": "להרגיש",
+  "en": "to feel",
+  "status": "maybe",
+  "formsOnPage": [
+   "מגישה ~",
+   "הרגישה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 19,
+  "he": "להזמין",
+  "en": "to invite",
+  "status": "maybe",
+  "formsOnPage": [
+   "הזמינו ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 19,
+  "he": "עקומים",
+  "en": "curved",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 19,
+  "he": "מתנה",
+  "en": "gift",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   13,
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 19,
+  "he": "דרך",
+  "en": "way / journey",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 20,
+  "he": "נאום",
+  "en": "speech",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 20,
+  "he": "להרים כוס",
+  "en": "to raise a glass",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 20,
+  "he": "להודות",
+  "en": "to thank",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 1,
+    "form": "ועובדת"
+   },
+   {
+    "page": 2,
+    "form": "להלוות"
+   },
+   {
+    "page": 3,
+    "form": "מקומות"
+   }
+  ]
+ },
+ {
+  "story": "restaurant",
+  "page": 20,
+  "he": "אי אפשר",
+  "en": "impossible",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 20,
+  "he": "שמחה",
+  "en": "joy",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 21,
+  "he": "מחשבה",
+  "en": "thought",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   3,
+   6
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 21,
+  "he": "להביט",
+  "en": "to gaze",
+  "status": "maybe",
+  "formsOnPage": [
+   "מביטה ~",
+   "הדברים ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 21,
+  "he": "מספיק",
+  "en": "enough",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   22
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 21,
+  "he": "טוב",
+  "en": "good",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   1,
+   2,
+   16,
+   19
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 22,
+  "he": "דלת",
+  "en": "door",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4,
+   10,
+   11,
+   12
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 22,
+  "he": "לסגור",
+  "en": "to close",
+  "status": "maybe",
+  "formsOnPage": [
+   "סוגרת ~",
+   "סיפורים ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   16
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "restaurant",
+  "page": 22,
+  "he": "רחוב",
+  "en": "street",
+  "status": "likely",
+  "formsOnPage": [
+   "ברחובות"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 1,
+  "he": "לתכנן",
+  "en": "to plan",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 4,
+    "form": "מתנגן"
+   },
+   {
+    "page": 7,
+    "form": "תיכנסו"
+   },
+   {
+    "page": 28,
+    "form": "מתכננת"
+   }
+  ]
+ },
+ {
+  "story": "trip",
+  "page": 1,
+  "he": "לנסוע",
+  "en": "to travel / drive",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 7,
+    "form": "תיכנסו"
+   },
+   {
+    "page": 12,
+    "form": "נוסעים"
+   },
+   {
+    "page": 22,
+    "form": "הנסיעה"
+   }
+  ]
+ },
+ {
+  "story": "trip",
+  "page": 2,
+  "he": "לשכור",
+  "en": "to rent",
+  "status": "maybe",
+  "formsOnPage": [
+   "נשכור ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 2,
+  "he": "דרום",
+  "en": "south",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   1
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 2,
+  "he": "עיר",
+  "en": "city",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   7,
+   17,
+   22
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 2,
+  "he": "הפוך",
+  "en": "opposite",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 2,
+  "he": "להסכים",
+  "en": "to agree",
+  "status": "maybe",
+  "formsOnPage": [
+   "מסתכלים ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 3,
+  "he": "בקושי",
+  "en": "barely",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 3,
+  "he": "הרבה",
+  "en": "a lot",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   9,
+   23,
+   25,
+   26
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 4,
+  "he": "מוקדם",
+  "en": "early",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 4,
+  "he": "נוף",
+  "en": "view",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   12
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 5,
+  "he": "אגם",
+  "en": "lake",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   10
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 5,
+  "he": "יפה",
+  "en": "beautiful",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   3,
+   19,
+   27
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 5,
+  "he": "לעצור",
+  "en": "to stop",
+  "status": "maybe",
+  "formsOnPage": [
+   "תעצרי ~",
+   "עוצרת ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 5,
+  "he": "נקודה",
+  "en": "point / spot",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 6,
+  "he": "פיתה",
+  "en": "pita",
+  "status": "likely",
+  "formsOnPage": [
+   "פיתות"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 6,
+  "he": "לאכול",
+  "en": "to eat",
+  "status": "maybe",
+  "formsOnPage": [
+   "אוכלים ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 7,
+  "he": "רחוב",
+  "en": "street",
+  "status": "likely",
+  "formsOnPage": [
+   "הרחובות"
+  ],
+  "phrase": null,
+  "otherPages": [
+   8,
+   22
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 7,
+  "he": "עתיקה",
+  "en": "ancient",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   22
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 8,
+  "he": "שמח",
+  "en": "happy",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   27
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 8,
+  "he": "לחיות",
+  "en": "to live",
+  "status": "maybe",
+  "formsOnPage": [
+   "יותר ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   20,
+   26
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 8,
+  "he": "לקנות",
+  "en": "to buy",
+  "status": "maybe",
+  "formsOnPage": [
+   "נולדתי ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 9,
+  "he": "עייף",
+  "en": "tired",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 9,
+  "he": "מיטה",
+  "en": "bed",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   5,
+   20,
+   26
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 9,
+  "he": "ראשון",
+  "en": "first",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   25
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 10,
+  "he": "שחייה",
+  "en": "swimming",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 10,
+  "he": "בגדי ים",
+  "en": "swimsuit",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "בגדי + ים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 10,
+  "he": "דג",
+  "en": "fish",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   17,
+   18
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 11,
+  "he": "לטבוע",
+  "en": "to drown",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 1,
+    "form": "שבוע"
+   },
+   {
+    "page": 3,
+    "form": "השבוע"
+   },
+   {
+    "page": 6,
+    "form": "טועמת"
+   }
+  ]
+ },
+ {
+  "story": "trip",
+  "page": 11,
+  "he": "מעל",
+  "en": "above",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   12,
+   13,
+   16,
+   28
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 11,
+  "he": "לצלות",
+  "en": "to grill",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 2,
+    "form": "עולות"
+   },
+   {
+    "page": 3,
+    "form": "חולצות"
+   },
+   {
+    "page": 4,
+    "form": "מתחילות"
+   }
+  ]
+ },
+ {
+  "story": "trip",
+  "page": 11,
+  "he": "בשר",
+  "en": "meat",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 12,
+  "he": "לצוף",
+  "en": "to float",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 12,
+  "he": "בוץ",
+  "en": "mud",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   14,
+   27
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 12,
+  "he": "עור",
+  "en": "skin",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 12,
+  "he": "נמוך",
+  "en": "low",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 12,
+  "he": "חם מאוד",
+  "en": "very hot",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 13,
+  "he": "לצחוק",
+  "en": "to laugh",
+  "status": "maybe",
+  "formsOnPage": [
+   "צוחקת ~",
+   "וצוחקת ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   26
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 13,
+  "he": "מרגיש",
+  "en": "feels",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   14,
+   24
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 13,
+  "he": "ראש",
+  "en": "head",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   18
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 13,
+  "he": "רגליים",
+  "en": "legs",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   11,
+   17,
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 13,
+  "he": "פעם ראשונה",
+  "en": "first time",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 14,
+  "he": "להרגיע",
+  "en": "to calm",
+  "status": "maybe",
+  "formsOnPage": [
+   "מרגיש ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 14,
+  "he": "לעצום",
+  "en": "to close (eyes)",
+  "status": "maybe",
+  "formsOnPage": [
+   "עומדים ~",
+   "וצוחקים ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   6,
+   10
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 14,
+  "he": "אחר כך",
+  "en": "afterwards",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 15,
+  "he": "יבש",
+  "en": "dry",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 15,
+  "he": "שמיכה",
+  "en": "blanket",
+  "status": "likely",
+  "formsOnPage": [
+   "ושמיכות"
+  ],
+  "phrase": null,
+  "otherPages": [
+   3
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 16,
+  "he": "חלמתי",
+  "en": "I dreamed",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 16,
+  "he": "חלום",
+  "en": "dream",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   17
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 16,
+  "he": "סיפור",
+  "en": "story",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   8,
+   15,
+   24,
+   29
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 16,
+  "he": "חיים",
+  "en": "life",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   3,
+   15,
+   18,
+   19
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 16,
+  "he": "ללמוד",
+  "en": "to learn",
+  "status": "maybe",
+  "formsOnPage": [
+   "לעצמו ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 16,
+  "he": "עולם",
+  "en": "world",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   6,
+   13,
+   18,
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 17,
+  "he": "ים אדום",
+  "en": "Red Sea",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ים + אדום",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 17,
+  "he": "דגים צבעוניים",
+  "en": "colorful fish",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 17,
+  "he": "חמים",
+  "en": "hot",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   10
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 17,
+  "he": "מלון יוקרה",
+  "en": "luxury hotel",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "מלון יוקרה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 18,
+  "he": "עולם אחר",
+  "en": "another world",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 18,
+  "he": "מתחת למים",
+  "en": "underwater",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "מתחת למים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 18,
+  "he": "צבעים",
+  "en": "colors",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   7
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 18,
+  "he": "יפה מאוד",
+  "en": "very beautiful",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 19,
+  "he": "כיף",
+  "en": "fun",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 19,
+  "he": "לזכור",
+  "en": "to remember",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   16
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 19,
+  "he": "ביחד",
+  "en": "together",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4,
+   5,
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 20,
+  "he": "סלעים",
+  "en": "rocks",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 20,
+  "he": "ללכת",
+  "en": "to walk",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   15,
+   21
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 21,
+  "he": "תייר",
+  "en": "tourist",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 21,
+  "he": "ללמוד עברית",
+  "en": "to learn Hebrew",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 22,
+  "he": "עיר קודש",
+  "en": "holy city",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 22,
+  "he": "כותל",
+  "en": "Kotel / Western Wall",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   23
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 22,
+  "he": "מיוחדת",
+  "en": "special (f.)",
+  "status": "likely",
+  "formsOnPage": [
+   "מיוחדים"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 23,
+  "he": "שקוף",
+  "en": "transparent",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 23,
+  "he": "להתפלל",
+  "en": "to pray",
+  "status": "maybe",
+  "formsOnPage": [
+   "מתפללים ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 23,
+  "he": "דת",
+  "en": "religion",
+  "status": "likely",
+  "formsOnPage": [
+   "דתית"
+  ],
+  "phrase": null,
+  "otherPages": [
+   4,
+   5,
+   8,
+   9
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 23,
+  "he": "כבוד",
+  "en": "respect",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   24
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 24,
+  "he": "ארוחת שבת",
+  "en": "Shabbat meal",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ארוחת שבת",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 24,
+  "he": "להזמין",
+  "en": "to invite",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 3,
+    "form": "מכין"
+   },
+   {
+    "page": 14,
+    "form": "מבין"
+   },
+   {
+    "page": 21,
+    "form": "מברלין"
+   }
+  ]
+ },
+ {
+  "story": "trip",
+  "page": 24,
+  "he": "מסורת",
+  "en": "tradition",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   7
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 24,
+  "he": "לברך",
+  "en": "to bless",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   15
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 24,
+  "he": "מיוחד",
+  "en": "special",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   8,
+   15,
+   22
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 24,
+  "he": "דור",
+  "en": "generation",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 25,
+  "he": "חוזרת",
+  "en": "returning (fem.)",
+  "status": "likely",
+  "formsOnPage": [
+   "חוזרים"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 25,
+  "he": "הביתה",
+  "en": "home",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 25,
+  "he": "סוף",
+  "en": "end",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 26,
+  "he": "ריק",
+  "en": "empty",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 26,
+  "he": "מיטה שלי",
+  "en": "my bed",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 26,
+  "he": "חסר",
+  "en": "missing",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 26,
+  "he": "פעם",
+  "en": "once / time",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 27,
+  "he": "להתפתח",
+  "en": "to develop",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 4,
+    "form": "תפתחי"
+   },
+   {
+    "page": 10,
+    "form": "פותח"
+   },
+   {
+    "page": 24,
+    "form": "פתחה"
+   }
+  ]
+ },
+ {
+  "story": "trip",
+  "page": 27,
+  "he": "להיזכר",
+  "en": "to reminisce",
+  "status": "maybe",
+  "formsOnPage": [
+   "זוכר ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 27,
+  "he": "לדפדף",
+  "en": "to flip through",
+  "status": "maybe",
+  "formsOnPage": [
+   "מדפדפים ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 27,
+  "he": "רגע",
+  "en": "moment",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   16,
+   17,
+   23,
+   25
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 28,
+  "he": "תכנית",
+  "en": "plan",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 28,
+  "he": "חדשה",
+  "en": "new (f.)",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   24
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 28,
+  "he": "חלמתי",
+  "en": "I dreamed",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 28,
+  "he": "מחוץ לארץ",
+  "en": "abroad",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "מחוץ לארץ",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 28,
+  "he": "זמן",
+  "en": "time",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   29
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 28,
+  "he": "מתאים",
+  "en": "suitable / right",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 29,
+  "he": "עברו חודשים",
+  "en": "months passed",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "עברו חודשים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 29,
+  "he": "חיי",
+  "en": "my life",
+  "status": "likely",
+  "formsOnPage": [
+   "החיים"
+  ],
+  "phrase": null,
+  "otherPages": [
+   3,
+   7,
+   14,
+   15
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 29,
+  "he": "להבין",
+  "en": "to understand",
+  "status": "maybe",
+  "formsOnPage": [
+   "החברים ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   14,
+   23
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "trip",
+  "page": 29,
+  "he": "חשוב",
+  "en": "important",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   16,
+   23,
+   25
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 1,
+  "he": "חופש",
+  "en": "vacation",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   11,
+   23
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 1,
+  "he": "לא רוצה",
+  "en": "doesn't want",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "לא רוצה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 1,
+  "he": "חבר",
+  "en": "friend",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   2,
+   5,
+   13,
+   18
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 2,
+  "he": "אוטובוס",
+  "en": "bus",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   3,
+   22
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 2,
+  "he": "לארגן",
+  "en": "to arrange",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 5,
+    "form": "ארון"
+   },
+   {
+    "page": 14,
+    "form": "אקורדיון"
+   },
+   {
+    "page": 15,
+    "form": "אקורדיון"
+   }
+  ]
+ },
+ {
+  "story": "garden",
+  "page": 3,
+  "he": "יום ראשון",
+  "en": "Sunday",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "יום ראשון",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 3,
+  "he": "סוף סוף",
+  "en": "finally",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "סוף סוף",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 3,
+  "he": "מחכה",
+  "en": "waiting",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 4,
+  "he": "עצים",
+  "en": "trees",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   5,
+   16
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 4,
+  "he": "עוף",
+  "en": "chicken",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   21
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 4,
+  "he": "שקט",
+  "en": "quiet",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   6,
+   10,
+   16,
+   19
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 5,
+  "he": "ישן",
+  "en": "old",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4,
+   10,
+   26
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 5,
+  "he": "חלון פתוח",
+  "en": "open window",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "חלון פתוח",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 5,
+  "he": "ארוחת ערב",
+  "en": "dinner",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ארוחת ערב",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 6,
+  "he": "לבשל",
+  "en": "to cook",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   8
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 6,
+  "he": "סיר",
+  "en": "pot",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 6,
+  "he": "שאלות",
+  "en": "questions",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 6,
+  "he": "לשאול",
+  "en": "to ask",
+  "status": "maybe",
+  "formsOnPage": [
+   "אוכלים ~",
+   "שואל ~",
+   "לאכול ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 7,
+  "he": "בוקר מוקדם",
+  "en": "early morning",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 7,
+  "he": "שטוף פנים",
+  "en": "wash face",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 7,
+  "he": "בגדי עבודה",
+  "en": "work clothes",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "בגדי עבודה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 7,
+  "he": "לכאוב",
+  "en": "to hurt",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 3,
+    "form": "באוטובוס"
+   },
+   {
+    "page": 9,
+    "form": "כואב"
+   },
+   {
+    "page": 10,
+    "form": "כוסברה"
+   }
+  ]
+ },
+ {
+  "story": "garden",
+  "page": 7,
+  "he": "שריר",
+  "en": "muscle",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 8,
+  "he": "לאסוף",
+  "en": "to collect",
+  "status": "maybe",
+  "formsOnPage": [
+   "נאסוף ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   10
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 8,
+  "he": "זהירות",
+  "en": "carefully",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 8,
+  "he": "ללמד",
+  "en": "to teach",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   14,
+   19
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 9,
+  "he": "לעבוד קשה",
+  "en": "to work hard",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 9,
+  "he": "להתחמם",
+  "en": "to get hot",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 17,
+    "form": "מתחילים"
+   }
+  ]
+ },
+ {
+  "story": "garden",
+  "page": 9,
+  "he": "ארוחה",
+  "en": "meal",
+  "status": "likely",
+  "formsOnPage": [
+   "ארוחת"
+  ],
+  "phrase": null,
+  "otherPages": [
+   5,
+   6,
+   21
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 9,
+  "he": "מקלחת קרה",
+  "en": "cold shower",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 10,
+  "he": "אחרי שבוע",
+  "en": "after a week",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "אחרי שבוע",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 10,
+  "he": "לאט לאט",
+  "en": "slowly",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 10,
+  "he": "גוף",
+  "en": "body",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 10,
+  "he": "חזק",
+  "en": "strong",
+  "status": "likely",
+  "formsOnPage": [
+   "חזקות"
+  ],
+  "phrase": null,
+  "otherPages": [
+   8,
+   9,
+   23
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 11,
+  "he": "פגישה",
+  "en": "meeting",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 11,
+  "he": "גיל",
+  "en": "age",
+  "status": "likely",
+  "formsOnPage": [
+   "בגילו"
+  ],
+  "phrase": null,
+  "otherPages": [
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 11,
+  "he": "סקרנית",
+  "en": "curious",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 11,
+  "he": "להזמין",
+  "en": "to invite",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 6,
+    "form": "מכין"
+   },
+   {
+    "page": 9,
+    "form": "מכין"
+   },
+   {
+    "page": 10,
+    "form": "רוזמרין"
+   }
+  ]
+ },
+ {
+  "story": "garden",
+  "page": 12,
+  "he": "עצים גבוהים",
+  "en": "tall trees",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 12,
+  "he": "מים קרים",
+  "en": "cold water",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "מים קרים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 12,
+  "he": "קסום",
+  "en": "magical",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   11
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 12,
+  "he": "לשתוק",
+  "en": "to be silent",
+  "status": "maybe",
+  "formsOnPage": [
+   "שמשתוקקים ~",
+   "שותקים ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   8
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 13,
+  "he": "לדבר",
+  "en": "to talk",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   1,
+   12,
+   19
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 13,
+  "he": "על עצמך",
+  "en": "about yourself",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 13,
+  "he": "בית ספר",
+  "en": "school",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 13,
+  "he": "לאהוב",
+  "en": "to love",
+  "status": "maybe",
+  "formsOnPage": [
+   "אוהב ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 13,
+  "he": "ספרים",
+  "en": "books",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 13,
+  "he": "מוזיקה",
+  "en": "music",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   14,
+   15,
+   17,
+   18
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 14,
+  "he": "סיפור",
+  "en": "story",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   13,
+   15,
+   23,
+   24
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 14,
+  "he": "בעבר",
+  "en": "in the past",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 14,
+  "he": "חלום",
+  "en": "dream",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   13,
+   15,
+   27
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 14,
+  "he": "לוותר",
+  "en": "to give up",
+  "status": "maybe",
+  "formsOnPage": [
+   "בחתונות ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 14,
+  "he": "אמיץ",
+  "en": "brave",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 15,
+  "he": "לבחור",
+  "en": "to choose",
+  "status": "maybe",
+  "formsOnPage": [
+   "בחרתי ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 15,
+  "he": "לבנות",
+  "en": "to build",
+  "status": "maybe",
+  "formsOnPage": [
+   "בניתי ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 15,
+  "he": "משפחה",
+  "en": "family",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 15,
+  "he": "מאוחר",
+  "en": "late",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 15,
+  "he": "חיים טובים",
+  "en": "a good life",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "חיים טובים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 16,
+  "he": "לשמוע",
+  "en": "to hear",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   15
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 16,
+  "he": "שקט גדול",
+  "en": "great silence",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "שקט גדול",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 17,
+  "he": "ערב מוזיקה",
+  "en": "music evening",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ערב מוזיקה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 17,
+  "he": "לקרוא ל-",
+  "en": "to call",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 17,
+  "he": "התכנסו",
+  "en": "gathered",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 18,
+  "he": "עפרון",
+  "en": "pencil",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 19,
+  "he": "מחמאה",
+  "en": "compliment",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 19,
+  "he": "לדבר ברצינות",
+  "en": "to talk seriously",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 19,
+  "he": "כישרון",
+  "en": "talent",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 19,
+  "he": "לפתח",
+  "en": "to develop",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   26
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 19,
+  "he": "שיעור",
+  "en": "lesson",
+  "status": "likely",
+  "formsOnPage": [
+   "שיעורים"
+  ],
+  "phrase": null,
+  "otherPages": [
+   3,
+   11
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 19,
+  "he": "התחלה",
+  "en": "beginning",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   17,
+   18
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 20,
+  "he": "השבועות עוברים",
+  "en": "the weeks pass",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "השבועות עוברים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 20,
+  "he": "לא רוצה לעזוב",
+  "en": "doesn't want to leave",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "לא רוצה לעזוב",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 20,
+  "he": "עצוב",
+  "en": "sad",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   16
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 20,
+  "he": "לקרוא לי",
+  "en": "to call me",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 20,
+  "he": "להבטיח",
+  "en": "to promise",
+  "status": "maybe",
+  "formsOnPage": [
+   "בטוחים ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   19,
+   27
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 21,
+  "he": "ערב אחרון",
+  "en": "last evening",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ערב + אחרון",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 21,
+  "he": "ארוחה מיוחדת",
+  "en": "special meal",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ארוחה מיוחדת",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 21,
+  "he": "לסיים",
+  "en": "to finish",
+  "status": "maybe",
+  "formsOnPage": [
+   "סלטים ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   27
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 21,
+  "he": "מוצלח",
+  "en": "successful",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 21,
+  "he": "תודה",
+  "en": "thanks",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 22,
+  "he": "נסיעה",
+  "en": "trip / journey",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   3,
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 22,
+  "he": "הלוך ושוב",
+  "en": "back and forth",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 22,
+  "he": "שאלות",
+  "en": "questions",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 22,
+  "he": "בגרות",
+  "en": "maturity",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   11
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 23,
+  "he": "בחזרה לבית ספר",
+  "en": "back to school",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 23,
+  "he": "שונה מ-",
+  "en": "different from",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 23,
+  "he": "חברים",
+  "en": "friends",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   2,
+   5,
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 23,
+  "he": "מנהלת",
+  "en": "principal (f.)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 23,
+  "he": "מורה לאמנות",
+  "en": "art teacher",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "מורה לאמנות",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 23,
+  "he": "לבדוק",
+  "en": "to check",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 5,
+    "form": "ובודק"
+   },
+   {
+    "page": 7,
+    "form": "בבוקר"
+   },
+   {
+    "page": 8,
+    "form": "בדיוק"
+   }
+  ]
+ },
+ {
+  "story": "garden",
+  "page": 24,
+  "he": "ארבע שנים",
+  "en": "four years",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ארבע שנים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 24,
+  "he": "אחר כך",
+  "en": "later",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 24,
+  "he": "חזק",
+  "en": "strong",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   8,
+   9,
+   10,
+   23
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 24,
+  "he": "לחגוג",
+  "en": "to celebrate",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 25,
+  "he": "לסייר",
+  "en": "to tour",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 13,
+    "form": "לצייר"
+   },
+   {
+    "page": 15,
+    "form": "סיפור"
+   },
+   {
+    "page": 18,
+    "form": "לצייר"
+   }
+  ]
+ },
+ {
+  "story": "garden",
+  "page": 25,
+  "he": "להתרגש",
+  "en": "to be moved",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 8,
+    "form": "תרגיש"
+   },
+   {
+    "page": 10,
+    "form": "מתרגל"
+   }
+  ]
+ },
+ {
+  "story": "garden",
+  "page": 25,
+  "he": "להכיר",
+  "en": "to recognize",
+  "status": "maybe",
+  "formsOnPage": [
+   "בהיר ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   17
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 25,
+  "he": "דומע",
+  "en": "tearful",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 26,
+  "he": "סוף דבר",
+  "en": "epilogue",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 26,
+  "he": "סבתא",
+  "en": "grandma",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   2,
+   11,
+   15
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 26,
+  "he": "לשמור",
+  "en": "to keep",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 2,
+    "form": "ושמונה"
+   },
+   {
+    "page": 8,
+    "form": "שורה"
+   },
+   {
+    "page": 9,
+    "form": "בשמונה"
+   }
+  ]
+ },
+ {
+  "story": "garden",
+  "page": 26,
+  "he": "מכתב",
+  "en": "letter",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 26,
+  "he": "להוריש",
+  "en": "to pass down / bequeath",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 5,
+    "form": "ויש"
+   },
+   {
+    "page": 6,
+    "form": "ההורים"
+   },
+   {
+    "page": 8,
+    "form": "תרגיש"
+   }
+  ]
+ },
+ {
+  "story": "garden",
+  "page": 26,
+  "he": "הכי חשוב",
+  "en": "the most important",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 27,
+  "he": "לטפח",
+  "en": "to nurture / tend",
+  "status": "maybe",
+  "formsOnPage": [
+   "אטפח ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 27,
+  "he": "לחיות",
+  "en": "to live",
+  "status": "maybe",
+  "formsOnPage": [
+   "לפחות ~",
+   "ירקות ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   10
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 27,
+  "he": "דור הבא",
+  "en": "next generation",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 27,
+  "he": "סיפור חיים",
+  "en": "life story",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "סיפור + חיים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "garden",
+  "page": 27,
+  "he": "המשיך",
+  "en": "continued",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   6
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 1,
+  "he": "נדל\"ן",
+  "en": "real estate",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 1,
+  "he": "ירושה",
+  "en": "inheritance",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 1,
+  "he": "בית אבות",
+  "en": "retirement home",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "בית אבות",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 2,
+  "he": "מתקלף",
+  "en": "peeling (paint/plaster)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 3,
+  "he": "ארון עץ",
+  "en": "wooden cabinet",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 3,
+  "he": "עיטורי גבס",
+  "en": "plaster ornaments",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 3,
+  "he": "ריצוף",
+  "en": "flooring / tiling",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4,
+   7
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 3,
+  "he": "בידיים",
+  "en": "by hand",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 4,
+  "he": "שינוי ייעוד",
+  "en": "rezoning / change of use",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "שינוי + ייעוד",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 4,
+  "he": "מלון בוטיק",
+  "en": "boutique hotel",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "מלון בוטיק",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 4,
+  "he": "שווי",
+  "en": "value / worth",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   15
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 4,
+  "he": "בלי שינוי",
+  "en": "without change / unchanged",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "בלי שינוי",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 5,
+  "he": "עוגת תפוחים",
+  "en": "apple cake",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "עוגת תפוחים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 6,
+  "he": "זוג בחתונה",
+  "en": "couple at a wedding",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 6,
+  "he": "מזהה",
+  "en": "recognizes / identifies",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 6,
+  "he": "שמלה לבנה",
+  "en": "white dress",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "שמלה לבנה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 7,
+  "he": "עמלה",
+  "en": "commission",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   10,
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 7,
+  "he": "לשכנע",
+  "en": "to convince (them)",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 11,
+    "form": "שכנים"
+   }
+  ]
+ },
+ {
+  "story": "shlomo",
+  "page": 7,
+  "he": "הגיוני",
+  "en": "logical / reasonable",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 7,
+  "he": "לדאוג",
+  "en": "to worry / to care",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 8,
+  "he": "עץ זית",
+  "en": "olive tree",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "עץ זית",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 8,
+  "he": "גזע עבה",
+  "en": "thick trunk",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "גזע עבה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 8,
+  "he": "שיח רימון",
+  "en": "pomegranate bush",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "שיח רימון",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 8,
+  "he": "טופחו",
+  "en": "were tended / cultivated",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   2
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 9,
+  "he": "ישיר",
+  "en": "direct / straight",
+  "status": "likely",
+  "formsOnPage": [
+   "ישירה"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 9,
+  "he": "לתלות ב-",
+  "en": "to depend on",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 9,
+  "he": "ביושר",
+  "en": "honestly",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 9,
+  "he": "אין לי מקום אחר",
+  "en": "I have no other place",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "אין לי מקום אחר",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 10,
+  "he": "קומה עליונה",
+  "en": "upper floor",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "קומה + עליונה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 10,
+  "he": "הכנסה קבועה",
+  "en": "steady income",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "הכנסה קבועה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 10,
+  "he": "פשרה",
+  "en": "compromise",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 11,
+  "he": "ביישן",
+  "en": "shy",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 11,
+  "he": "מצטרפת",
+  "en": "joins",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   15
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 11,
+  "he": "עיצוב",
+  "en": "design",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 11,
+  "he": "כלב קטן",
+  "en": "small dog",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "כלב קטן",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 12,
+  "he": "נפתחו",
+  "en": "opened up / became deeper",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 12,
+  "he": "עמוק",
+  "en": "deep",
+  "status": "likely",
+  "formsOnPage": [
+   "עמוקים"
+  ],
+  "phrase": null,
+  "otherPages": [
+   3
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 12,
+  "he": "ההיסטוריה של",
+  "en": "the history of",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 13,
+  "he": "לשאת כאב",
+  "en": "to carry pain / endure",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "לשאת + כאב",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 13,
+  "he": "לא אמורים לעבור",
+  "en": "not supposed to go away",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 13,
+  "he": "ניסיון",
+  "en": "experience / attempt",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 14,
+  "he": "לחדש",
+  "en": "to renew",
+  "status": "maybe",
+  "formsOnPage": [
+   "מחדשים ~",
+   "חודש ~",
+   "חדשה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 14,
+  "he": "לשנות כיוון",
+  "en": "to change direction",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 14,
+  "he": "פתרון",
+  "en": "solution",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 15,
+  "he": "פעם בחודש",
+  "en": "once a month",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "פעם בחודש",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "shlomo",
+  "page": 15,
+  "he": "שוויו בשוק",
+  "en": "its market value",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "שוויו בשוק",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 1,
+  "he": "נמל תעופה",
+  "en": "airport",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 1,
+  "he": "עורך דין",
+  "en": "lawyer",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "עורך דין",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 1,
+  "he": "נדחה",
+  "en": "gets postponed",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 1,
+  "he": "לא נדחה",
+  "en": "cannot be postponed",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 2,
+  "he": "לשמור מקום",
+  "en": "to save a seat",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 2,
+  "he": "שמלת קיץ",
+  "en": "summer dress",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "שמלת קיץ",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 2,
+  "he": "ספר פתוח",
+  "en": "open book",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ספר פתוח",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 4,
+  "he": "מסביר פנים",
+  "en": "welcoming / friendly",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "מסביר פנים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 4,
+  "he": "מסובך",
+  "en": "complicated",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 5,
+  "he": "שפת אם",
+  "en": "mother tongue",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 5,
+  "he": "לחשוב בשפה",
+  "en": "to think in a language",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 5,
+  "he": "לערבב",
+  "en": "to mix",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 12,
+    "form": "בערב"
+   }
+  ]
+ },
+ {
+  "story": "train",
+  "page": 5,
+  "he": "זהות",
+  "en": "identity",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 6,
+  "he": "להצדיק",
+  "en": "to justify",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 4,
+    "form": "מדחיק"
+   },
+   {
+    "page": 5,
+    "form": "בדיוק"
+   },
+   {
+    "page": 8,
+    "form": "בדיוק"
+   }
+  ]
+ },
+ {
+  "story": "train",
+  "page": 6,
+  "he": "הדחקתי",
+  "en": "I was suppressing",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 6,
+  "he": "עמוק יותר",
+  "en": "deeper",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "עמוק יותר",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 6,
+  "he": "בתוך",
+  "en": "inside / within",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 7,
+  "he": "מחלה",
+  "en": "illness",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 7,
+  "he": "מטפלת",
+  "en": "takes care of (fem.)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 7,
+  "he": "הנחתי",
+  "en": "I put down / assumed",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 8,
+  "he": "חנינה",
+  "en": "forgiveness / pardon",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 8,
+  "he": "מאוחר מדי",
+  "en": "too late",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "מאוחר מדי",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 8,
+  "he": "הסכנת",
+  "en": "you came to terms with",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 8,
+  "he": "עדיין",
+  "en": "still / yet",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   1,
+   9,
+   12,
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 9,
+  "he": "נוסטלגיה",
+  "en": "nostalgia",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 9,
+  "he": "לא ניתן לתרגום",
+  "en": "untranslatable",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 9,
+  "he": "געגוע",
+  "en": "longing / yearning",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 9,
+  "he": "שייכות",
+  "en": "belonging",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4,
+   12
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 10,
+  "he": "תחנה",
+  "en": "station",
+  "status": "likely",
+  "formsOnPage": [
+   "לתחנת"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 10,
+  "he": "נפרדנו",
+  "en": "we said goodbye",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 10,
+  "he": "החלפנו פרטים",
+  "en": "we exchanged details",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 10,
+  "he": "נשארתי",
+  "en": "I stayed / remained",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 11,
+  "he": "לחייך חלש",
+  "en": "to smile weakly",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 11,
+  "he": "לחזוק",
+  "en": "to hold tightly",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 12,
+    "form": "מרחוק"
+   },
+   {
+    "page": 14,
+    "form": "להחזיק"
+   }
+  ]
+ },
+ {
+  "story": "train",
+  "page": 11,
+  "he": "לסלוח",
+  "en": "to forgive",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 3,
+    "form": "לאוסלו"
+   },
+   {
+    "page": 4,
+    "form": "לאוסלו"
+   },
+   {
+    "page": 7,
+    "form": "סליחה"
+   }
+  ]
+ },
+ {
+  "story": "train",
+  "page": 12,
+  "he": "להחליט",
+  "en": "to decide",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 5,
+    "form": "חלמתי"
+   },
+   {
+    "page": 10,
+    "form": "תחלים"
+   },
+   {
+    "page": 11,
+    "form": "חולים"
+   }
+  ]
+ },
+ {
+  "story": "train",
+  "page": 12,
+  "he": "שוהה",
+  "en": "staying / remaining",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 12,
+  "he": "עורך דין מרחוק",
+  "en": "working remotely as a lawyer",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 13,
+  "he": "האריך",
+  "en": "extended / prolonged",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 13,
+  "he": "שאלות פתוחות",
+  "en": "open questions",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 13,
+  "he": "לא מוכרע",
+  "en": "unresolved",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 13,
+  "he": "לחיות עם",
+  "en": "to live with (uncertainty)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 13,
+  "he": "גבולות",
+  "en": "borders / boundaries",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 14,
+  "he": "פריז מחכה",
+  "en": "Paris is waiting",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 14,
+  "he": "ישראל נשארת",
+  "en": "Israel remains",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 14,
+  "he": "שתי ידיים",
+  "en": "two hands",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "train",
+  "page": 14,
+  "he": "לאחוז",
+  "en": "to hold / grasp",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 1,
+    "form": "חוזר"
+   },
+   {
+    "page": 3,
+    "form": "חוזרת"
+   },
+   {
+    "page": 4,
+    "form": "חוזרת"
+   }
+  ]
+ },
+ {
+  "story": "train",
+  "page": 14,
+  "he": "ממש",
+  "en": "really / truly",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   3,
+   7,
+   9
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 1,
+  "he": "כנס אקדמי",
+  "en": "academic conference",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 1,
+  "he": "רכישת שפה",
+  "en": "language acquisition",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "רכישת שפה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 2,
+  "he": "עמית",
+  "en": "colleague",
+  "status": "likely",
+  "formsOnPage": [
+   "עמיתים"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 2,
+  "he": "מוכר",
+  "en": "familiar / known",
+  "status": "likely",
+  "formsOnPage": [
+   "מוכרות"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 3,
+  "he": "נטשת",
+  "en": "you abandoned",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 3,
+  "he": "שכבות",
+  "en": "layers",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 3,
+  "he": "קולפות",
+  "en": "being peeled (layers)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 3,
+  "he": "תת-מודע",
+  "en": "subconscious",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 4,
+  "he": "כנות מדעית",
+  "en": "academic honesty",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "כנות מדעית",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 4,
+  "he": "מחקר עצמי",
+  "en": "self-research",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 4,
+  "he": "להישמע",
+  "en": "to sound / be heard",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 4,
+  "he": "מרחק רגשי",
+  "en": "emotional distance",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 5,
+  "he": "לגעגע",
+  "en": "to miss / long for",
+  "status": "maybe",
+  "formsOnPage": [
+   "מתגעגעת ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 5,
+  "he": "נאלץ",
+  "en": "forced / compelled",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 6,
+  "he": "בדרך לשוק",
+  "en": "on the way to the market",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 6,
+  "he": "להתערות",
+  "en": "to integrate / immerse",
+  "status": "maybe",
+  "formsOnPage": [
+   "ריחות ~",
+   "עברית ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 6,
+  "he": "קולות עירוניים",
+  "en": "urban sounds",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 6,
+  "he": "לחזור לעצמו",
+  "en": "to return to oneself",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 6,
+  "he": "מה שנשכח",
+  "en": "what was forgotten",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 7,
+  "he": "מורה לשעבר",
+  "en": "former teacher",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 7,
+  "he": "מזדקן",
+  "en": "aging",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 7,
+  "he": "בעיצומו",
+  "en": "in the midst of",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 7,
+  "he": "להשפיע",
+  "en": "to influence / affect",
+  "status": "maybe",
+  "formsOnPage": [
+   "שיער ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 8,
+  "he": "הטה אוזן",
+  "en": "lent an ear / listened carefully",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 8,
+  "he": "מחשבה מעמיקה",
+  "en": "deep thought",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 8,
+  "he": "תובנה",
+  "en": "insight",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 8,
+  "he": "הפרדה",
+  "en": "separation",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 8,
+  "he": "חיצוני ופנימי",
+  "en": "external and internal",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 9,
+  "he": "בלי תכנית",
+  "en": "without a plan",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 9,
+  "he": "שוקעת",
+  "en": "sinking / absorbed (fem.)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 9,
+  "he": "בהיר",
+  "en": "clear / bright",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 10,
+  "he": "מאמר חדש",
+  "en": "new paper",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "מאמר חדש",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 10,
+  "he": "שני בתים",
+  "en": "two homes",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "שני בתים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 10,
+  "he": "לנסח מחדש",
+  "en": "to reformulate",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 10,
+  "he": "עושר",
+  "en": "richness / wealth",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 11,
+  "he": "המשיכה לכתוב",
+  "en": "continued to write (fem.)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 11,
+  "he": "השתנתה",
+  "en": "changed / transformed (fem.)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 11,
+  "he": "ז'אן-פיר לומד",
+  "en": "Jean-Pierre learns",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 11,
+  "he": "הפך להרגל",
+  "en": "became a habit",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 12,
+  "he": "פתחה שיח",
+  "en": "opened a dialogue (fem.)",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "פתחה שיח",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 12,
+  "he": "לא מוכרע",
+  "en": "unresolved",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "לא מוכרע",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "language",
+  "page": 12,
+  "he": "לחיות בשאלה",
+  "en": "to live with the question",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 1,
+  "he": "עלייה",
+  "en": "immigration to Israel (aliyah)",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   2,
+   4,
+   5,
+   7
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 1,
+  "he": "ירושה",
+  "en": "inheritance",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   23
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 1,
+  "he": "שורשים",
+  "en": "roots",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 1,
+  "he": "להחליט",
+  "en": "to decide",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 10,
+    "form": "לחלוטין"
+   },
+   {
+    "page": 14,
+    "form": "שהתחלתי"
+   },
+   {
+    "page": 16,
+    "form": "שהחליטו"
+   }
+  ]
+ },
+ {
+  "story": "aliyah",
+  "page": 2,
+  "he": "לספר ל",
+  "en": "to tell someone",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 2,
+  "he": "תגובה",
+  "en": "reaction / response",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 2,
+  "he": "להבין",
+  "en": "to understand",
+  "status": "maybe",
+  "formsOnPage": [
+   "הבינה ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   1,
+   12,
+   14,
+   16
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 2,
+  "he": "בכל זאת",
+  "en": "nevertheless / still",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "בכל זאת",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 3,
+  "he": "להתרשם",
+  "en": "to be impressed",
+  "status": "maybe",
+  "formsOnPage": [
+   "לירושלים ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 3,
+  "he": "מכריע",
+  "en": "decisive / determining",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 3,
+  "he": "תל אביב",
+  "en": "Tel Aviv",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "תל אביב",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 3,
+  "he": "להסתובב",
+  "en": "to wander / get around",
+  "status": "maybe",
+  "formsOnPage": [
+   "הסתובבה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 4,
+  "he": "לחזור",
+  "en": "to return",
+  "status": "maybe",
+  "formsOnPage": [
+   "חזרה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 4,
+  "he": "מחויבות",
+  "en": "commitment",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 4,
+  "he": "להגיש מועמדות",
+  "en": "to apply / submit candidacy",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 4,
+  "he": "הסוכנות היהודית",
+  "en": "the Jewish Agency",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "הסוכנות היהודית",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 4,
+  "he": "תיק",
+  "en": "file / briefcase",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   2,
+   5,
+   15,
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 5,
+  "he": "לפקוד",
+  "en": "to expire / lapse",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   7
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 6,
+  "he": "יום עלייה",
+  "en": "aliyah day (arrival in Israel)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 6,
+  "he": "לסדר",
+  "en": "to organize / arrange",
+  "status": "maybe",
+  "formsOnPage": [
+   "מסודרים ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 6,
+  "he": "להיפרד",
+  "en": "to say goodbye / part",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 2,
+    "form": "סיפרה"
+   },
+   {
+    "page": 21,
+    "form": "סיפרה"
+   }
+  ]
+ },
+ {
+  "story": "aliyah",
+  "page": 7,
+  "he": "נחיתה",
+  "en": "landing",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 7,
+  "he": "שדה תעופה",
+  "en": "airport",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 7,
+  "he": "עולה חדשה",
+  "en": "new immigrant (f.)",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 7,
+  "he": "תיק עלייה",
+  "en": "aliyah file",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 7,
+  "he": "מרגש",
+  "en": "exciting / moving",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   16,
+   17
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 8,
+  "he": "דירת שכירות",
+  "en": "rental apartment",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "דירת שכירות",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 8,
+  "he": "שכונה",
+  "en": "neighborhood",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   5,
+   9,
+   19,
+   24
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 8,
+  "he": "לחפש",
+  "en": "to search / look for",
+  "status": "maybe",
+  "formsOnPage": [
+   "חיפוש ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 8,
+  "he": "מחיר",
+  "en": "price",
+  "status": "likely",
+  "formsOnPage": [
+   "המחירים"
+  ],
+  "phrase": null,
+  "otherPages": [
+   17,
+   25
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 8,
+  "he": "אכזבה",
+  "en": "disappointment",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 9,
+  "he": "שכנה",
+  "en": "neighbor (f.)",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4,
+   5,
+   18,
+   23
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 9,
+  "he": "מרוקו",
+  "en": "Morocco",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   18
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 9,
+  "he": "עדה",
+  "en": "ethnic community / congregation",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   2,
+   11
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 9,
+  "he": "לקלוט",
+  "en": "to absorb / take in",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 7,
+    "form": "קישוטים"
+   },
+   {
+    "page": 10,
+    "form": "לחלוטין"
+   },
+   {
+    "page": 22,
+    "form": "לחלוטין"
+   }
+  ]
+ },
+ {
+  "story": "aliyah",
+  "page": 9,
+  "he": "פיתה",
+  "en": "pita bread",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 10,
+  "he": "לגמגם",
+  "en": "to stutter / fumble words",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 5,
+    "form": "תרגומים"
+   }
+  ]
+ },
+ {
+  "story": "aliyah",
+  "page": 10,
+  "he": "לשפר",
+  "en": "to improve",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 11,
+  "he": "לבכות",
+  "en": "to cry",
+  "status": "maybe",
+  "formsOnPage": [
+   "ביותר ~",
+   "הרחובות ~",
+   "בכתה ~",
+   "הבדידות ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   12
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 12,
+  "he": "לצלצל",
+  "en": "to ring / call",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 12,
+  "he": "עצה",
+  "en": "advice",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   28
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 12,
+  "he": "להמשיך",
+  "en": "to continue",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 5,
+    "form": "משפטיים"
+   },
+   {
+    "page": 6,
+    "form": "שמשאירים"
+   },
+   {
+    "page": 7,
+    "form": "מרגישים"
+   }
+  ]
+ },
+ {
+  "story": "aliyah",
+  "page": 12,
+  "he": "גאווה",
+  "en": "pride",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 12,
+  "he": "חיבוק",
+  "en": "hug / embrace",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   6
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 13,
+  "he": "משרד הפנים",
+  "en": "Ministry of Interior",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "משרד הפנים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 13,
+  "he": "להתייאש",
+  "en": "to despair / give up",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 13,
+  "he": "סבלנות",
+  "en": "patience",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 14,
+  "he": "להצחיק",
+  "en": "to make (someone) laugh",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   11
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 14,
+  "he": "לספר בדיחה",
+  "en": "to tell a joke",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 14,
+  "he": "בתורים",
+  "en": "in lines / queues",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 14,
+  "he": "לעמוד בזה",
+  "en": "to withstand / endure",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 14,
+  "he": "תסכול",
+  "en": "frustration",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 15,
+  "he": "הסמכה",
+  "en": "certification / accreditation",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 15,
+  "he": "לשכת עורכי הדין",
+  "en": "the Bar Association",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 15,
+  "he": "בחינה",
+  "en": "exam",
+  "status": "likely",
+  "formsOnPage": [
+   "בחינות"
+  ],
+  "phrase": null,
+  "otherPages": [
+   6,
+   19
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 15,
+  "he": "תחרותי",
+  "en": "competitive",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 15,
+  "he": "ניסיון",
+  "en": "experience / attempt",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   23
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 16,
+  "he": "חברה",
+  "en": "friend (f.) / company",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   5,
+   6,
+   9,
+   15
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 16,
+  "he": "להתחבר",
+  "en": "to connect / bond",
+  "status": "maybe",
+  "formsOnPage": [
+   "התחברו ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 16,
+  "he": "רקע",
+  "en": "background",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 16,
+  "he": "גולה",
+  "en": "exile / diaspora",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 17,
+  "he": "בעל פה",
+  "en": "by heart / orally",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 17,
+  "he": "טיפול",
+  "en": "therapy / treatment",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 17,
+  "he": "חלומות",
+  "en": "dreams",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 17,
+  "he": "שפת אם",
+  "en": "mother tongue",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 17,
+  "he": "לחשוב בשפה",
+  "en": "to think in a language",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 18,
+  "he": "חג",
+  "en": "holiday / festival",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 18,
+  "he": "ראש השנה",
+  "en": "Rosh Hashana (Jewish New Year)",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ראש השנה",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 18,
+  "he": "לאמץ",
+  "en": "to adopt / embrace",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 18,
+  "he": "מסורת",
+  "en": "tradition",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 19,
+  "he": "לבחון מחדש",
+  "en": "to reexamine",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 19,
+  "he": "התקדמות",
+  "en": "progress",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 19,
+  "he": "בר מצווה",
+  "en": "bar/bat mitzvah",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 19,
+  "he": "שגרה",
+  "en": "routine",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   18,
+   24,
+   26
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 19,
+  "he": "להשתרש",
+  "en": "to take root",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 2,
+    "form": "שהרגישה"
+   },
+   {
+    "page": 5,
+    "form": "שדרשו"
+   },
+   {
+    "page": 7,
+    "form": "כשהסתדרה"
+   }
+  ]
+ },
+ {
+  "story": "aliyah",
+  "page": 20,
+  "he": "להתקשר",
+  "en": "to call / phone",
+  "status": "maybe",
+  "formsOnPage": [
+   "התקשרה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 20,
+  "he": "לספר",
+  "en": "to tell / recount",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   1,
+   10,
+   11,
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 20,
+  "he": "נסיבות",
+  "en": "circumstances",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 20,
+  "he": "השתנות",
+  "en": "change / transformation",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 21,
+  "he": "עקירה",
+  "en": "uprooting",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 21,
+  "he": "להסתגל",
+  "en": "to adapt / adjust",
+  "status": "maybe",
+  "formsOnPage": [
+   "הסתכל ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 21,
+  "he": "חוסן",
+  "en": "resilience",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 21,
+  "he": "לדורות",
+  "en": "for generations",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 7,
+    "form": "גדולות"
+   },
+   {
+    "page": 9,
+    "form": "שחורות"
+   },
+   {
+    "page": 10,
+    "form": "בידידותיות"
+   }
+  ]
+ },
+ {
+  "story": "aliyah",
+  "page": 22,
+  "he": "מורשת",
+  "en": "heritage / legacy",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 22,
+  "he": "שלמות",
+  "en": "wholeness / completeness",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   1
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 22,
+  "he": "פירוש",
+  "en": "meaning / interpretation",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 22,
+  "he": "שייכות",
+  "en": "belonging",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 22,
+  "he": "לזהות",
+  "en": "to identify",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 23,
+  "he": "לתכנן",
+  "en": "to plan",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 4,
+    "form": "התכוון"
+   },
+   {
+    "page": 11,
+    "form": "להתלונן"
+   },
+   {
+    "page": 19,
+    "form": "שמתכננים"
+   }
+  ]
+ },
+ {
+  "story": "aliyah",
+  "page": 23,
+  "he": "לשכה",
+  "en": "office / bureau",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 6,
+    "form": "שכורה"
+   },
+   {
+    "page": 9,
+    "form": "שכנתה"
+   },
+   {
+    "page": 22,
+    "form": "כשהלכה"
+   }
+  ]
+ },
+ {
+  "story": "aliyah",
+  "page": 23,
+  "he": "שותף",
+  "en": "partner",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 23,
+  "he": "עסק",
+  "en": "business",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 23,
+  "he": "ביטחון",
+  "en": "confidence / security",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 24,
+  "he": "לחזור לביקור",
+  "en": "to return for a visit",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 24,
+  "he": "להשוות",
+  "en": "to compare",
+  "status": "maybe",
+  "formsOnPage": [
+   "ברחובות ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 24,
+  "he": "שינוי",
+  "en": "change",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 24,
+  "he": "נקודת מבט",
+  "en": "point of view / perspective",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 24,
+  "he": "פרספקטיבה",
+  "en": "perspective",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 25,
+  "he": "עגינה",
+  "en": "anchoring / mooring",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 25,
+  "he": "שכבות",
+  "en": "layers",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   26
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 25,
+  "he": "עמוק",
+  "en": "deep",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 25,
+  "he": "להשתמש ב",
+  "en": "to use",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 25,
+  "he": "ניב",
+  "en": "idiom / dialect",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 26,
+  "he": "לקבוע",
+  "en": "to determine / set",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 1,
+    "form": "שבוע"
+   },
+   {
+    "page": 3,
+    "form": "שבועיים"
+   },
+   {
+    "page": 5,
+    "form": "שבוע"
+   }
+  ]
+ },
+ {
+  "story": "aliyah",
+  "page": 26,
+  "he": "עתיד",
+  "en": "future",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 26,
+  "he": "שלב",
+  "en": "stage / phase",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   23,
+   27
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 26,
+  "he": "להשאיר",
+  "en": "to leave behind",
+  "status": "maybe",
+  "formsOnPage": [
+   "שהשארת ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 26,
+  "he": "להכיל",
+  "en": "to contain / hold",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 1,
+    "form": "שהתחיל"
+   },
+   {
+    "page": 3,
+    "form": "הכל"
+   },
+   {
+    "page": 5,
+    "form": "הישראלית"
+   }
+  ]
+ },
+ {
+  "story": "aliyah",
+  "page": 27,
+  "he": "להגדיר",
+  "en": "to define",
+  "status": "maybe",
+  "formsOnPage": [
+   "דיברו ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 27,
+  "he": "תחושת שייכות",
+  "en": "sense of belonging",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 27,
+  "he": "לבנות",
+  "en": "to build",
+  "status": "maybe",
+  "formsOnPage": [
+   "לענות ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   16,
+   23
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 27,
+  "he": "לא ניתן לקנות",
+  "en": "cannot be bought",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 28,
+  "he": "שורשים עמוקים",
+  "en": "deep roots",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 28,
+  "he": "לשגשג",
+  "en": "to thrive / flourish",
+  "status": "maybe",
+  "formsOnPage": [
+   "שהרגישה ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 28,
+  "he": "בחירה",
+  "en": "choice",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   11
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 28,
+  "he": "מסע",
+  "en": "journey",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "aliyah",
+  "page": 28,
+  "he": "ממשיך",
+  "en": "continues",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 1,
+  "he": "לכשל",
+  "en": "to fail",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 1,
+  "he": "להיאבק",
+  "en": "to struggle / fight",
+  "status": "maybe",
+  "formsOnPage": [
+   "יואב ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 1,
+  "he": "מבחן",
+  "en": "test / exam",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   12,
+   19,
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 1,
+  "he": "ציון",
+  "en": "grade / score",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   22,
+   28
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 2,
+  "he": "להתבייש",
+  "en": "to be ashamed / embarrassed",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 1,
+    "form": "בהייטק"
+   },
+   {
+    "page": 5,
+    "form": "בפירוש"
+   },
+   {
+    "page": 9,
+    "form": "מבינים"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 2,
+  "he": "לקרוא בקול",
+  "en": "to read aloud",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "לקרוא + בקול",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 2,
+  "he": "לגמגם",
+  "en": "to stutter / stumble",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 6,
+    "form": "התגמגם"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 2,
+  "he": "לצחוק על",
+  "en": "to laugh at",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 2,
+  "he": "שקט מוחלט",
+  "en": "complete silence",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "שקט מוחלט",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 3,
+  "he": "הפסקה",
+  "en": "break / recess",
+  "status": "likely",
+  "formsOnPage": [
+   "בהפסקת"
+  ],
+  "phrase": null,
+  "otherPages": [
+   2,
+   6,
+   15,
+   16
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 3,
+  "he": "לשבת לבד",
+  "en": "to sit alone",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 3,
+  "he": "חצר בית הספר",
+  "en": "school yard",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 3,
+  "he": "לא מוזמן",
+  "en": "not invited / excluded",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 4,
+  "he": "מחיאות כפיים",
+  "en": "applause / clapping",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 4,
+  "he": "קבוצה",
+  "en": "team / group",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   3,
+   25
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 4,
+  "he": "להרגיש שייך",
+  "en": "to feel like you belong",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 4,
+  "he": "רגע",
+  "en": "moment",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   8
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 5,
+  "he": "לשפר ציון",
+  "en": "to improve a grade",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 5,
+  "he": "מאמץ",
+  "en": "effort",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   1
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 5,
+  "he": "לעמוד בקצב",
+  "en": "to keep up with the pace",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 5,
+  "he": "חיזוק",
+  "en": "reinforcement / encouragement",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 6,
+  "he": "מורה פרטי",
+  "en": "private tutor",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 6,
+  "he": "לסרב",
+  "en": "to refuse",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 6,
+  "he": "לקבל",
+  "en": "to receive / accept",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   5
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 6,
+  "he": "גאווה",
+  "en": "pride",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   7,
+   15,
+   21
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 6,
+  "he": "כישלון",
+  "en": "failure",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 7,
+  "he": "ללעוג",
+  "en": "to mock / ridicule",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 3,
+    "form": "לבעוט"
+   },
+   {
+    "page": 5,
+    "form": "לענות"
+   },
+   {
+    "page": 8,
+    "form": "לעשות"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 7,
+  "he": "להתנשא",
+  "en": "to be condescending",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 19,
+    "form": "הנושאים"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 7,
+  "he": "כינוי",
+  "en": "nickname",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 7,
+  "he": "להגיב",
+  "en": "to react / respond",
+  "status": "maybe",
+  "formsOnPage": [
+   "האנגלית ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 7,
+  "he": "להתעלם",
+  "en": "to ignore",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 17,
+    "form": "מתנצלים"
+   },
+   {
+    "page": 22,
+    "form": "לתשעים"
+   },
+   {
+    "page": 23,
+    "form": "מתלמידים"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 8,
+  "he": "כעס",
+  "en": "anger",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 8,
+  "he": "להחזיק בפנים",
+  "en": "to hold inside",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 8,
+  "he": "לפרוק",
+  "en": "to unload / release",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 5,
+    "form": "בפירוש"
+   },
+   {
+    "page": 15,
+    "form": "שיפרו"
+   },
+   {
+    "page": 23,
+    "form": "ספרות"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 8,
+  "he": "מגרש",
+  "en": "field / court",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   15,
+   20,
+   27,
+   28
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 8,
+  "he": "להרגיש קטן",
+  "en": "to feel small",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 9,
+  "he": "להיפתח",
+  "en": "to open up",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 13,
+    "form": "שסיפרת"
+   },
+   {
+    "page": 20,
+    "form": "ופתח"
+   },
+   {
+    "page": 29,
+    "form": "פתוחה"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 9,
+  "he": "הבנה",
+  "en": "understanding / comprehension",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   3,
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 9,
+  "he": "לא קל",
+  "en": "not easy",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 9,
+  "he": "להסכים",
+  "en": "to agree",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   27
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 9,
+  "he": "פרספקטיבה",
+  "en": "perspective",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 10,
+  "he": "לחזור על",
+  "en": "to repeat / review",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 10,
+  "he": "מלים חדשות",
+  "en": "new words",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 10,
+  "he": "שינון",
+  "en": "memorization / drilling",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 10,
+  "he": "לתרגל",
+  "en": "to practice",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 1,
+    "form": "יסתגלו"
+   },
+   {
+    "page": 3,
+    "form": "כדורגל"
+   },
+   {
+    "page": 4,
+    "form": "כדורגל"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 11,
+  "he": "ספר ילדים",
+  "en": "children's book",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ספר ילדים",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 11,
+  "he": "להתבייש",
+  "en": "to be embarrassed",
+  "status": "maybe",
+  "formsOnPage": [
+   "בספרייה ~",
+   "ביוגרפיה ~",
+   "שבועיים ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 11,
+  "he": "גיל",
+  "en": "age",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   14
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 12,
+  "he": "להתכונן",
+  "en": "to prepare",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 5,
+    "form": "כעונש"
+   },
+   {
+    "page": 10,
+    "form": "נכון"
+   },
+   {
+    "page": 13,
+    "form": "בשכונה"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 12,
+  "he": "לא מספיק",
+  "en": "not enough",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 13,
+  "he": "קירבה",
+  "en": "closeness / intimacy",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 13,
+  "he": "לשתף",
+  "en": "to share",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 13,
+  "he": "להאזין",
+  "en": "to listen",
+  "status": "maybe",
+  "formsOnPage": [
+   "אילן ~",
+   "האמין ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 13,
+  "he": "חבר אמיתי",
+  "en": "real friend",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 14,
+  "he": "ללמוד ביחד",
+  "en": "to study together",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "ללמוד ביחד",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 14,
+  "he": "שאלות",
+  "en": "questions",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   9,
+   20
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 14,
+  "he": "להבין יחד",
+  "en": "to understand together",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 15,
+  "he": "עמידה בפני",
+  "en": "standing before / facing",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 15,
+  "he": "לקרוא בפני הכיתה",
+  "en": "to read before the class",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 15,
+  "he": "להתכונן",
+  "en": "to prepare",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 5,
+    "form": "כעונש"
+   },
+   {
+    "page": 10,
+    "form": "נכון"
+   },
+   {
+    "page": 13,
+    "form": "בשכונה"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 15,
+  "he": "ביטחון עצמי",
+  "en": "self-confidence",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 15,
+  "he": "ניסיון",
+  "en": "attempt / experience",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 16,
+  "he": "גב' שרון",
+  "en": "Ms. Sharon",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 16,
+  "he": "לאחר השיעור",
+  "en": "after class",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 16,
+  "he": "להתקדם",
+  "en": "to advance / progress",
+  "status": "maybe",
+  "formsOnPage": [
+   "מוקדם ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   10
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 16,
+  "he": "תהליך",
+  "en": "process",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 17,
+  "he": "לשנות יחס",
+  "en": "to change attitude",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 17,
+  "he": "להכיר",
+  "en": "to get to know / recognize",
+  "status": "maybe",
+  "formsOnPage": [
+   "הכדורגל ~",
+   "הסביר ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   3,
+   30
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 17,
+  "he": "עין אחרת",
+  "en": "different perspective",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 17,
+  "he": "לפייס",
+  "en": "to make peace / reconcile",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 3,
+    "form": "משקפיים"
+   },
+   {
+    "page": 5,
+    "form": "פרטיים"
+   },
+   {
+    "page": 10,
+    "form": "פעמיים"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 17,
+  "he": "מגוחך",
+  "en": "ridiculous / absurd",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 18,
+  "he": "ניצחון",
+  "en": "victory / win",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 18,
+  "he": "תוצאה",
+  "en": "result / score",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 18,
+  "he": "שותף",
+  "en": "partner / teammate",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 18,
+  "he": "להרגיש חלק",
+  "en": "to feel part of",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 18,
+  "he": "כמו כולם",
+  "en": "like everyone else",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 19,
+  "he": "מבחן שנתי",
+  "en": "annual exam",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "מבחן + שנתי",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 19,
+  "he": "להתכונן",
+  "en": "to prepare",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 5,
+    "form": "כעונש"
+   },
+   {
+    "page": 10,
+    "form": "נכון"
+   },
+   {
+    "page": 13,
+    "form": "בשכונה"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 19,
+  "he": "לרכז",
+  "en": "to concentrate / focus",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 19,
+  "he": "לחץ",
+  "en": "pressure / stress",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   12
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 19,
+  "he": "פחד",
+  "en": "fear",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   23
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 20,
+  "he": "לסיים",
+  "en": "to finish / complete",
+  "status": "maybe",
+  "formsOnPage": [
+   "מילים ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   15
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 20,
+  "he": "שעון",
+  "en": "clock / watch",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 20,
+  "he": "לכתוב",
+  "en": "to write",
+  "status": "maybe",
+  "formsOnPage": [
+   "כתב ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   15
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 20,
+  "he": "בנושא",
+  "en": "on the topic of",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 21,
+  "he": "תוצאה",
+  "en": "result",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 21,
+  "he": "ציון גבוה",
+  "en": "high grade",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 21,
+  "he": "מזל טוב",
+  "en": "congratulations / mazel tov",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 21,
+  "he": "להאמין",
+  "en": "to believe",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   13
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 21,
+  "he": "להוכיח",
+  "en": "to prove",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 5,
+    "form": "מוכרחה"
+   },
+   {
+    "page": 14,
+    "form": "כשמוכרחים"
+   },
+   {
+    "page": 30,
+    "form": "שהופכים"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 22,
+  "he": "לחגוג",
+  "en": "to celebrate",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 22,
+  "he": "ידידות",
+  "en": "friendship",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 22,
+  "he": "לספר למוטי",
+  "en": "to tell Moti",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 22,
+  "he": "תחושת הישג",
+  "en": "sense of achievement",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 23,
+  "he": "מחזור",
+  "en": "class year / cycle",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   26
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 23,
+  "he": "כיתה ז'",
+  "en": "seventh grade",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 23,
+  "he": "להמשיך",
+  "en": "to continue",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   9
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 23,
+  "he": "עתיד",
+  "en": "future",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 24,
+  "he": "להשתנות",
+  "en": "to change",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 24,
+  "he": "בדיעבד",
+  "en": "in hindsight / retrospectively",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 24,
+  "he": "להסתכל אחורה",
+  "en": "to look back",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 24,
+  "he": "לא היה קל",
+  "en": "it was not easy",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 24,
+  "he": "שווה את זה",
+  "en": "worth it",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 25,
+  "he": "קבוצת כדורגל",
+  "en": "soccer team",
+  "status": "phrase-on-page",
+  "formsOnPage": [],
+  "phrase": "קבוצת כדורגל",
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 25,
+  "he": "להתאמן",
+  "en": "to train / practice",
+  "status": "maybe",
+  "formsOnPage": [
+   "שמתאמנים ~",
+   "אימון ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 25,
+  "he": "כישרון",
+  "en": "talent",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 26,
+  "he": "לדבר אנגלית",
+  "en": "to speak English",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 26,
+  "he": "לנוח",
+  "en": "to rest",
+  "status": "maybe",
+  "formsOnPage": [
+   "וחצי ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 26,
+  "he": "שפה טבעית",
+  "en": "natural language",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 27,
+  "he": "להשקיע",
+  "en": "to invest / put in effort",
+  "status": "other-page-verb",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": [
+   {
+    "page": 2,
+    "form": "שיעור"
+   },
+   {
+    "page": 3,
+    "form": "שיער"
+   },
+   {
+    "page": 5,
+    "form": "השיעור"
+   }
+  ]
+ },
+ {
+  "story": "school",
+  "page": 27,
+  "he": "שפה היא כלי",
+  "en": "language is a tool",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 27,
+  "he": "עקשנות",
+  "en": "stubbornness / persistence",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 27,
+  "he": "לא מהיר",
+  "en": "not fast",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 28,
+  "he": "לכתוב ביומן",
+  "en": "to write in a diary",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 28,
+  "he": "למען",
+  "en": "for the sake of / in order to",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 28,
+  "he": "להתגאות",
+  "en": "to be proud",
+  "status": "maybe",
+  "formsOnPage": [
+   "אותו ~",
+   "אותה ~",
+   "ארוחות ~"
+  ],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 28,
+  "he": "דרך",
+  "en": "way / path / road",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   4,
+   25
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 28,
+  "he": "להמשיך ללכת",
+  "en": "to keep walking",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 29,
+  "he": "כיתה חדשה",
+  "en": "new class",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 29,
+  "he": "להיכנס",
+  "en": "to enter",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   25
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 29,
+  "he": "ביטחון",
+  "en": "confidence",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 29,
+  "he": "להציג את עצמו",
+  "en": "to introduce oneself",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 30,
+  "he": "סיכום",
+  "en": "summary / conclusion",
+  "status": "other-page",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [
+   27
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 30,
+  "he": "לא ידעתי",
+  "en": "I didn't know",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 30,
+  "he": "מה שקרה",
+  "en": "what happened",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 30,
+  "he": "ללמוד",
+  "en": "to learn",
+  "status": "maybe",
+  "formsOnPage": [
+   "תלמד ~",
+   "אלמד ~",
+   "שלומד ~",
+   "שמלמד ~"
+  ],
+  "phrase": null,
+  "otherPages": [
+   10,
+   14,
+   24
+  ],
+  "elsewhereVerb": []
+ },
+ {
+  "story": "school",
+  "page": 30,
+  "he": "בסוף הכל מסתדר",
+  "en": "in the end everything works out",
+  "status": "none",
+  "formsOnPage": [],
+  "phrase": null,
+  "otherPages": [],
+  "elsewhereVerb": []
  }
 ]
