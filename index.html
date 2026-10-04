@@ -1350,6 +1350,9 @@ body::before{display:none}
 .hfz-logo-lg{width:84px;height:81px;margin-bottom:.6rem}
 .hfz-bar{position:sticky;top:0;z-index:30;display:flex;align-items:center;gap:1.5rem;padding:8px 2rem;min-height:64px;background:transparent;border-bottom:1px solid transparent;transition:background .25s,box-shadow .25s,border-color .25s;direction:ltr}
 .hfz-bar.scrolled{background:#fff;border-bottom-color:rgba(26,94,168,.10);box-shadow:0 2px 12px rgba(26,94,168,.07)}
+.hfz-bar .hfz-logo{transition:width .25s ease,height .25s ease}
+.hfz-bar:not(.scrolled) .hfz-logo{width:78px;height:75px}
+@media (max-width:640px){.hfz-bar:not(.scrolled) .hfz-logo{width:66px;height:64px}}
 .hfz-bar nav{margin-left:auto;display:flex;align-items:center;gap:1.75rem}
 .hfz-bar nav a{font-weight:700;font-size:.95rem;color:var(--text-2);text-decoration:none}
 .hfz-bar nav a:hover,.hfz-bar nav a.on{color:var(--hfz-blue)}
