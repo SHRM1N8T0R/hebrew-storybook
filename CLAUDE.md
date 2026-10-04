@@ -1,4 +1,4 @@
-# CLAUDE.md — hebrew-storybook (storybook.readhebrewnews.com)
+# CLAUDE.md — hebrew-storybook (storybook.learnhebrewfromzero.com)
 
 Cloudflare Pages project `hebrew-storybook`, connected to this repo. `index.html` is the whole
 app. The vowelling, transliteration and word meanings are generated into it from `tools/`.
