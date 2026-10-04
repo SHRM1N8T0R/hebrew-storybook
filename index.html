@@ -6295,7 +6295,7 @@ function renderPageContent(pageIndex) {
 function renderParagraphs(paragraphs, pageIndex) {
   return paragraphs.map((p, i) => `
     <p data-en="${escapeHtml(p.en)}" class="${i > 0 ? 'no-drop' : ''}">
-      ${wrapWords(p.he, STORY_NIKUD[pageIndex + ':' + i])}
+      ${wrapWords(p.he, (currentStory && currentStory.id === 'apartment') ? STORY_NIKUD[pageIndex + ':' + i] : undefined)}
       <button class="translate-btn" aria-label="Show English translation">EN</button>
       <span class="translation">${p.en}</span>
     </p>
