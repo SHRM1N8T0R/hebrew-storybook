@@ -7055,8 +7055,7 @@ function updateVocab(pageIndex) {
   const page = currentStory.pages[pageIndex];
   let vocab = page.vocab || [];
   
-  // For chapter pages, aggregate vocab from this chapter onwards until next chapter
-  // But for simplicity, show vocab for current page only
+  // Vocabulary is shown PER PAGE (the page the reader is on), never per chapter: each page lists only words that appear on it.
   
   if (vocab.length === 0) {
     vocabList.innerHTML = '<div class="sidebar-empty">אין אוצר מילים חדש בעמוד זה<br/><em>No new vocabulary on this page</em></div>';
