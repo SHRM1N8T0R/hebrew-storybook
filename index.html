@@ -1443,7 +1443,7 @@ body::before{display:none}
 .wt-sentence-ctx{font-style:normal !important;text-align:left !important;direction:ltr !important}
 .wt-ex-label{font-size:10px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:#8a6d00;margin-bottom:6px}
 .wt-ex-he{font-family:'Heebo',sans-serif;font-weight:500;font-size:16px;line-height:1.7;color:var(--ink);text-align:right}
-.wt-ex-he mark{background:#FFF1A8;box-shadow:inset 0 -2px 0 #F7CE1A;border-radius:4px;padding:0 3px;color:inherit}
+.wt-ex-he mark,.wt-ex-en mark{background:#FFF1A8;box-shadow:inset 0 -2px 0 #F7CE1A;border-radius:4px;padding:0 3px;color:inherit}
 .wt-ex-en{margin-top:6px;padding-top:6px;border-top:1px dashed #E5C76B;font-family:'Nunito',sans-serif;font-weight:600;font-size:13.5px;line-height:1.5;color:#6b5a1a}
 /* hfz-tweak-1: calmer mobile layout */
 .reader-view{background:var(--bg)}
@@ -6719,19 +6719,64 @@ function getExampleSentence(element) {
   if (idx < 0) return null;
   const END = /[.!?…]["”“’')\u05F4]*$/;
   const sents = [];
-  let cur = [], target = -1, hasTarget = false;
+  let cur = [], pos = -1, target = -1, hasTarget = false;
+  const close = () => {
+    sents.push({ html: cur.join(' '), count: cur.length, pos: hasTarget ? pos : -1 });
+    if (hasTarget && target < 0) target = sents.length - 1;
+    cur = []; hasTarget = false; pos = -1;
+  };
   words.forEach((w, i) => {
     const t = w.textContent.trim();
     if (!t) return;
+    if (i === idx) { hasTarget = true; pos = cur.length; }
     cur.push(i === idx ? '<mark>' + escapeHtml(t) + '</mark>' : escapeHtml(t));
-    if (i === idx) hasTarget = true;
-    if (END.test(t)) { sents.push(cur.join(' ')); if (hasTarget && target < 0) target = sents.length - 1; cur = []; hasTarget = false; }
+    if (END.test(t)) close();
   });
-  if (cur.length) { sents.push(cur.join(' ')); if (hasTarget && target < 0) target = sents.length - 1; }
+  if (cur.length) close();
   if (target < 0) return null;
   const enS = splitSentences(para.dataset.en || '');
-  const en = enS.length === sents.length ? enS[target] : '';
-  return '<div class="wt-ex-label">In this sentence</div><div class="wt-ex-he" dir="rtl">' + sents[target] + '</div>' + (en ? '<div class="wt-ex-en">' + escapeHtml(en) + '</div>' : '');
+  const t = sents[target];
+  return { he: t.html, en: enS.length === sents.length ? enS[target] : '', pos: t.count > 1 ? t.pos / (t.count - 1) : 0 };
+}
+
+// Which English word is the tapped Hebrew word? Match the meaning we are showing ("says (f.)", "to promise",
+// "mom") against the words of the English sentence, ignoring endings (says / said / saying). If nothing matches
+// with confidence we highlight nothing rather than point at the wrong word.
+const EN_IRREG = { said: 'say', went: 'go', gone: 'go', came: 'come', took: 'take', gave: 'give', made: 'make', saw: 'see', thought: 'think', told: 'tell', felt: 'feel', found: 'find', knew: 'know', got: 'get', left: 'leave', kept: 'keep', brought: 'bring', sat: 'sit', stood: 'stand', ate: 'eat', wrote: 'write', began: 'begin', ran: 'run', bought: 'buy', heard: 'hear', held: 'hold', met: 'meet', paid: 'pay', lost: 'lose', spoke: 'speak', understood: 'understand', woke: 'wake', wore: 'wear', fell: 'fall', drove: 'drive', chose: 'choose', slept: 'sleep', sent: 'send', built: 'build', won: 'win', taught: 'teach', caught: 'catch', hung: 'hang', laughed: 'laugh', was: 'be', were: 'be', is: 'be', are: 'be', am: 'be', been: 'be', has: 'have', had: 'have', does: 'do', did: 'do', done: 'do', children: 'child', people: 'person', men: 'man', women: 'woman', better: 'good', best: 'good' };
+function enStem(w) {
+  w = w.toLowerCase().replace(/[^a-z']/g, '').replace(/'s$/, '');
+  if (EN_IRREG[w]) return EN_IRREG[w];
+  if (w.length <= 3) return w;
+  if (/ies$/.test(w)) return w.slice(0, -3) + 'y';
+  if (/(ches|shes|sses|xes|zes)$/.test(w)) return w.slice(0, -2);
+  if (/ied$/.test(w)) return w.slice(0, -3) + 'y';
+  if (/ing$/.test(w) && w.length >= 5) { let b = w.slice(0, -3); if (/(.)\1$/.test(b)) b = b.slice(0, -1); if (/[aeiouy]/.test(b)) return b; }
+  if (/ed$/.test(w) && w.length > 4) { const b = w.slice(0, -2); return /(.)\1$/.test(b) ? b.slice(0, -1) : b; }
+  if (/s$/.test(w) && !/ss$/.test(w)) return w.slice(0, -1);
+  return w;
+}
+function markEnglishMatch(en, meaning, pos) {
+  if (!en) return '';
+  const toks = [];
+  en.replace(/[A-Za-z][A-Za-z']*/g, (m, off) => { toks.push({ w: m, s: off, e: off + m.length, k: enStem(m) }); return m; });
+  const cands = (meaning || '').toLowerCase().replace(/\([^)]*\)/g, ' ').split(/[\/,;·]|\bor\b/).map((x) => x.trim().replace(/^(to|the|a|an|my|your|his|her|our|their)\s+/, '').trim()).filter(Boolean)
+    .map((x) => x.split(/\s+/).map(enStem).filter(Boolean)).filter((x) => x.length && x.length <= 3 && x.join('').length >= 2);
+  const STOP = new Set(['be', 'do', 'it', 'of', 'in', 'on', 'at', 'to', 'the', 'a', 'an']);
+  const hits = [];
+  for (const c of cands) {
+    if (c.length === 1 && STOP.has(c[0])) continue;
+    for (let i = 0; i + c.length <= toks.length; i++) {
+      if (c.every((k, j) => toks[i + j].k === k)) hits.push({ a: toks[i].s, b: toks[i + c.length - 1].e, r: toks.length > 1 ? i / (toks.length - 1) : 0 });
+    }
+    if (hits.length) break;
+  }
+  if (!hits.length) return escapeHtml(en);
+  hits.sort((x, y) => Math.abs(x.r - pos) - Math.abs(y.r - pos));
+  const h = hits[0];
+  return escapeHtml(en.slice(0, h.a)) + '<mark>' + escapeHtml(en.slice(h.a, h.b)) + '</mark>' + escapeHtml(en.slice(h.b));
+}
+function buildExampleHtml(ex, meaning) {
+  return '<div class="wt-ex-label">In this sentence</div><div class="wt-ex-he" dir="rtl">' + ex.he + '</div>' + (ex.en ? '<div class="wt-ex-en">' + markEnglishMatch(ex.en, meaning, ex.pos) + '</div>' : '');
 }
 
 // Get surrounding Hebrew words from the parent paragraph for context
@@ -6962,7 +7007,7 @@ function renderTooltipContent(tooltip, word, nikudWord, translit, meaning, sente
     html += `<div class="wt-loading"><span class="loading-dot"></span><span class="loading-dot"></span><span class="loading-dot"></span></div>`;
   }
   if (sentenceTranslation) {
-    html += `<div class="wt-sentence-ctx">${sentenceTranslation}</div>`;
+    html += `<div class="wt-sentence-ctx">${typeof sentenceTranslation === 'object' ? buildExampleHtml(sentenceTranslation, meaning) : sentenceTranslation}</div>`;
   }
   if (hasTTS) {
     html += `<button class="wt-speak"><span class="wt-speak-icon">🔊</span> Play again</button>`;
