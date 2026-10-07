@@ -1056,8 +1056,7 @@
   .zoom-content, .zoom-content * { opacity: 1 !important; }
   .zoom-content .page-text,
   .zoom-content .page-text p { color: var(--ink) !important; }
-  .zoom-content .chapter-title { color: var(--red-deep) !important; }
-  .zoom-content .chapter-num { color: var(--ink-soft) !important; }
+  /* chapter label and title keep their normal colours in the zoom view (the old overrides turned the white-on-blue label grey) */
 
   .zoom-close {
     position: absolute;
@@ -1466,6 +1465,15 @@ body::before{display:none}
  .header{padding:6px 12px}.header-subtitle{display:none}
 }
 
+.word-tooltip{overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+/* new-version check */
+.hfz-upd{max-width:1120px;margin:1.6rem auto 0;display:flex;align-items:center;gap:.8rem;flex-wrap:wrap}
+.hfz-upd-btn{font-family:'Nunito',sans-serif;font-weight:800;font-size:.85rem;color:#1A5EA8;background:rgba(255,255,255,.7);border:2px solid #1A5EA8;border-radius:100px;padding:.5rem 1.1rem;cursor:pointer;transition:background .15s,transform .15s}
+.hfz-upd-btn:hover:not(:disabled){background:#fff;transform:translateY(-1px)}
+.hfz-upd-btn:disabled{opacity:.6;cursor:default}
+.hfz-upd-msg{font-weight:800;font-size:.85rem;color:#0f3f7a}
+.upd-toast{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);z-index:500;display:flex;align-items:center;gap:12px;background:#1A5EA8;color:#fff;font-family:'Nunito',sans-serif;font-weight:800;font-size:.9rem;padding:10px 12px 10px 18px;border-radius:100px;box-shadow:0 12px 30px rgba(15,63,122,.35);max-width:calc(100vw - 24px)}
+.upd-toast button{font-family:inherit;font-weight:900;font-size:.85rem;color:#1A5EA8;background:#FED009;border:0;border-radius:100px;padding:8px 16px;cursor:pointer}
 </style>
 </head>
 <body>
@@ -1492,6 +1500,7 @@ body::before{display:none}
 <div><h4>Hebrew From Zero</h4><a href="https://learnhebrewfromzero.com/#contact">Book my 25-minute intro</a><a href="https://learnhebrewfromzero.com/#pricing">Pricing</a><a href="https://learnhebrewfromzero.com/guide">Free guide</a></div>
 <div><h4>Free tools</h4><a href="https://storybook.learnhebrewfromzero.com/">Hebrew Storybook</a><a href="https://readhebrewnews.com/">Read Hebrew News</a><a href="https://olimhelp.readhebrewnews.com/">OlimHelp</a></div>
 <div><h4>Help</h4><a href="mailto:hebrewfromzeroacademy@gmail.com">Contact</a><a href="https://learnhebrewfromzero.com/privacy">Privacy Policy</a><a href="https://learnhebrewfromzero.com/refund">Refund Policy</a></div></div>
+<div class="hfz-upd"><button type="button" class="hfz-upd-btn" id="updBtn">Check for a new version</button><span class="hfz-upd-msg" id="updMsg" role="status" aria-live="polite"></span></div>
 <div class="hfz-copy">&copy; 2026 Hebrew From Zero. All rights reserved.</div></footer>
 </div>
 
@@ -7021,14 +7030,21 @@ function renderTooltipContent(tooltip, word, nikudWord, translit, meaning, sente
 }
 
 function positionTooltip(tooltip, element) {
+  // Measure the popup instead of guessing its height, and keep it inside the visible screen. When the
+  // reader has zoomed in (200 to 300 percent) the visible area is shorter than the popup, so the popup
+  // scrolls inside itself and the Play again button can still be reached.
   const rect = element.getBoundingClientRect();
-  const tooltipWidth = 270;
-  const tooltipHeight = 340;
-  let top = rect.bottom + 10;
-  if (top + tooltipHeight > window.innerHeight - 20) top = rect.top - tooltipHeight - 10;
-  if (top < 10) top = 10;
-  let left = rect.left + rect.width / 2 - tooltipWidth / 2;
-  left = Math.max(10, Math.min(left, window.innerWidth - tooltipWidth - 10));
+  const pad = 10, vw = window.innerWidth, vh = window.innerHeight;
+  const width = Math.min(275, vw - 2 * pad);
+  tooltip.style.width = width + 'px';
+  tooltip.style.maxHeight = (vh - 2 * pad) + 'px';
+  tooltip.style.overflowY = 'auto';
+  const h = Math.min(tooltip.offsetHeight || 340, vh - 2 * pad);
+  let top = rect.bottom + pad;
+  if (top + h > vh - pad) top = rect.top - h - pad;
+  if (top < pad) top = Math.max(pad, Math.min(rect.bottom + pad, vh - h - pad));
+  let left = rect.left + rect.width / 2 - width / 2;
+  left = Math.max(pad, Math.min(left, vw - width - pad));
   tooltip.style.top = top + 'px';
   tooltip.style.left = left + 'px';
 }
@@ -7072,6 +7088,7 @@ async function showWordTooltip(word, element) {
     if (tooltip.classList.contains('active') && tooltip.dataset.word === word) {
       const finalTranslit = nikudResult ? (STORY_TRANSLIT[nikudResult] || transliterateNikud(nikudResult)) : transliterate(cleanWord);
       renderTooltipContent(tooltip, word, nikudResult, finalTranslit, meaningResult || '—', sentenceResult, hasTTS);
+      positionTooltip(tooltip, element);
     }
   }
 }
@@ -7292,6 +7309,60 @@ if (window.matchMedia('(max-width: 900px)').matches) {
 
 <script>
 (function(){var mv=document.getElementById('menuView'),bar=document.getElementById('hfzBar');if(!mv||!bar)return;function f(){bar.classList.toggle('scrolled',mv.scrollTop>8)}mv.addEventListener('scroll',f,{passive:true});f()})();
+
+// ============================================
+// NEW-VERSION CHECK
+// A tab (or a Home Screen shortcut) that has been open for days keeps running the page it first loaded, so a
+// reader can be on an old version while everyone else is on the new one. /version gives a fingerprint of the
+// deployed page: we note it on load, look again when the reader comes back to the tab, and offer a refresh
+// if it changed. The button at the bottom of the story list does the same check on demand.
+// ============================================
+(function () {
+  let baseline = null, lastCheck = 0, toast = null;
+  async function fetchVersion() {
+    const r = await fetch('/version?_=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) throw new Error('version ' + r.status);
+    const v = (await r.json()).v;
+    if (!v) throw new Error('no version');
+    return v;
+  }
+  fetchVersion().then((v) => { baseline = v; }).catch(() => {});
+
+  // 'new' | 'same' | 'unknown' (could not compare) | 'error'
+  async function check() {
+    lastCheck = Date.now();
+    try {
+      const v = await fetchVersion();
+      if (baseline === null) { baseline = v; return 'unknown'; }
+      return v !== baseline ? 'new' : 'same';
+    } catch (e) { return 'error'; }
+  }
+
+  function showToast() {
+    if (toast) return;
+    toast = document.createElement('div');
+    toast.className = 'upd-toast';
+    toast.setAttribute('role', 'status');
+    toast.innerHTML = '<span>A new version is available</span><button type="button">Refresh</button>';
+    toast.querySelector('button').addEventListener('click', () => location.reload());
+    document.body.appendChild(toast);
+  }
+
+  document.addEventListener('visibilitychange', async () => {
+    if (document.visibilityState !== 'visible' || Date.now() - lastCheck < 10 * 60 * 1000) return;
+    if (await check() === 'new') showToast();
+  });
+
+  const btn = document.getElementById('updBtn'), msg = document.getElementById('updMsg');
+  if (btn) btn.addEventListener('click', async () => {
+    btn.disabled = true; msg.textContent = 'Checking…';
+    const r = await check();
+    if (r === 'new' || r === 'unknown') { msg.textContent = r === 'new' ? 'New version found. Refreshing…' : 'Refreshing…'; setTimeout(() => location.reload(), 700); return; }
+    msg.textContent = r === 'same' ? "You're up to date ✓" : "Couldn't check. Please check your connection.";
+    btn.disabled = false;
+    setTimeout(() => { if (msg.textContent !== 'Checking…') msg.textContent = ''; }, 6000);
+  });
+})();
 </script>
 </body>
 </html>
