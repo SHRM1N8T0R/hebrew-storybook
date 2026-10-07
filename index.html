@@ -1467,8 +1467,10 @@ body::before{display:none}
 
 .word-tooltip{overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
 /* new-version check */
-.hfz-upd{max-width:1120px;margin:1.6rem auto 0;display:flex;align-items:center;gap:.8rem;flex-wrap:wrap}
-.hfz-upd-btn{font-family:'Nunito',sans-serif;font-weight:800;font-size:.85rem;color:#1A5EA8;background:rgba(255,255,255,.7);border:2px solid #1A5EA8;border-radius:100px;padding:.5rem 1.1rem;cursor:pointer;transition:background .15s,transform .15s}
+.hfz-upd{max-width:1120px;margin:0 auto;display:flex;align-items:center;gap:.8rem;flex-wrap:wrap}
+.hfz-upd-top{justify-content:flex-end;padding:.7rem 1.2rem 0}
+@media (max-width:600px){.hfz-upd-top{justify-content:center;padding:.6rem .8rem 0}}
+.hfz-upd-btn{font-family:'Nunito',sans-serif;font-weight:800;font-size:.8rem;color:#1A5EA8;background:#fff;border:2px solid #cfe0f3;border-radius:100px;padding:.4rem .95rem;cursor:pointer;transition:background .15s,transform .15s}
 .hfz-upd-btn:hover:not(:disabled){background:#fff;transform:translateY(-1px)}
 .hfz-upd-btn:disabled{opacity:.6;cursor:default}
 .hfz-upd-msg{font-weight:800;font-size:.85rem;color:#0f3f7a}
@@ -1481,6 +1483,7 @@ body::before{display:none}
 <!-- ============== MAIN MENU ============== -->
 <div class="menu-view" id="menuView">
 <div class="hfz-bar" id="hfzBar"><a class="hfz-logo" href="https://learnhebrewfromzero.com/" aria-label="Hebrew From Zero"></a><nav><a href="https://learnhebrewfromzero.com/#about">About</a><a href="https://learnhebrewfromzero.com/free-tools" class="on">Free tools</a><a href="https://readhebrewnews.com/">Read Hebrew News</a><a class="hfz-cta" href="https://learnhebrewfromzero.com/#contact">Book my 25-minute intro</a></nav></div>
+<div class="hfz-upd hfz-upd-top"><button type="button" class="hfz-upd-btn" id="updBtn"><span aria-hidden="true">&#8635;</span> Check for a new version</button><span class="hfz-upd-msg" id="updMsg" role="status" aria-live="polite"></span></div>
 <div class="menu-header">
 <span class="hfz-pill">Free Hebrew tool</span>
 <h1 class="menu-title"><span class="u">סיפורים</span> בעברית</h1>
@@ -1500,7 +1503,6 @@ body::before{display:none}
 <div><h4>Hebrew From Zero</h4><a href="https://learnhebrewfromzero.com/#contact">Book my 25-minute intro</a><a href="https://learnhebrewfromzero.com/#pricing">Pricing</a><a href="https://learnhebrewfromzero.com/guide">Free guide</a></div>
 <div><h4>Free tools</h4><a href="https://storybook.learnhebrewfromzero.com/">Hebrew Storybook</a><a href="https://readhebrewnews.com/">Read Hebrew News</a><a href="https://olimhelp.readhebrewnews.com/">OlimHelp</a></div>
 <div><h4>Help</h4><a href="mailto:hebrewfromzeroacademy@gmail.com">Contact</a><a href="https://learnhebrewfromzero.com/privacy">Privacy Policy</a><a href="https://learnhebrewfromzero.com/refund">Refund Policy</a></div></div>
-<div class="hfz-upd"><button type="button" class="hfz-upd-btn" id="updBtn">Check for a new version</button><span class="hfz-upd-msg" id="updMsg" role="status" aria-live="polite"></span></div>
 <div class="hfz-copy">&copy; 2026 Hebrew From Zero. All rights reserved.</div></footer>
 </div>
 
