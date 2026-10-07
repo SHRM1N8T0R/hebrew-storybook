@@ -1466,6 +1466,8 @@ body::before{display:none}
 }
 
 .word-tooltip{overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+.wt-conj{display:block;direction:ltr;text-align:center;margin-top:10px;font-family:'Nunito',sans-serif;font-weight:800;font-size:.82rem;color:#1A5EA8;text-decoration:none;border-bottom:2px solid #FED009;width:fit-content;margin-left:auto;margin-right:auto;padding-bottom:1px}
+.wt-conj:hover{color:#144a8a}
 /* new-version check */
 .hfz-upd{max-width:1120px;margin:0 auto;display:flex;align-items:center;gap:.8rem;flex-wrap:wrap}
 .hfz-upd-top{justify-content:flex-end;padding:.7rem 1.2rem 0}
@@ -7022,6 +7024,11 @@ function renderTooltipContent(tooltip, word, nikudWord, translit, meaning, sente
   }
   if (hasTTS) {
     html += `<button class="wt-speak"><span class="wt-speak-icon">🔊</span> Play again</button>`;
+    // An infinitive (starts with ל, meaning starts with 'to'): offer the full conjugation table on Pealim
+    const bareWord = cleanHebrew(word);
+    if (/^ל/.test(bareWord) && /^to\s/i.test(meaning || '')) {
+      html += `<a class="wt-conj" href="https://www.pealim.com/search/?q=${encodeURIComponent(bareWord)}" target="_blank" rel="noopener noreferrer">All forms of this verb on Pealim <span aria-hidden="true">&rsaquo;</span></a>`;
+    }
   } else {
     html += `<div class="wt-no-tts">Audio not available in this browser</div>`;
   }
