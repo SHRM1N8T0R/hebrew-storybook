@@ -1466,8 +1466,9 @@ body::before{display:none}
 }
 
 .word-tooltip{overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
-.wt-conj{display:block;direction:ltr;text-align:center;margin-top:10px;font-family:'Nunito',sans-serif;font-weight:800;font-size:.82rem;color:#1A5EA8;text-decoration:none;border-bottom:2px solid #FED009;width:fit-content;margin-left:auto;margin-right:auto;padding-bottom:1px}
+.wt-conj{display:block;direction:ltr;text-align:center;margin-top:8px;margin-bottom:6px;font-family:'Nunito',sans-serif;font-weight:800;font-size:.82rem;color:#1A5EA8;text-decoration:none;border-bottom:2px solid #FED009;width:fit-content;margin-left:auto;margin-right:auto;padding-bottom:1px}
 .wt-conj:hover{color:#144a8a}
+.wt-conj-soft{margin-top:2px;margin-bottom:12px;font-weight:700;border-bottom-color:#cfe0f3}
 /* new-version check */
 .hfz-upd{max-width:1120px;margin:0 auto;display:flex;align-items:center;gap:.8rem;flex-wrap:wrap}
 .hfz-upd-top{justify-content:flex-end;padding:.7rem 1.2rem 0}
@@ -1492,7 +1493,7 @@ body::before{display:none}
 <div class="menu-subtitle">Modern Hebrew stories for learners</div>
 <div class="menu-divider"></div>
 <p class="menu-description">Read short stories, tap any word to hear it and see what it means, and follow along with the vocabulary for each page.</p>
-<div class="hfz-chips"><span>Tap any word to hear it</span><span>Vocabulary for every page</span><span>Full English translation</span><span>Verb tables on Pealim</span></div>
+<div class="hfz-chips"><span>Tap any word to hear it</span><span>Vocabulary for every page</span><span>Full English translation</span><span>Verb tables on Pealim</span><span>Real examples on Reverso</span></div>
 <svg class="hfz-wave" viewBox="0 0 1280 170" preserveAspectRatio="none" aria-hidden="true" focusable="false"><defs><linearGradient id="hwgS" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#FFDF6B"/><stop offset="1" stop-color="#FFC42E"/></linearGradient></defs><path d="M0 92 C200 36 420 36 660 78 C880 116 1040 96 1280 14 L1280 170 L0 170 Z" fill="url(#hwgS)"/></svg>
 </div>
 
@@ -7005,6 +7006,8 @@ function ensureTooltip() {
   return wordTooltip;
 }
 
+const NO_LOOKUP = new Set('את של על לא כי אם עד אל אף גם עם הוא היא הם הן אני אתה אתם אנחנו זה זאת אלה לו לה לנו להם לי לך שלו שלה אבל או רק כבר עוד כל כמו בין אין יש מי מה אז כן כך פה שם'.split(' '));
+
 function renderTooltipContent(tooltip, word, nikudWord, translit, meaning, sentenceTranslation, hasTTS) {
   tooltip.dataset.word = word;
   const displayHebrew = nikudWord || word;
@@ -7014,21 +7017,27 @@ function renderTooltipContent(tooltip, word, nikudWord, translit, meaning, sente
   if (!nikudWord) html += ` <span class="wt-nikud-loading"><span class="loading-dot"></span><span class="loading-dot"></span></span>`;
   html += `</div>`;
   html += `<div class="wt-english-label">Meaning</div>`;
+  // Function words (of, to, he, not...) have nothing to look up; every other word gets a Pealim link, and Pealim's search
+  // finds the verb or noun from any form, with or without a prefix.
+  const bareWord = cleanHebrew(word);
+  const lookable = bareWord.length >= 3 && !NO_LOOKUP.has(bareWord);
   if (meaning) {
     html += `<div class="wt-english">${meaning}</div>`;
+    if (lookable) {
+      const isVerb = /^to\s/i.test(meaning);
+      html += `<a class="wt-conj" href="https://www.pealim.com/search/?q=${encodeURIComponent(bareWord)}" target="_blank" rel="noopener noreferrer">${isVerb ? 'All forms of this verb on Pealim' : 'Look this word up on Pealim'} <span aria-hidden="true">&rsaquo;</span></a>`;
+    }
   } else {
     html += `<div class="wt-loading"><span class="loading-dot"></span><span class="loading-dot"></span><span class="loading-dot"></span></div>`;
   }
   if (sentenceTranslation) {
     html += `<div class="wt-sentence-ctx">${typeof sentenceTranslation === 'object' ? buildExampleHtml(sentenceTranslation, meaning) : sentenceTranslation}</div>`;
   }
+  if (lookable) {
+    html += `<a class="wt-conj wt-conj-soft" href="https://context.reverso.net/translation/hebrew-english/${encodeURIComponent(bareWord)}" target="_blank" rel="noopener noreferrer">More examples on Reverso Context <span aria-hidden="true">&rsaquo;</span></a>`;
+  }
   if (hasTTS) {
     html += `<button class="wt-speak"><span class="wt-speak-icon">🔊</span> Play again</button>`;
-    // An infinitive (starts with ל, meaning starts with 'to'): offer the full conjugation table on Pealim
-    const bareWord = cleanHebrew(word);
-    if (/^ל/.test(bareWord) && /^to\s/i.test(meaning || '')) {
-      html += `<a class="wt-conj" href="https://www.pealim.com/search/?q=${encodeURIComponent(bareWord)}" target="_blank" rel="noopener noreferrer">All forms of this verb on Pealim <span aria-hidden="true">&rsaquo;</span></a>`;
-    }
   } else {
     html += `<div class="wt-no-tts">Audio not available in this browser</div>`;
   }
